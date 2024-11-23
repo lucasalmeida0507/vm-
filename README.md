@@ -35,43 +35,38 @@
             target="_blank">Manutenções Programadas</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://www.linkedin.com/home" target="_blank">SIGOM</a>
+          <a class="nav-link" href="http://sigom-l8e9.grupoccr.com.br/" target="_blank">SIGOM</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://www.linkedin.com/home" target="_blank">Portal mobilidade</a>
+          <a class="nav-link" href="https://portalmobilidade.grupoccr.com.br/operacional/engenharia.asp"
+            target="_blank">Portal mobilidade</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://www.linkedin.com/home" target="_blank">Meu RH</a>
+          <a class="nav-link" href="https://meurh.grupoccr.com.br/FrameHTML/web/app/RH/PortalMeuRH/#/login"
+            target="_blank">Meu RH</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://www.linkedin.com/home" target="_blank">Docnix</a>
+          <a class="nav-link" href="https://docnix.grupoccr.com.br/mobilidadesp/corporate/index.html#/login"
+            target="_blank">Docnix</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://www.linkedin.com/home" target="_blank">SGAT</a>
+          <a class="nav-link" href="https://grupoccr.sharepoint.com/sites/SGAT/VML89/Lists/RegistroAcesso/Saida.aspx"
+            target="_blank">SGAT</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://www.linkedin.com/home" target="_blank">HCM</a>
+          <a class="nav-link"
+            href="https://login-eolm-saasfaprod1.fa.ocs.oraclecloud.com/oam/server/obrareq.cgi?encquery%3DoMGttiCmPyhgEHy5%2FPEpm6iiLHiEmr3rUctlivOaZ9H%2FwNiE%2B1qcbSfPDM5tLVVldZFH9yEBmm5nw5joQueXCmdbq%2BJI9sZ1p5OWEXkArjhqKq4Pdrpy9y1GGA4uGqrfJ84INMGKSlL7YYd6IrnzxX66VrzFDqQJb3VAvIAiHidcQQlOyZJi7r8ETLac4Fam6lC6QrOI%2FdYtpDpPTiWYSLZwOp3su6ZhD8p4rgmC3LwpnuEySwLG0KEzOzyaXMM5UFqUanKpj8hCiY%2BRKktkTxRSOSKG0fCvxlLCdR%2Buj6VmM1UZNxYgRKvVX9d3FtMg5c8Q3JekKmGU1dxhO2Jn4md0Aeh5bdXmTDNIsjs%2F%2FG3gPJbHk1%2B4RaXeYlISo%2Fa0hJ6jUAsSuPPkZBKW1HPPdDuMRljub4OJeTHY3Od%2FBm%2Fceok8R%2Btd73hy9Wf0PWgHFOgpQSpQ5jMtUmtMk2JCSLWkcq1cgxF8RWezBeKpxzB0H4aaEDuLhWizw8nI7Ie7pTw9uQHtSVnT1ZRNqmsCBa2YG%2BeTQg4xM5TJqc9pf%2FpmR907vr%2F8GJcCE%2FD7eqfpBNJEsa%2FJwlOfGsZnHeD8oqpEDiT0agAScIwLbjM781d74GWaZFjEiJ%2FmJ%2FoowfJn8PtE0kOGZdt8GS31MXt58Teb3k%2FxBfY%2Bj86CJpW7i2C4EW7ksechg%2BxAOXl6SYEbaH8rcQhAJTalsLkwg2MjvIKUt%2FNC7L3WiBaoE89ADurbW73iHoTCtYbPG2sebjQBKAX25XIJgqx5KCqpHPaZzYm67pxc%2BrtvnxfM8SPB33YqkuBSPEcHJqXpuI9KNmPxXzVjSKBZ8hpoWW7XLIjNK1QNzPCyOwzym2RANh7p%2BlTZ%2BVaMceIMFLD10Y%2FomUO6aJ2QnKrKr21Najv9nhnn3LaVLedcKYdllbtgIgPLUlTI%2Bjw87P6mDowpLm6W2KzJmWx3NZpX3haqFDEHopKX3gYvRFjqGJiIJ5yJP1KOv8KETuZtiFysF1UPPtnJWGsWd9DyecxYNo3BznrX7Tdb7VROGekKEacckOci9DKoqESiOXpb3Q4XrYC4%2BRKD5mNoUNuwsfSvMwyNMrmw9%2F2RyhQ0x3ZkxJXiUAA2sj852Ztvwwjhh22uTZYlu%2Ba%2BRptELWSDGP3Umjf94sow%2FOZJsBKnemHEHPugO7WZtN5Iaw9PGoIjZICSZePP%2Ftc6aFhpfyBPG3G3%2F5%2FoJ8oSpryzeTuE0YahRUpDuJVQ%2B12CRbFCgEUKed4O2KStHkYY7VDuz0FGqInHEGK7j4gvy%2FjlKTSejYMUsDcb7nMbu4DVhqP6eV6qgUlbbSKS3Sj9zOV3ZXHgR633ciF6IzVkOoqTB2yGIrPOoyU9OBsrW780gzoAG4nyxXK5swKan1ZrUFJ%2BAiiOvY2kQVAJBOYHBCfDwj6Jk4qQ4sOijWmfbpNP7K4axmzDMgthEC2S4uXRaZ81JoyuCmvX1rf0xfbskqTuDD%2FeomIg2L6Ifwg8ZVCnXnpVn45IoNnoFgGIycodDpJQw%2B%2FuAkg%2FyDcrMHsrMc1UPx%2FinFLHn3Gt9meBWF7%2FFtNBURfouOVwTYoeAoLgpjn%2BvpyFicUDaoknXdjKKvA7brL4RMqs40DL05qcgZnvcsNlfkBSENmtoMYNrcu7fsStekmNE%2F1ahpLPlDj%2Fq5h6hA%3D%3D%20agentid%3DOraFusionApp_11AG%20ver%3D1%20crmethod%3D2%26cksum%3D6ced9c91fe02bbd0429dbb774f1e8ba6967d126e&ECID-Context=1.0069slsK9kN4mnM6yNnZ6G00EiGz0000do%3BkXjE"
+            target="_blank">HCM</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://www.linkedin.com/home" target="_blank">PogoForms</a>
+          <a class="nav-link" href="http://10.176.4.131:1444/Prints/Videowall%20Linha%209.html"
+            target="_blank">VideoWall</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://www.linkedin.com/home" target="_blank">VideoWall</a>
+          <a class="nav-link" href="https://outlook.office.com/mail/" target="_blank">Email</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://www.linkedin.com/home" target="_blank">Viva Engage</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="https://www.linkedin.com/home" target="_blank">Email</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="https://www.linkedin.com/home" target="_blank">Teams</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="https://www.linkedin.com/home" target="_blank">Gupy(vagas)</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="https://www.linkedin.com/home" target="_blank">LinkedIn</a>
+          <a class="nav-link" href="https://grupoccr.gupy.io/" target="_blank">Gupy(vagas)</a>
         </li>
         <li class="nav-item">
           <div class="btn-group" role="group">
@@ -81,19 +76,27 @@
             </button>
             <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
               <a class="dropdown-item" href="https://www.viaquatro.com.br/" target="_blank">Via quatro</a>
-              <a class="dropdown-item" href="https://www.viamobilidade.com.br/nos/linha-5-lilas" target="_blank">Viamobilidade linha 05</a>
-              <a class="dropdown-item" href="https://www.grupoccr.com.br/instituto-ccr/" target="_blank">Instituto CCR</a>
-              <a class="dropdown-item" href="https://aeroportos.grupoccr.com.br/?_gl=1*98si8r*_ga*MjAwMzk1MzExNC4xNzMyMTg5MzYy*_ga_S60HWZS024*MTczMjE4OTM2MS4xLjEuMTczMjE4OTM5Ny4yNC4wLjA." target="_blank">CCR Aeroportos</a>
-              <a class="dropdown-item" href="https://barcas.grupoccr.com.br/?_gl=1*14tw1xf*_ga*MjAwMzk1MzExNC4xNzMyMTg5MzYy*_ga_S60HWZS024*MTczMjE4OTM2MS4xLjEuMTczMjE4OTUwMy41OS4wLjA." target="_blank">CCR Barcas</a>
+              <a class="dropdown-item" href="https://www.viamobilidade.com.br/nos/linha-5-lilas"
+                target="_blank">Viamobilidade linha 05</a>
+              <a class="dropdown-item" href="https://www.grupoccr.com.br/instituto-ccr/" target="_blank">Instituto
+                CCR</a>
+              <a class="dropdown-item"
+                href="https://aeroportos.grupoccr.com.br/?_gl=1*98si8r*_ga*MjAwMzk1MzExNC4xNzMyMTg5MzYy*_ga_S60HWZS024*MTczMjE4OTM2MS4xLjEuMTczMjE4OTM5Ny4yNC4wLjA."
+                target="_blank">CCR Aeroportos</a>
+              <a class="dropdown-item"
+                href="https://barcas.grupoccr.com.br/?_gl=1*14tw1xf*_ga*MjAwMzk1MzExNC4xNzMyMTg5MzYy*_ga_S60HWZS024*MTczMjE4OTM2MS4xLjEuMTczMjE4OTUwMy41OS4wLjA."
+                target="_blank">CCR Barcas</a>
               <a class="dropdown-item" href="https://www.ccrmetrobahia.com.br/" target="_blank">CCR Metrô Bahia</a>
-              <a class="dropdown-item" href="https://rodovias.grupoccr.com.br/?_gl=1*1ev6eyv*_ga*MjAwMzk1MzExNC4xNzMyMTg5MzYy*_ga_S60HWZS024*MTczMjE4OTM2MS4xLjAuMTczMjE4OTM2MS42MC4wLjA." target="_blank">CCR Rodovias</a>
+              <a class="dropdown-item"
+                href="https://rodovias.grupoccr.com.br/?_gl=1*1ev6eyv*_ga*MjAwMzk1MzExNC4xNzMyMTg5MzYy*_ga_S60HWZS024*MTczMjE4OTM2MS4xLjAuMTczMjE4OTM2MS42MC4wLjA."
+                target="_blank">CCR Rodovias</a>
               <a class="dropdown-item" href="https://www.vltrio.com.br/#/" target="_blank">VLT Carioca</a>
             </div>
           </div>
 
         </li>
       </ul>
-      
+
     </div>
   </nav>
 
@@ -573,8 +576,8 @@
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontbfu">
           Pontos de Referência
         </button>
-        <div class="modal fade" id="pontbfu" tabindex="-1" role="dialog"
-          aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+        <div class="modal fade" id="pontbfu" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado"
+          aria-hidden="true">
           <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content">
               <div class="modal-header">
@@ -739,8 +742,8 @@
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acesslab">
           Acessibilidade
         </button>
-        <div class="modal fade" id="acesslab" tabindex="-1" role="dialog"
-          aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+        <div class="modal fade" id="acesslab" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado"
+          aria-hidden="true">
           <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content">
               <div class="modal-header">
@@ -768,8 +771,8 @@
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontlab">
           Pontos de Referência
         </button>
-        <div class="modal fade" id="pontlab" tabindex="-1" role="dialog"
-          aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+        <div class="modal fade" id="pontlab" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado"
+          aria-hidden="true">
           <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content">
               <div class="modal-header">
@@ -1392,10 +1395,10 @@
               </div>
               <div class="modal-body">
                 <h5>Ramais</h5>
-                <p><strong>SSO:</strong> 80600 / 80601 / 80602</p>
-                <p><strong>Manutenção:</strong> 80603</p>
-                <p><strong>Supervisão:</strong> 80604</p>
-                <p><strong>Estação:</strong> 3927-4906</p>
+                <p><strong>SSO:</strong> 80600 ou 90200 / 80601 ou 90201 / 80602 ou 90202</p>
+                <p><strong>Manutenção:</strong> 80603 ou 90203</p>
+                <p><strong>Supervisão:</strong> 80604 ou 90204</p>
+                <p><strong>Estação:</strong> 3927-4906 ou 3927-4924</p>
                 <p><strong>Aferição:</strong> 91278-0320</p>
               </div>
               <div class="modal-footer">
@@ -1587,10 +1590,10 @@
               </div>
               <div class="modal-body">
                 <h5>Ramais</h5>
-                <p><strong>SSO:</strong> 80700 / 80701 / 80702</p>
-                <p><strong>Manutenção:</strong> 80703</p>
-                <p><strong>Supervisão:</strong> 80704</p>
-                <p><strong>Estação:</strong> 3927-4907</p>
+                <p><strong>SSO:</strong> 80700 ou 90100 / 80701 ou 90101 / 80702 ou 90102</p>
+                <p><strong>Manutenção:</strong> 80703 ou 90103</p>
+                <p><strong>Supervisão:</strong> 80704 ou 90104</p>
+                <p><strong>Estação:</strong> 3927-4907 ou 3927-4923</p>
                 <p><strong>Aferição:</strong> 91278-5755</p>
               </div>
               <div class="modal-footer">
@@ -2090,9 +2093,8 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="GMC" style="text-align: center;">GENERAL MIGUEL COSTA (GMC)</h1>
-      <p style="text-align: center;"><strong>Endereço:</strong> Avenida Auro Soares de Moura Andrade, 664 (Barra
-        Funda) / Rua da Várzea, s/nº (Várzea da Barra Funda) – São Paulo - SP
-        01156-001</p>
+      <p style="text-align: center;"><strong>Endereço:</strong> Avenida Autonomista, S/N° (KM 18) - Osasco - SP
+        06900-600</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -2285,9 +2287,8 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="CPB" style="text-align: center;">CARAPICUÍBA (CPB)</h1>
-      <p style="text-align: center;"><strong>Endereço:</strong> Avenida Auro Soares de Moura Andrade, 664 (Barra
-        Funda) / Rua da Várzea, s/nº (Várzea da Barra Funda) – São Paulo - SP
-        01156-001</p>
+      <p style="text-align: center;"><strong>Endereço:</strong> Rua Max Zandron, s/nº - Centro – Carapicuiba
+        06310-180</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -2480,9 +2481,9 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="STE" style="text-align: center;">SANTA TEREZINHA (STE)</h1>
-      <p style="text-align: center;"><strong>Endereço:</strong> Avenida Auro Soares de Moura Andrade, 664 (Barra
-        Funda) / Rua da Várzea, s/nº (Várzea da Barra Funda) – São Paulo - SP
-        01156-001</p>
+      <p style="text-align: center;"><strong>Endereço:</strong> Rua Dep. Emílio Carlos, 900 - Santa Terezinha –
+        Carapicuiba
+        06310-160</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -2675,9 +2676,9 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="AJO" style="text-align: center;">ANTONIO JOÃO (AJO)</h1>
-      <p style="text-align: center;"><strong>Endereço:</strong> Avenida Auro Soares de Moura Andrade, 664 (Barra
-        Funda) / Rua da Várzea, s/nº (Várzea da Barra Funda) – São Paulo - SP
-        01156-001</p>
+      <p style="text-align: center;"><strong>Endereço:</strong> Rua Acre, s/nº (Fazenda Militar-Aldeia) / Rua Gen. de
+        Divisa Pedro Rodrigues da Silva, s/nº - Nova Aldeinha - Barueri
+        06447-000</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -2870,9 +2871,8 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="BRU" style="text-align: center;">BARUERI (BRU)</h1>
-      <p style="text-align: center;"><strong>Endereço:</strong> Avenida Auro Soares de Moura Andrade, 664 (Barra
-        Funda) / Rua da Várzea, s/nº (Várzea da Barra Funda) – São Paulo - SP
-        01156-001</p>
+      <p style="text-align: center;"><strong>Endereço:</strong> Praça São João Batista, 30 – Centro – Barueri
+        06401-000</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -3065,13 +3065,9 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="JBE" style="text-align: center;">JARDIM BELVAL (JBE)</h1>
-      <p style="text-align: center;">A Estação Júlio Prestes é uma histórica estação ferroviária da cidade de São
-        Paulo
-        concluída em 1938, que está localizada no bairro dos Campos Elísios, no distrito de Santa Cecília,
-        região
-        central da cidade. Seu nome foi dado em homenagem ao ex-governador de São Paulo, e ex-presidente eleito
-        do
-        Brasil, Júlio Prestes.</p>
+      <p style="text-align: center;"><strong>Endereço:</strong> Avenida Grupo Bandeirantes, s/nº / Rua Interna Grupo
+        Bandeirantes, s/nº - Jardim Belval – Barueri
+        06401-070</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -3265,13 +3261,9 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="JSI" style="text-align: center;">JARDIM SILVEIRA (JSI)</h1>
-      <p style="text-align: center;">A Estação Júlio Prestes é uma histórica estação ferroviária da cidade de São
-        Paulo
-        concluída em 1938, que está localizada no bairro dos Campos Elísios, no distrito de Santa Cecília,
-        região
-        central da cidade. Seu nome foi dado em homenagem ao ex-governador de São Paulo, e ex-presidente eleito
-        do
-        Brasil, Júlio Prestes.</p>
+      <p style="text-align: center;"><strong>Endereço:</strong> Rua Fernão Dias Pais Leme, s/nº - Jardim Silveira -
+        Barueri
+        06433-190</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -3464,13 +3456,9 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="JDI" style="text-align: center;">JANDIRA (JDI)</h1>
-      <p style="text-align: center;">A Estação Júlio Prestes é uma histórica estação ferroviária da cidade de São
-        Paulo
-        concluída em 1938, que está localizada no bairro dos Campos Elísios, no distrito de Santa Cecília,
-        região
-        central da cidade. Seu nome foi dado em homenagem ao ex-governador de São Paulo, e ex-presidente eleito
-        do
-        Brasil, Júlio Prestes.</p>
+      <p style="text-align: center;"><strong>Endereço:</strong> Rua João Balhesteiro, 50 (Centro)/ Via de Acesso João
+        Góes S/N° (Jardim Alvorada) – Jandira
+        06600-000</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -3663,13 +3651,9 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="SCO" style="text-align: center;">SAGRADO CORAÇÃO (SCO)</h1>
-      <p style="text-align: center;">A Estação Júlio Prestes é uma histórica estação ferroviária da cidade de São
-        Paulo
-        concluída em 1938, que está localizada no bairro dos Campos Elísios, no distrito de Santa Cecília,
-        região
-        central da cidade. Seu nome foi dado em homenagem ao ex-governador de São Paulo, e ex-presidente eleito
-        do
-        Brasil, Júlio Prestes.</p>
+      <p style="text-align: center;"><strong>Endereço:</strong> Rua Francisco José Longo, 402 – Jardim Sagrado Coração –
+        Jandira
+        06600-000</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -3862,13 +3846,9 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="ECD" style="text-align: center;">ENGENHEIRO CARDOSO (ECD)</h1>
-      <p style="text-align: center;">A Estação Júlio Prestes é uma histórica estação ferroviária da cidade de São
-        Paulo
-        concluída em 1938, que está localizada no bairro dos Campos Elísios, no distrito de Santa Cecília,
-        região
-        central da cidade. Seu nome foi dado em homenagem ao ex-governador de São Paulo, e ex-presidente eleito
-        do
-        Brasil, Júlio Prestes.</p>
+      <p style="text-align: center;"><strong>Endereço:</strong> Rua Nelson Ferreira da Costa, s/nº (Jardim Vitápolis)/
+        Rua Projetada, s/nº (Jardim Portela) – Itapevi
+        06693-240</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -4061,13 +4041,9 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="IPV" style="text-align: center;">ITAPEVI (IPV)</h1>
-      <p style="text-align: center;">A Estação Júlio Prestes é uma histórica estação ferroviária da cidade de São
-        Paulo
-        concluída em 1938, que está localizada no bairro dos Campos Elísios, no distrito de Santa Cecília,
-        região
-        central da cidade. Seu nome foi dado em homenagem ao ex-governador de São Paulo, e ex-presidente eleito
-        do
-        Brasil, Júlio Prestes.</p>
+      <p style="text-align: center;"><strong>Endereço:</strong> Rua João Pires de Oliveira, 51 (Jardim Nova Itapevi)/
+        Av. Feres Nacif Chaluppe, S/N (Centro) – Itapevi
+        06693-240</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -4260,13 +4236,9 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="SRT" style="text-align: center;">SANTA RITA (SRT)</h1>
-      <p style="text-align: center;">A Estação Júlio Prestes é uma histórica estação ferroviária da cidade de São
-        Paulo
-        concluída em 1938, que está localizada no bairro dos Campos Elísios, no distrito de Santa Cecília,
-        região
-        central da cidade. Seu nome foi dado em homenagem ao ex-governador de São Paulo, e ex-presidente eleito
-        do
-        Brasil, Júlio Prestes.</p>
+      <p style="text-align: center;"><strong>Endereço:</strong> Rodovia Engenheiro Ren Benedito da Silva, 1850 – Santa
+        Rita – Itapevi
+        06695-210</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -4459,13 +4431,9 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="AMB" style="text-align: center;">AMBUITÁ (AMB)</h1>
-      <p style="text-align: center;">A Estação Júlio Prestes é uma histórica estação ferroviária da cidade de São
-        Paulo
-        concluída em 1938, que está localizada no bairro dos Campos Elísios, no distrito de Santa Cecília,
-        região
-        central da cidade. Seu nome foi dado em homenagem ao ex-governador de São Paulo, e ex-presidente eleito
-        do
-        Brasil, Júlio Prestes.</p>
+      <p style="text-align: center;">
+      <p style="text-align: center;"><strong>Endereço:</strong> R. Dr. José Alexandre Crosgnac, 1322 - Ambuitá, Itapevi
+        - SP, 06680-035</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -4658,13 +4626,8 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="ABU" style="text-align: center;">AMADOR BUENO (ABU)</h1>
-      <p style="text-align: center;">A Estação Júlio Prestes é uma histórica estação ferroviária da cidade de São
-        Paulo
-        concluída em 1938, que está localizada no bairro dos Campos Elísios, no distrito de Santa Cecília,
-        região
-        central da cidade. Seu nome foi dado em homenagem ao ex-governador de São Paulo, e ex-presidente eleito
-        do
-        Brasil, Júlio Prestes.</p>
+      <p style="text-align: center;"><strong>Endereço:</strong> Avenida Bambina Chaluppe, s/nº- Amador Bueno – Itapevi
+        06650-000</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -4859,13 +4822,8 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="CEA" style="text-align: center;">CEASA (CEA)</h1>
-      <p style="text-align: center;">A Estação Júlio Prestes é uma histórica estação ferroviária da cidade de São
-        Paulo
-        concluída em 1938, que está localizada no bairro dos Campos Elísios, no distrito de Santa Cecília,
-        região
-        central da cidade. Seu nome foi dado em homenagem ao ex-governador de São Paulo, e ex-presidente eleito
-        do
-        Brasil, Júlio Prestes.</p>
+      <p style="text-align: center;"><strong>Endereço: </strong> Avenida das Nações Unidas, 1.390 - Vila Leopoldina - São Paulo
+        05311-000</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -4944,11 +4902,11 @@
               </div>
               <div class="modal-body">
                 <h5>Ramais</h5>
-                <p><strong>SSO:</strong> 80200 / 80201 / 80202</p>
-                <p><strong>Supervisão:</strong> 80204</p>
-                <p><strong>Manutenção:</strong> 80203</p>
-                <p><strong>Estação:</strong> 3927-4902</p>
-                <p><strong>Aferição:</strong> 91278-2900</p>
+                <p><strong>SSO:</strong> 90300 / 90301 / 90302</p>
+                <p><strong>Manutenção:</strong> 90303</p>
+                <p><strong>Supervisão:</strong> 90304</p>                
+                <p><strong>Estação:</strong> 3927-4925</p>
+                <p><strong>Aferição:</strong> 91278-0839</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -5054,13 +5012,8 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="JAG" style="text-align: center;">VILLA LOBOS JAGUARÉ (JAG)</h1>
-      <p style="text-align: center;">A Estação Júlio Prestes é uma histórica estação ferroviária da cidade de São
-        Paulo
-        concluída em 1938, que está localizada no bairro dos Campos Elísios, no distrito de Santa Cecília,
-        região
-        central da cidade. Seu nome foi dado em homenagem ao ex-governador de São Paulo, e ex-presidente eleito
-        do
-        Brasil, Júlio Prestes.</p>
+      <p style="text-align: center;"><strong>Endereço: </strong> Avenida das Nações Unidas, 2.100 - Jaguaré - São Paulo
+        05477-000</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -5139,11 +5092,11 @@
               </div>
               <div class="modal-body">
                 <h5>Ramais</h5>
-                <p><strong>SSO:</strong> 80200 / 80201 / 80202</p>
-                <p><strong>Supervisão:</strong> 80204</p>
-                <p><strong>Manutenção:</strong> 80203</p>
-                <p><strong>Estação:</strong> 3927-4902</p>
-                <p><strong>Aferição:</strong> 91278-2900</p>
+                <p><strong>SSO:</strong> 90400 / 90401 / 90402</p>
+                <p><strong>Manutenção:</strong> 90403</p>
+                <p><strong>Supervisão:</strong> 90404</p>
+                <p><strong>Estação:</strong> 3927-4926</p>
+                <p><strong>Aferição:</strong> 91278-0599</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -5249,13 +5202,8 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="USP" style="text-align: center;">CIDADE UNIVERSITÁRIA (USP)</h1>
-      <p style="text-align: center;">A Estação Júlio Prestes é uma histórica estação ferroviária da cidade de São
-        Paulo
-        concluída em 1938, que está localizada no bairro dos Campos Elísios, no distrito de Santa Cecília,
-        região
-        central da cidade. Seu nome foi dado em homenagem ao ex-governador de São Paulo, e ex-presidente eleito
-        do
-        Brasil, Júlio Prestes.</p>
+      <p style="text-align: center;"><strong>Endereço: </strong> Avenida das Nações Unidas, 6.202 - Jardim Universidade Pinheiros - São Paulo
+        05477-000</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -5334,11 +5282,11 @@
               </div>
               <div class="modal-body">
                 <h5>Ramais</h5>
-                <p><strong>SSO:</strong> 80200 / 80201 / 80202</p>
-                <p><strong>Supervisão:</strong> 80204</p>
-                <p><strong>Manutenção:</strong> 80203</p>
-                <p><strong>Estação:</strong> 3927-4902</p>
-                <p><strong>Aferição:</strong> 91278-2900</p>
+                <p><strong>SSO:</strong> 90500 / 90501 / 90502</p>
+                <p><strong>Manutenção:</strong> 90503</p>
+                <p><strong>Supervisão:</strong> 90504</p>                
+                <p><strong>Estação:</strong> 3927-4927</p>
+                <p><strong>Aferição:</strong> 91278-1571</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -5444,13 +5392,8 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="PIN" style="text-align: center;">PINHEIROS (PIN)</h1>
-      <p style="text-align: center;">A Estação Júlio Prestes é uma histórica estação ferroviária da cidade de São
-        Paulo
-        concluída em 1938, que está localizada no bairro dos Campos Elísios, no distrito de Santa Cecília,
-        região
-        central da cidade. Seu nome foi dado em homenagem ao ex-governador de São Paulo, e ex-presidente eleito
-        do
-        Brasil, Júlio Prestes.</p>
+      <p style="text-align: center;"><strong>Endereço: </strong> Rua Capri, 145 - Pinheiros - São Paulo
+        05477-000</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -5529,11 +5472,11 @@
               </div>
               <div class="modal-body">
                 <h5>Ramais</h5>
-                <p><strong>SSO:</strong> 80200 / 80201 / 80202</p>
-                <p><strong>Supervisão:</strong> 80204</p>
-                <p><strong>Manutenção:</strong> 80203</p>
-                <p><strong>Estação:</strong> 3927-4902</p>
-                <p><strong>Aferição:</strong> 91278-2900</p>
+                <p><strong>SSO:</strong> 90600 / 90601 / 90602</p>
+                <p><strong>Manutenção:</strong> 90603</p>
+                <p><strong>Supervisão:</strong> 90604</p>                
+                <p><strong>Estação:</strong> 3927-4928</p>
+                <p><strong>Aferição:</strong> 91278-1173</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -5639,13 +5582,8 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="HBR" style="text-align: center;">HEBRAICA REBOUÇAS (HBR)</h1>
-      <p style="text-align: center;">A Estação Júlio Prestes é uma histórica estação ferroviária da cidade de São
-        Paulo
-        concluída em 1938, que está localizada no bairro dos Campos Elísios, no distrito de Santa Cecília,
-        região
-        central da cidade. Seu nome foi dado em homenagem ao ex-governador de São Paulo, e ex-presidente eleito
-        do
-        Brasil, Júlio Prestes.</p>
+      <p style="text-align: center;"><strong>Endereço: </strong> Rua Ofélia, 255 - Pinheiros - São Paulo
+        05423-110</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -5724,11 +5662,11 @@
               </div>
               <div class="modal-body">
                 <h5>Ramais</h5>
-                <p><strong>SSO:</strong> 80200 / 80201 / 80202</p>
-                <p><strong>Supervisão:</strong> 80204</p>
-                <p><strong>Manutenção:</strong> 80203</p>
-                <p><strong>Estação:</strong> 3927-4902</p>
-                <p><strong>Aferição:</strong> 91278-2900</p>
+                <p><strong>SSO:</strong> 90700 / 90701 / 90702</p>
+                <p><strong>Manutenção:</strong> 90703</p>
+                <p><strong>Supervisão:</strong> 90704</p>                
+                <p><strong>Estação:</strong> 3927-4929</p>
+                <p><strong>Aferição:</strong> 91278-1771</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -5834,13 +5772,8 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="CJD" style="text-align: center;">CIDADE JARDIM (CJD)</h1>
-      <p style="text-align: center;">A Estação Júlio Prestes é uma histórica estação ferroviária da cidade de São
-        Paulo
-        concluída em 1938, que está localizada no bairro dos Campos Elísios, no distrito de Santa Cecília,
-        região
-        central da cidade. Seu nome foi dado em homenagem ao ex-governador de São Paulo, e ex-presidente eleito
-        do
-        Brasil, Júlio Prestes.</p>
+      <p style="text-align: center;"><strong>Endereço: </strong> Rua Prof. Artur Ramos, 787 (Jardim Paulistano) / Rua Hungria, s/nº (Jardim Europa) – São Paulo
+        05477-000</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -5919,11 +5852,11 @@
               </div>
               <div class="modal-body">
                 <h5>Ramais</h5>
-                <p><strong>SSO:</strong> 80200 / 80201 / 80202</p>
-                <p><strong>Supervisão:</strong> 80204</p>
-                <p><strong>Manutenção:</strong> 80203</p>
-                <p><strong>Estação:</strong> 3927-4902</p>
-                <p><strong>Aferição:</strong> 91278-2900</p>
+                <p><strong>SSO:</strong> 90800 / 90801 / 90802</p>
+                <p><strong>Manutenção:</strong> 90803</p>
+                <p><strong>Supervisão:</strong> 90804</p>                
+                <p><strong>Estação:</strong> 3927-4930</p>
+                <p><strong>Aferição:</strong> 91278-1644</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -6029,13 +5962,8 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="VOL" style="text-align: center;">VILA OLÍMPIA (VOL)</h1>
-      <p style="text-align: center;">A Estação Júlio Prestes é uma histórica estação ferroviária da cidade de São
-        Paulo
-        concluída em 1938, que está localizada no bairro dos Campos Elísios, no distrito de Santa Cecília,
-        região
-        central da cidade. Seu nome foi dado em homenagem ao ex-governador de São Paulo, e ex-presidente eleito
-        do
-        Brasil, Júlio Prestes.</p>
+      <p style="text-align: center;"><strong>Endereço: </strong> Rua Guilherme Barbosa de Melo, nº 117 / Rua Joel Carlos Borges, 179 – Cidade Monções – São Paulo
+        04578-000</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -6114,11 +6042,11 @@
               </div>
               <div class="modal-body">
                 <h5>Ramais</h5>
-                <p><strong>SSO:</strong> 80200 / 80201 / 80202</p>
-                <p><strong>Supervisão:</strong> 80204</p>
-                <p><strong>Manutenção:</strong> 80203</p>
-                <p><strong>Estação:</strong> 3927-4902</p>
-                <p><strong>Aferição:</strong> 91278-2900</p>
+                <p><strong>SSO:</strong> 90900 / 90901 / 90902</p>
+                <p><strong>Manutenção:</strong> 90903</p>
+                <p><strong>Supervisão:</strong> 90904</p>                
+                <p><strong>Estação:</strong> 3927-4931</p>
+                <p><strong>Aferição:</strong> 91278-1527</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -6224,13 +6152,8 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="BRR" style="text-align: center;">BERRINI (BRR)</h1>
-      <p style="text-align: center;">A Estação Júlio Prestes é uma histórica estação ferroviária da cidade de São
-        Paulo
-        concluída em 1938, que está localizada no bairro dos Campos Elísios, no distrito de Santa Cecília,
-        região
-        central da cidade. Seu nome foi dado em homenagem ao ex-governador de São Paulo, e ex-presidente eleito
-        do
-        Brasil, Júlio Prestes.</p>
+      <p style="text-align: center;"><strong>Endereço: </strong> Rua Guilherme Barbosa de Melo, nº 117 / Rua Joel Carlos Borges, 179 – Cidade Monções – São Paulo
+        04578-000</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -6309,11 +6232,11 @@
               </div>
               <div class="modal-body">
                 <h5>Ramais</h5>
-                <p><strong>SSO:</strong> 80200 / 80201 / 80202</p>
-                <p><strong>Supervisão:</strong> 80204</p>
-                <p><strong>Manutenção:</strong> 80203</p>
-                <p><strong>Estação:</strong> 3927-4902</p>
-                <p><strong>Aferição:</strong> 91278-2900</p>
+                <p><strong>SSO:</strong> 91000 / 91001 / 91002</p>
+                <p><strong>Manutenção:</strong> 91003</p>
+                <p><strong>Supervisão:</strong> 91004</p>                
+                <p><strong>Estação:</strong> 3927-4932</p>
+                <p><strong>Aferição:</strong> 91278-7844</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -6419,13 +6342,8 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="MRB" style="text-align: center;">MORUMBI (MRB)</h1>
-      <p style="text-align: center;">A Estação Júlio Prestes é uma histórica estação ferroviária da cidade de São
-        Paulo
-        concluída em 1938, que está localizada no bairro dos Campos Elísios, no distrito de Santa Cecília,
-        região
-        central da cidade. Seu nome foi dado em homenagem ao ex-governador de São Paulo, e ex-presidente eleito
-        do
-        Brasil, Júlio Prestes.</p>
+      <p style="text-align: center;"><strong>Endereço: </strong> Avenida das Nações Unidas, 14.171 - Vila Gertrudes - São Paulo
+        04578-000</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -6504,11 +6422,11 @@
               </div>
               <div class="modal-body">
                 <h5>Ramais</h5>
-                <p><strong>SSO:</strong> 80200 / 80201 / 80202</p>
-                <p><strong>Supervisão:</strong> 80204</p>
-                <p><strong>Manutenção:</strong> 80203</p>
-                <p><strong>Estação:</strong> 3927-4902</p>
-                <p><strong>Aferição:</strong> 91278-2900</p>
+                <p><strong>SSO:</strong> 91100 / 91101 / 91102</p>
+                <p><strong>Manutenção:</strong> 91103</p>
+                <p><strong>Supervisão:</strong> 91104</p>                
+                <p><strong>Estação:</strong> 3927-4933</p>
+                <p><strong>Aferição:</strong> 91278-1073</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -6614,13 +6532,8 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="GJT" style="text-align: center;">GRANJA JULIETA (GJT)</h1>
-      <p style="text-align: center;">A Estação Júlio Prestes é uma histórica estação ferroviária da cidade de São
-        Paulo
-        concluída em 1938, que está localizada no bairro dos Campos Elísios, no distrito de Santa Cecília,
-        região
-        central da cidade. Seu nome foi dado em homenagem ao ex-governador de São Paulo, e ex-presidente eleito
-        do
-        Brasil, Júlio Prestes.</p>
+      <p style="text-align: center;"><strong>Endereço: </strong> Rua Alexandre Dumas, 4.403 - Chácara Santo Antonio - São Paulo
+        04717-004</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -6699,11 +6612,11 @@
               </div>
               <div class="modal-body">
                 <h5>Ramais</h5>
-                <p><strong>SSO:</strong> 80200 / 80201 / 80202</p>
-                <p><strong>Supervisão:</strong> 80204</p>
-                <p><strong>Manutenção:</strong> 80203</p>
-                <p><strong>Estação:</strong> 3927-4902</p>
-                <p><strong>Aferição:</strong> 91278-2900</p>
+                <p><strong>SSO:</strong> 91200 / 91201 / 91202</p>
+                <p><strong>Manutenção:</strong> 91203</p>
+                <p><strong>Supervisão:</strong> 91204</p>                
+                <p><strong>Estação:</strong> 3927-4934</p>
+                <p><strong>Aferição:</strong> 91278-7612</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -6809,13 +6722,7 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="JOD" style="text-align: center;">JOÃO DIAS (JOD)</h1>
-      <p style="text-align: center;">A Estação Júlio Prestes é uma histórica estação ferroviária da cidade de São
-        Paulo
-        concluída em 1938, que está localizada no bairro dos Campos Elísios, no distrito de Santa Cecília,
-        região
-        central da cidade. Seu nome foi dado em homenagem ao ex-governador de São Paulo, e ex-presidente eleito
-        do
-        Brasil, Júlio Prestes.</p>
+      <p style="text-align: center;"><strong>Endereço: </strong> Avenida das Nações Unidas (Marginal Pinheiros), 17007 - Santo Amaro</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -6894,11 +6801,11 @@
               </div>
               <div class="modal-body">
                 <h5>Ramais</h5>
-                <p><strong>SSO:</strong> 80200 / 80201 / 80202</p>
-                <p><strong>Supervisão:</strong> 80204</p>
-                <p><strong>Manutenção:</strong> 80203</p>
-                <p><strong>Estação:</strong> 3927-4902</p>
-                <p><strong>Aferição:</strong> 91278-2900</p>
+                <p><strong>SSO:</strong> 91300 / 91301 / 91302</p>
+                <p><strong>Manutenção:</strong> 91303</p>
+                <p><strong>Supervisão:</strong> 91304</p>                
+                <p><strong>Estação:</strong> 3927-4935</p>
+                <p><strong>Aferição:</strong> 91278-3378</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -7004,13 +6911,8 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="SAM" style="text-align: center;">SANTO AMARO (SAM)</h1>
-      <p style="text-align: center;">A Estação Júlio Prestes é uma histórica estação ferroviária da cidade de São
-        Paulo
-        concluída em 1938, que está localizada no bairro dos Campos Elísios, no distrito de Santa Cecília,
-        região
-        central da cidade. Seu nome foi dado em homenagem ao ex-governador de São Paulo, e ex-presidente eleito
-        do
-        Brasil, Júlio Prestes.</p>
+      <p style="text-align: center;"><strong>Endereço: </strong> Avenida das Nações Unidas, s/nº - Jardim Promissão - São Paulo
+        04795-100</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -7089,11 +6991,11 @@
               </div>
               <div class="modal-body">
                 <h5>Ramais</h5>
-                <p><strong>SSO:</strong> 80200 / 80201 / 80202</p>
-                <p><strong>Supervisão:</strong> 80204</p>
-                <p><strong>Manutenção:</strong> 80203</p>
-                <p><strong>Estação:</strong> 3927-4902</p>
-                <p><strong>Aferição:</strong> 91278-2900</p>
+                <p><strong>SSO:</strong> 91400 / 91401 / 91402</p>
+                <p><strong>Manutenção:</strong> 91403</p>
+                <p><strong>Supervisão:</strong> 91404</p>                
+                <p><strong>Estação:</strong> 3927-4936</p>
+                <p><strong>Aferição:</strong> 91278-2392</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -7199,13 +7101,8 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="SOC" style="text-align: center;">SOCORRO (SOC)</h1>
-      <p style="text-align: center;">A Estação Júlio Prestes é uma histórica estação ferroviária da cidade de São
-        Paulo
-        concluída em 1938, que está localizada no bairro dos Campos Elísios, no distrito de Santa Cecília,
-        região
-        central da cidade. Seu nome foi dado em homenagem ao ex-governador de São Paulo, e ex-presidente eleito
-        do
-        Brasil, Júlio Prestes.</p>
+      <p style="text-align: center;"><strong>Endereço: </strong> Av. das Nações Unidas, s/nº (Jurubatuba)/ Rua Florenville s/nº (Santo Amaro) – São Paulo
+        04696-010</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -7284,11 +7181,11 @@
               </div>
               <div class="modal-body">
                 <h5>Ramais</h5>
-                <p><strong>SSO:</strong> 80200 / 80201 / 80202</p>
-                <p><strong>Supervisão:</strong> 80204</p>
-                <p><strong>Manutenção:</strong> 80203</p>
-                <p><strong>Estação:</strong> 3927-4902</p>
-                <p><strong>Aferição:</strong> 91278-2900</p>
+                <p><strong>SSO:</strong> 91500 / 91501 / 91502</p>
+                <p><strong>Manutenção:</strong> 91503</p>
+                <p><strong>Supervisão:</strong> 91504</p>                
+                <p><strong>Estação:</strong> 3927-4937</p>
+                <p><strong>Aferição:</strong> 91278-6909</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -7394,13 +7291,8 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="JUR" style="text-align: center;">JURUBATUBA (JUR)</h1>
-      <p style="text-align: center;">A Estação Júlio Prestes é uma histórica estação ferroviária da cidade de São
-        Paulo
-        concluída em 1938, que está localizada no bairro dos Campos Elísios, no distrito de Santa Cecília,
-        região
-        central da cidade. Seu nome foi dado em homenagem ao ex-governador de São Paulo, e ex-presidente eleito
-        do
-        Brasil, Júlio Prestes.</p>
+      <p style="text-align: center;"><strong>Endereço: </strong> Av. Octales M. Ferreira, 391 - Jurubatuba - São Paulo
+        04696-010</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -7479,11 +7371,11 @@
               </div>
               <div class="modal-body">
                 <h5>Ramais</h5>
-                <p><strong>SSO:</strong> 80200 / 80201 / 80202</p>
-                <p><strong>Supervisão:</strong> 80204</p>
-                <p><strong>Manutenção:</strong> 80203</p>
-                <p><strong>Estação:</strong> 3927-4902</p>
-                <p><strong>Aferição:</strong> 91278-2900</p>
+                <p><strong>SSO:</strong> 91600 / 91601 / 91602</p>
+                <p><strong>Manutenção:</strong> 91603</p>
+                <p><strong>Supervisão:</strong> 91604</p>                
+                <p><strong>Estação:</strong> 3927-4938</p>
+                <p><strong>Aferição:</strong> 91278-2299</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -7589,13 +7481,8 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="AUT" style="text-align: center;">AUTÓDROMO (AUT)</h1>
-      <p style="text-align: center;">A Estação Júlio Prestes é uma histórica estação ferroviária da cidade de São
-        Paulo
-        concluída em 1938, que está localizada no bairro dos Campos Elísios, no distrito de Santa Cecília,
-        região
-        central da cidade. Seu nome foi dado em homenagem ao ex-governador de São Paulo, e ex-presidente eleito
-        do
-        Brasil, Júlio Prestes.</p>
+      <p style="text-align: center;"><strong>Endereço: </strong> Rua Plínio Schmidt, nº 307 - Jardim Marcel -São Paulo
+        4815130</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -7674,11 +7561,11 @@
               </div>
               <div class="modal-body">
                 <h5>Ramais</h5>
-                <p><strong>SSO:</strong> 80200 / 80201 / 80202</p>
-                <p><strong>Supervisão:</strong> 80204</p>
-                <p><strong>Manutenção:</strong> 80203</p>
-                <p><strong>Estação:</strong> 3927-4902</p>
-                <p><strong>Aferição:</strong> 91278-2900</p>
+                <p><strong>SSO:</strong> 91700 / 91701 / 91702</p>
+                <p><strong>Manutenção:</strong> 91703</p>
+                <p><strong>Supervisão:</strong> 91704</p>                
+                <p><strong>Estação:</strong> 3927-4939</p>
+                <p><strong>Aferição:</strong> 91278-3428</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -7784,13 +7671,8 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="INT" style="text-align: center;">PRIMAVERA INTERLAGOS (INT)</h1>
-      <p style="text-align: center;">A Estação Júlio Prestes é uma histórica estação ferroviária da cidade de São
-        Paulo
-        concluída em 1938, que está localizada no bairro dos Campos Elísios, no distrito de Santa Cecília,
-        região
-        central da cidade. Seu nome foi dado em homenagem ao ex-governador de São Paulo, e ex-presidente eleito
-        do
-        Brasil, Júlio Prestes.</p>
+      <p style="text-align: center;"><strong>Endereço: </strong> Rua Jequirituba, 83 (Jardim Colonial)/ Rua Alexandre Gandini, 71( Parque Santana) - São Paulo
+        04822-000</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -7869,11 +7751,11 @@
               </div>
               <div class="modal-body">
                 <h5>Ramais</h5>
-                <p><strong>SSO:</strong> 80200 / 80201 / 80202</p>
-                <p><strong>Supervisão:</strong> 80204</p>
-                <p><strong>Manutenção:</strong> 80203</p>
-                <p><strong>Estação:</strong> 3927-4902</p>
-                <p><strong>Aferição:</strong> 91278-2900</p>
+                <p><strong>SSO:</strong> 91800 / 91801 / 91802</p>
+                <p><strong>Manutenção:</strong> 91803</p>
+                <p><strong>Supervisão:</strong> 91804</p>                
+                <p><strong>Estação:</strong> 3927-4940</p>
+                <p><strong>Aferição:</strong> 91278-2239</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -7979,13 +7861,8 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="GRA" style="text-align: center;">GRAJAÚ (GRA)</h1>
-      <p style="text-align: center;">A Estação Júlio Prestes é uma histórica estação ferroviária da cidade de São
-        Paulo
-        concluída em 1938, que está localizada no bairro dos Campos Elísios, no distrito de Santa Cecília,
-        região
-        central da cidade. Seu nome foi dado em homenagem ao ex-governador de São Paulo, e ex-presidente eleito
-        do
-        Brasil, Júlio Prestes.</p>
+      <p style="text-align: center;"><strong>Endereço: </strong> Rua Giovanni Bononcini, 77 - Parque Brasil - São Paulo
+        04822-000</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -8064,11 +7941,11 @@
               </div>
               <div class="modal-body">
                 <h5>Ramais</h5>
-                <p><strong>SSO:</strong> 80200 / 80201 / 80202</p>
-                <p><strong>Supervisão:</strong> 80204</p>
-                <p><strong>Manutenção:</strong> 80203</p>
-                <p><strong>Estação:</strong> 3927-4902</p>
-                <p><strong>Aferição:</strong> 91278-2900</p>
+                <p><strong>SSO:</strong> 91900 / 91901 / 91902</p>
+                <p><strong>Manutenção:</strong> 91903</p>
+                <p><strong>Supervisão:</strong> 91904</p>                
+                <p><strong>Estação:</strong> 3927-4941</p>
+                <p><strong>Aferição:</strong> 91278-2875</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -8174,13 +8051,7 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="MVN" style="text-align: center;">MENDES VILA NATAL (MVN)</h1>
-      <p style="text-align: center;">A Estação Júlio Prestes é uma histórica estação ferroviária da cidade de São
-        Paulo
-        concluída em 1938, que está localizada no bairro dos Campos Elísios, no distrito de Santa Cecília,
-        região
-        central da cidade. Seu nome foi dado em homenagem ao ex-governador de São Paulo, e ex-presidente eleito
-        do
-        Brasil, Júlio Prestes.</p>
+      <p style="text-align: center;"><strong>Endereço: </strong> Estr. Dos Mendes, 92 - Jardim Icarai, São Paulo - SP, 04860-140</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -8259,11 +8130,11 @@
               </div>
               <div class="modal-body">
                 <h5>Ramais</h5>
-                <p><strong>SSO:</strong> 80200 / 80201 / 80202</p>
-                <p><strong>Supervisão:</strong> 80204</p>
-                <p><strong>Manutenção:</strong> 80203</p>
-                <p><strong>Estação:</strong> 3927-4902</p>
-                <p><strong>Aferição:</strong> 91278-2900</p>
+                <p><strong>SSO:</strong> 92000 / 92001 / 92002</p>
+                <p><strong>Manutenção:</strong> 92003</p>
+                <p><strong>Supervisão:</strong> 92004</p>                
+                <p><strong>Estação:</strong> 3927-4942</p>
+                <p><strong>Aferição:</strong> 91278-2460</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
