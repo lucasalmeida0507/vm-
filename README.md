@@ -100,6 +100,16 @@
     </div>
   </nav>
 
+  <div>
+  <div>
+  <div>
+    <div>
+    <a href="#home" style="background-color: black; position: fixed; border-radius: 200px; right: 40px; top: 800px; z-index: 9999;"><img class="home" src="menu.png" alt="seta" style=" width: 90 px; height: 90px;"></a>
+  </div>
+  </div>
+</div>
+</div>
+
   <img src="alfa.jfif" class="img-fluid" alt="Imagem responsiva" style="width: 100%; height: auto;">
   <div class="box" style="--color:red">
 
@@ -338,6 +348,8 @@
       </div>
     </div>
   </div>
+
+  
 
   <div class="p-3 mb-2 bg-secondary text-white" style="text-align: center;"><strong>LINHA 08 DIAMANTE</strong></div>
 
