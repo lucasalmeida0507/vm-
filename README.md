@@ -101,14 +101,16 @@
   </nav>
 
   <div>
-  <div>
-  <div>
     <div>
-    <a href="#home" style="background-color: black; position: fixed; border-radius: 200px; right: 40px; top: 800px; z-index: 9999;"><img class="home" src="menu.png" alt="seta" style=" width: 90 px; height: 90px;"></a>
+      <div>
+        <div>
+          <a href="#home"
+            style="background-color: black; position: fixed; border-radius: 10px; right: 40px; top: 800px; z-index: 9999;;"><img
+              class="home" src="vm.png" alt="seta" style=" width: 90 px; height: 90px;"></a>
+        </div>
+      </div>
+    </div>
   </div>
-  </div>
-</div>
-</div>
 
   <img src="alfa.jfif" class="img-fluid" alt="Imagem responsiva" style="width: 100%; height: auto;">
   <div class="box" style="--color:red">
@@ -349,7 +351,7 @@
     </div>
   </div>
 
-  
+
 
   <div class="p-3 mb-2 bg-secondary text-white" style="text-align: center;"><strong>LINHA 08 DIAMANTE</strong></div>
 
@@ -657,11 +659,6 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Unidade Básica de Saúde Bom Retiro
-                  R. Ten. Pena, 8 - Bom Retiro, São Paulo - SP
-                  Tel:. (11) 3224-9903
-                  800m de distancia da Estação
-                </p>
                 <p>Hospital Municipal da Barra Funda
                   R. Vitorino Carmilo, nº 717 - Barra Funda, São Paulo - SP
                   Tel:. (11) 2821-5950
@@ -669,29 +666,29 @@
                 </p>
                 <p>Pronto Socorro Municipal da Lapa
                   Av. Queiroz Filho, 313 - Vila Hamburguesa, São Paulo - SP
-                  Tel:. (11) 3022-4122 - 4878-1701
-                  13.0 Km de distancia da Estação
+                  Tel:. (11) 4878-1701
+                  7.3 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>77º Distrito Policial - Santa Cecília
-                  Alameda Glete, 827 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3221-5860
-                  1.2 Km de distancia da Estação
-                </p>
                 <p>Delegacia De Polícia Do Metropolitano - DELPOM
                   Av. Auro Soares de Moura Andrade, 15076 - Barra Funda, São Paulo - SP
                   Tel:. (11) 3662-1222 - ( 08H00 AS 20H00 )
-                  4.2 Km de distancia da Estação
+                  200m de distancia da Estação
                 </p>
-                <p>4º BPM/M
-                  R. Passo da Pátria, 1504 - Vila Bela Alianca, São Paulo - SP
-                  Tel:. (11) 3836-8996
-                  13.8 Km de distancia da Estação
+                <p>23° Distrito Policial - Perdizes
+                  R. Itapicuru, 80 - Perdizes, São Paulo - SP
+                  Tel:. (11) 3864-5265
+                  2.1 Km de distancia da Estação
+                </p>
+                <p>77º Distrito Policial - Santa Cecília
+                  Alameda Glete, 827 - Campos Elíseos, São Paulo - SP
+                  Tel:. (11) 3221-5860
+                  2.3 Km de distancia da Estação
                 </p>
                 <p>1ª Delegacia De Defesa Da Mulher - Centro
                   R. Dr. Bettencourt Rodrigues, 200 - Centro Histórico de São Paulo, São Paulo
                   Tel:.
-                  6.8 Km de distancia da Estação
+                  6.5 Km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
                 <p>2º Grupamento de Bombeiros Campos Elíseos
@@ -705,11 +702,6 @@
                   10.8 Km de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar
-                  Praça da República, 150 - República, São Paulo - SP
-                  Tel:. (11) 3259-8016 / 3259-9282
-                  2.8 Km de distancia da Estação
-                </p>
                 <p>Guarda Civil Municipal - Centro
                   Av. Santos Dumont, 767 - Luz, São Paulo - SP
                   Tel:. 3229-7802
@@ -852,52 +844,49 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Unidade Básica de Saúde Bom Retiro
-                  R. Ten. Pena, 8 - Bom Retiro, São Paulo - SP
-                  Tel:. (11) 3224-9903
-                  800m de distancia da Estação
-                </p>
+
                 <p>Hospital Municipal da Barra Funda
                   R. Vitorino Carmilo, nº 717 - Barra Funda, São Paulo - SP
                   Tel:. (11) 2821-5950
-                  2.1 Km de distancia da Estação
+                  5.4 Km de distancia da Estação
                 </p>
                 <p>Pronto Socorro Municipal da Lapa
                   Av. Queiroz Filho, 313 - Vila Hamburguesa, São Paulo - SP
                   Tel:. (11) 3022-4122 - 4878-1701
-                  13.0 Km de distancia da Estação
+                  4.4 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
                 <p>77º Distrito Policial - Santa Cecília
                   Alameda Glete, 827 - Campos Elíseos, São Paulo - SP
                   Tel:. (11) 3221-5860
-                  1.2 Km de distancia da Estação
+                  1.4 Km de distancia da Estação
+                </p>
+                <p>7º Distrito Policial - Lapa
+                  R. Camilo, 317 - Lapa, São Paulo - SP
+                  Tel:. 3864-7445
+                  1.8 Km de distancia da Estação
                 </p>
                 <p>Delegacia De Polícia Do Metropolitano - DELPOM
                   Av. Auro Soares de Moura Andrade, 15076 - Barra Funda, São Paulo - SP
                   Tel:. (11) 3662-1222 - ( 08H00 AS 20H00 )
-                  4.2 Km de distancia da Estação
+                  6.4 Km de distancia da Estação
                 </p>
-                <p>4º BPM/M
-                  R. Passo da Pátria, 1504 - Vila Bela Alianca, São Paulo - SP
-                  Tel:. (11) 3836-8996
-                  13.8 Km de distancia da Estação
+                <p>23° Distrito Policial - Perdizes
+                  R. Itapicuru, 80 - Perdizes, São Paulo - SP
+                  Tel:. (11) 3864-5265
+                  6.8 Km de distancia da Estação
                 </p>
                 <p>1ª Delegacia De Defesa Da Mulher - Centro
                   R. Dr. Bettencourt Rodrigues, 200 - Centro Histórico de São Paulo, São Paulo
                   Tel:.
-                  6.8 Km de distancia da Estação
+                  11.6 Km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
                 <p>2º Grupamento de Bombeiros Campos Elíseos
-                  Alameda Barão de Piracicaba, 126 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  1.4 Km de distancia da Estação
-                </p>
                 <p>4º Grupamento de Bombeiros - Lapa
                   R. Martim Tenório, 130 - Lapa, São Paulo - SP
                   Tel:. (11) 3396-2440
-                  10.8 Km de distancia da Estação
+                  2.1 Km de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
                 <p>Conselho Tutelar
@@ -908,12 +897,12 @@
                 <p>Guarda Civil Municipal - Centro
                   Av. Santos Dumont, 767 - Luz, São Paulo - SP
                   Tel:. 3229-7802
-                  2.9 Km de distancia da Estação
+                  10.3 Km de distancia da Estação
                 </p>
                 <p>Guarda Civil Municipal - Oeste
                   R. Maj. Paladino, 180 - Vila Ribeiro de Barros, São Paulo - SP
                   Tel:. 3977-0260
-                  16.0 Km de distancia da Estação
+                  6.4 Km de distancia da Estação
                 </p>
 
 
@@ -1047,70 +1036,54 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Unidade Básica de Saúde Bom Retiro
-                  R. Ten. Pena, 8 - Bom Retiro, São Paulo - SP
-                  Tel:. (11) 3224-9903
-                  800m de distancia da Estação
-                </p>
-                <p>Hospital Municipal da Barra Funda
-                  R. Vitorino Carmilo, nº 717 - Barra Funda, São Paulo - SP
-                  Tel:. (11) 2821-5950
+                <p>UBS Vila Anastácio
+                  R. Conselheiro Olegário, 239 - Vila Anastácio, São Paulo - SP
+                  Tel:. (11) 2774-1243
                   2.1 Km de distancia da Estação
                 </p>
                 <p>Pronto Socorro Municipal da Lapa
                   Av. Queiroz Filho, 313 - Vila Hamburguesa, São Paulo - SP
-                  Tel:. (11) 3022-4122 - 4878-1701
-                  13.0 Km de distancia da Estação
+                  Tel:. (11) 4878-1701
+                  2.9 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>77º Distrito Policial - Santa Cecília
-                  Alameda Glete, 827 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3221-5860
-                  1.2 Km de distancia da Estação
+                <p>91º Distrito Policial de São Paulo
+                  Av. Dr. Gastão Vidigal, 2600 - Vila Leopoldina, São Paulo - SP
+                  Tel:. (11)3831-8036 / 3831-4916
+                  4.1 Km de distancia da Estação
                 </p>
-                <p>Delegacia De Polícia Do Metropolitano - DELPOM
-                  Av. Auro Soares de Moura Andrade, 15076 - Barra Funda, São Paulo - SP
-                  Tel:. (11) 3662-1222 - ( 08H00 AS 20H00 )
-                  4.2 Km de distancia da Estação
-                </p>
-                <p>4º BPM/M
-                  R. Passo da Pátria, 1504 - Vila Bela Alianca, São Paulo - SP
-                  Tel:. (11) 3836-8996
-                  13.8 Km de distancia da Estação
+                <p>7º Distrito Policial - Lapa
+                  Rua Camilo, nº 317
+                  Tel:. (11) 3864-7445
+                  4.4 Km de distancia da Estação
                 </p>
                 <p>1ª Delegacia De Defesa Da Mulher - Centro
                   R. Dr. Bettencourt Rodrigues, 200 - Centro Histórico de São Paulo, São Paulo
                   Tel:.
-                  6.8 Km de distancia da Estação
+                  13.0 Km de distancia da Estação
+                </p>
+                <p>Delegacia De Polícia Do Metropolitano - DELPOM
+                  Av. Auro Soares de Moura Andrade, 15076 - Barra Funda, São Paulo - SP
+                  Tel:. (11) 3662-1222 - ( 08H00 AS 20H00 )
+                  11.5 Km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>2º Grupamento de Bombeiros Campos Elíseos
-                  Alameda Barão de Piracicaba, 126 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  1.4 Km de distancia da Estação
-                </p>
-                <p>4º Grupamento de Bombeiros - Lapa
+                <p>4º Agrupamento de Bombeiros - Lapa
                   R. Martim Tenório, 130 - Lapa, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  10.8 Km de distancia da Estação
-                </p>
-                <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar
-                  Praça da República, 150 - República, São Paulo - SP
-                  Tel:. (11) 3259-8016 / 3259-9282
+                  Tel:.
                   2.8 Km de distancia da Estação
                 </p>
-                <p>Guarda Civil Municipal - Centro
-                  Av. Santos Dumont, 767 - Luz, São Paulo - SP
-                  Tel:. 3229-7802
-                  2.9 Km de distancia da Estação
+                <h4>CONSELHO TUTELAR e GCM</h4>
+                <p>Conselho Tutelar da Lapa
+                  Rua Guaicurus, 1000 - Lapa
+                  Tel:. (11) 3664-5365 / 3672-8409
+                  4.2 Km de distancia da Estação
                 </p>
                 <p>Guarda Civil Municipal - Oeste
                   R. Maj. Paladino, 180 - Vila Ribeiro de Barros, São Paulo - SP
                   Tel:. 3977-0260
-                  16.0 Km de distancia da Estação
+                  7.1 Km de distancia da Estação
                 </p>
-
 
               </div>
               <div class="modal-footer">
@@ -1242,71 +1215,56 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Unidade Básica de Saúde Bom Retiro
-                  R. Ten. Pena, 8 - Bom Retiro, São Paulo - SP
-                  Tel:. (11) 3224-9903
-                  800m de distancia da Estação
+                <p>UBS Vila Anastácio						
+                  R. Conselheiro Olegário, 239 - Vila Anastácio, São Paulo - SP						
+                  Tel:.	(11) 2774-1243					
+                  2.5 Km de distancia da Estação                  
                 </p>
-                <p>Hospital Municipal da Barra Funda
-                  R. Vitorino Carmilo, nº 717 - Barra Funda, São Paulo - SP
-                  Tel:. (11) 2821-5950
-                  2.1 Km de distancia da Estação
+                <p>Pronto Socorro Municipal da Lapa						
+                  Av. Queiroz Filho, 313 - Vila Hamburguesa, São Paulo - SP						
+                  Tel:.	(11) 4878-1701					
+                  3.6 Km de distancia da Estação                  
                 </p>
-                <p>Pronto Socorro Municipal da Lapa
-                  Av. Queiroz Filho, 313 - Vila Hamburguesa, São Paulo - SP
-                  Tel:. (11) 3022-4122 - 4878-1701
-                  13.0 Km de distancia da Estação
-                </p>
+                
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>77º Distrito Policial - Santa Cecília
-                  Alameda Glete, 827 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3221-5860
-                  1.2 Km de distancia da Estação
+                <p>4° Batalhão de Polícia Militar Metropolitano						
+                  R. Passo da Pátria, 1504 - Vila Leopoldina, São Paulo - SP						
+                  Tel:.	(11) 3836-8996					
+                  900m de distancia da Estação                  
                 </p>
-                <p>Delegacia De Polícia Do Metropolitano - DELPOM
-                  Av. Auro Soares de Moura Andrade, 15076 - Barra Funda, São Paulo - SP
-                  Tel:. (11) 3662-1222 - ( 08H00 AS 20H00 )
-                  4.2 Km de distancia da Estação
+                <p>91º Distrito Policial de São Paulo						
+                  Av. Dr. Gastão Vidigal, 2600 - Vila Leopoldina, São Paulo - SP						
+                  Tel:.	(11)3831-8036					
+                  3.4 Km de distancia da Estação                  
                 </p>
-                <p>4º BPM/M
-                  R. Passo da Pátria, 1504 - Vila Bela Alianca, São Paulo - SP
-                  Tel:. (11) 3836-8996
-                  13.8 Km de distancia da Estação
+                <p>1ª Delegacia De Defesa Da Mulher - Centro						
+                  R. Dr. Bettencourt Rodrigues, 200 - Centro Histórico de São Paulo, São Paulo						
+                  Tel:.						
+                  15.6 Km de distancia da Estação                  
                 </p>
-                <p>1ª Delegacia De Defesa Da Mulher - Centro
-                  R. Dr. Bettencourt Rodrigues, 200 - Centro Histórico de São Paulo, São Paulo
-                  Tel:.
-                  6.8 Km de distancia da Estação
+                <p>Delegacia De Polícia Do Metropolitano - DELPOM						
+                  Av. Auro Soares de Moura Andrade, 15076 - Barra Funda, São Paulo - SP						
+                  Tel:.	(11) 3662-1222 - ( 08H00 AS 20H00 )					
+                  13.5 Km de distancia da Estação                  
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>2º Grupamento de Bombeiros Campos Elíseos
-                  Alameda Barão de Piracicaba, 126 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  1.4 Km de distancia da Estação
-                </p>
-                <p>4º Grupamento de Bombeiros - Lapa
-                  R. Martim Tenório, 130 - Lapa, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  10.8 Km de distancia da Estação
+                <p>4º Agrupamento de Bombeiros - Lapa						
+                  R. Martim Tenório, 130 - Lapa, São Paulo - SP						
+                  Tel:.						
+                  4.2 Km de distancia da Estação                  
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar
-                  Praça da República, 150 - República, São Paulo - SP
-                  Tel:. (11) 3259-8016 / 3259-9282
-                  2.8 Km de distancia da Estação
+                <p>Conselho Tutelar da Lapa						
+                  Rua Guaicurus, 1000 - Lapa						
+                  Tel:.	(11) 3664-5365 / 3672-8409					
+                  5.2 Km de distancia da Estação                  
                 </p>
-                <p>Guarda Civil Municipal - Centro
-                  Av. Santos Dumont, 767 - Luz, São Paulo - SP
-                  Tel:. 3229-7802
-                  2.9 Km de distancia da Estação
+                <p>Guarda Civil Municipal - Oeste						
+                  R. Maj. Paladino, 180 - Vila Ribeiro de Barros, São Paulo - SP						
+                  Tel:.	3977-0260					
+                  1.9 Km de distancia da Estação                  
                 </p>
-                <p>Guarda Civil Municipal - Oeste
-                  R. Maj. Paladino, 180 - Vila Ribeiro de Barros, São Paulo - SP
-                  Tel:. 3977-0260
-                  16.0 Km de distancia da Estação
-                </p>
-
-
+                
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -1436,71 +1394,55 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Unidade Básica de Saúde Bom Retiro
-                  R. Ten. Pena, 8 - Bom Retiro, São Paulo - SP
-                  Tel:. (11) 3224-9903
-                  800m de distancia da Estação
+                <p>Hospital Regional de Osasco						
+                  Rua Ari Barroso, nº 355R. Ari Barroso, 355 - Pres. Altino, Osasco - SP						
+                  Tel:.	(11) 3683-3077					
+                  1.7 Km de distancia da Estação
                 </p>
-                <p>Hospital Municipal da Barra Funda
-                  R. Vitorino Carmilo, nº 717 - Barra Funda, São Paulo - SP
-                  Tel:. (11) 2821-5950
-                  2.1 Km de distancia da Estação
-                </p>
-                <p>Pronto Socorro Municipal da Lapa
-                  Av. Queiroz Filho, 313 - Vila Hamburguesa, São Paulo - SP
-                  Tel:. (11) 3022-4122 - 4878-1701
-                  13.0 Km de distancia da Estação
+                <p>Hospital Municipal Antônio Giglio						
+                  R. Pedro Fioreti, 48 - Centro, Osasco - SP						
+                  Tel:.	(11) 2183-9333					
+                  3.7 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>77º Distrito Policial - Santa Cecília
-                  Alameda Glete, 827 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3221-5860
-                  1.2 Km de distancia da Estação
+                <p>9º Delegacia Seccional de Polícia de Osasco						
+                  R. Carlos da Costa Ramalho Júnior, 145 - Pres. Altino, Osasco - SP						
+                  Tel:.	(11) 3681-8355					
+                  950m de distancia da Estação
                 </p>
-                <p>Delegacia De Polícia Do Metropolitano - DELPOM
-                  Av. Auro Soares de Moura Andrade, 15076 - Barra Funda, São Paulo - SP
-                  Tel:. (11) 3662-1222 - ( 08H00 AS 20H00 )
-                  4.2 Km de distancia da Estação
+                <p>14º Batalhão de Polícia Militar Metropolitano						
+                  R. Líbero Carnicelli, 433 - Bela Vista, Osasco - SP						
+                  Tel:.	(11) 3681-7106					
+                  7.2 Km de distancia da Estação
                 </p>
-                <p>4º BPM/M
-                  R. Passo da Pátria, 1504 - Vila Bela Alianca, São Paulo - SP
-                  Tel:. (11) 3836-8996
-                  13.8 Km de distancia da Estação
+                <p>Polícia Militar - 3ª Companhia do 14º BPM/M						
+                  Av. Mal. Rondon, 300 - Centro, Osasco - SP						
+                  Tel:.	(11) 3689-0181					
+                  4.9 de distancia da Estação                  
                 </p>
-                <p>1ª Delegacia De Defesa Da Mulher - Centro
-                  R. Dr. Bettencourt Rodrigues, 200 - Centro Histórico de São Paulo, São Paulo
-                  Tel:.
-                  6.8 Km de distancia da Estação
+                <p>Delegacia de Defesa da Mulher - Osasco						
+                  R. Itabuna, 93 - Centro, Osasco - SP						
+                  Tel:.	(11) 3682-4485					
+                  3.9 km de distancia da Estação                  
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>2º Grupamento de Bombeiros Campos Elíseos
-                  Alameda Barão de Piracicaba, 126 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  1.4 Km de distancia da Estação
-                </p>
-                <p>4º Grupamento de Bombeiros - Lapa
-                  R. Martim Tenório, 130 - Lapa, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  10.8 Km de distancia da Estação
+                <p>Posto de Bombeiros Osasco						
+                  R. Vitória Régia, 61 - Jardim das Flores, Osasco - SP						
+                  Tel:.	(11) 3689-1426					
+                  5.8 Km de distancia da Estação                  
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar
-                  Praça da República, 150 - República, São Paulo - SP
-                  Tel:. (11) 3259-8016 / 3259-9282
-                  2.8 Km de distancia da Estação
+                <p>Conselho Tutelar Sul - Osasco						
+                  R. Trás Os Montes, 63 - Santo Antônio, Osasco - SP						
+                  Tel:.	(11) 33684-0212					
+                  8.8 Km de distancia da Estação                  
                 </p>
-                <p>Guarda Civil Municipal - Centro
-                  Av. Santos Dumont, 767 - Luz, São Paulo - SP
-                  Tel:. 3229-7802
-                  2.9 Km de distancia da Estação
+                <p>Guarda Civil Municipal de Osasco						
+                  R. Canadá, 201 - Jardim D'abril, Osasco - SP						
+                  Tel:.	2183-0869					
+                  7.1 Km de distancia da Estação                  
                 </p>
-                <p>Guarda Civil Municipal - Oeste
-                  R. Maj. Paladino, 180 - Vila Ribeiro de Barros, São Paulo - SP
-                  Tel:. 3977-0260
-                  16.0 Km de distancia da Estação
-                </p>
-
-
+                
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -1631,47 +1573,37 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Unidade Básica de Saúde Bom Retiro
-                  R. Ten. Pena, 8 - Bom Retiro, São Paulo - SP
-                  Tel:. (11) 3224-9903
-                  800m de distancia da Estação
+                <p>Hospital Regional de Osasco
+                  R. Ari Barroso, 355 - Pres. Altino, Osasco - SP						
+                  Tel:.	(11) 3683-3077					
+                  900m de distancia da Estação                  
                 </p>
-                <p>Hospital Municipal da Barra Funda
-                  R. Vitorino Carmilo, nº 717 - Barra Funda, São Paulo - SP
-                  Tel:. (11) 2821-5950
-                  2.1 Km de distancia da Estação
-                </p>
-                <p>Pronto Socorro Municipal da Lapa
-                  Av. Queiroz Filho, 313 - Vila Hamburguesa, São Paulo - SP
-                  Tel:. (11) 3022-4122 - 4878-1701
-                  13.0 Km de distancia da Estação
+                <p>Hospital Antônio Giglio
+                  R. Pedro Fioreti, 48 - Centro, Osasco - SP						
+                  Tel:.	(11) 2183-9333					
+                  1.2 Km de distancia da Estação                  
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>77º Distrito Policial - Santa Cecília
-                  Alameda Glete, 827 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3221-5860
-                  1.2 Km de distancia da Estação
+                <p>9º Delegacia Seccional de Polícia de Osasco						
+                  R. Carlos da Costa Ramalho Júnior, 145 - Pres. Altino, Osasco - SP						
+                  Tel:.	(11) 3681-8355					
+                  1.0 Km de distancia da Estação                  
                 </p>
-                <p>Delegacia De Polícia Do Metropolitano - DELPOM
-                  Av. Auro Soares de Moura Andrade, 15076 - Barra Funda, São Paulo - SP
-                  Tel:. (11) 3662-1222 - ( 08H00 AS 20H00 )
-                  4.2 Km de distancia da Estação
+                <p>3ª Companhia do 14º BPM/M						
+                  Av. Mal. Rondon, 300 - Centro, Osasco - SP						
+                  Tel:.	(11) 3683-6376					
+                  1.0 Km de distancia da Estação                  
                 </p>
-                <p>4º BPM/M
-                  R. Passo da Pátria, 1504 - Vila Bela Alianca, São Paulo - SP
-                  Tel:. (11) 3836-8996
-                  13.8 Km de distancia da Estação
-                </p>
-                <p>1ª Delegacia De Defesa Da Mulher - Centro
-                  R. Dr. Bettencourt Rodrigues, 200 - Centro Histórico de São Paulo, São Paulo
-                  Tel:.
-                  6.8 Km de distancia da Estação
+                <p>Delegacia de Defesa da Mulher - Osasco						
+                  R. Itabuna, 93 - Centro, Osasco - SP						
+                  Tel:.	(11) 3682-4485					
+                  1.9 km de distancia da Estação                  
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>2º Grupamento de Bombeiros Campos Elíseos
-                  Alameda Barão de Piracicaba, 126 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  1.4 Km de distancia da Estação
+                <p>Posto de Bombeiros Osasco						
+                  R. Vitória Régia, 61 - Jardim das Flores, Osasco - SP						
+                  Tel:.	(11) 3689-1426					
+                  2.5 Km de distancia da Estação                  
                 </p>
                 <p>4º Grupamento de Bombeiros - Lapa
                   R. Martim Tenório, 130 - Lapa, São Paulo - SP
@@ -1679,23 +1611,17 @@
                   10.8 Km de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar
-                  Praça da República, 150 - República, São Paulo - SP
-                  Tel:. (11) 3259-8016 / 3259-9282
-                  2.8 Km de distancia da Estação
+                <p>Conselho Tutelar Sul - Osasco						
+                  R. Trás Os Montes, 63 - Santo Antônio, Osasco - SP						
+                  Tel:.	(11) 33684-0212					
+                  4.3 Km de distancia da Estação                  
                 </p>
-                <p>Guarda Civil Municipal - Centro
-                  Av. Santos Dumont, 767 - Luz, São Paulo - SP
-                  Tel:. 3229-7802
-                  2.9 Km de distancia da Estação
+                <p>Guarda Civil Municipal de Osasco						
+                  R. Canadá, 201 - Jardim D'abril, Osasco - SP						
+                  Tel:.	2183-0869					
+                  5.1 Km de distancia da Estação                  
                 </p>
-                <p>Guarda Civil Municipal - Oeste
-                  R. Maj. Paladino, 180 - Vila Ribeiro de Barros, São Paulo - SP
-                  Tel:. 3977-0260
-                  16.0 Km de distancia da Estação
-                </p>
-
-
+                
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -4834,7 +4760,8 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="CEA" style="text-align: center;">CEASA (CEA)</h1>
-      <p style="text-align: center;"><strong>Endereço: </strong> Avenida das Nações Unidas, 1.390 - Vila Leopoldina - São Paulo
+      <p style="text-align: center;"><strong>Endereço: </strong> Avenida das Nações Unidas, 1.390 - Vila Leopoldina -
+        São Paulo
         05311-000</p>
 
       <div style="justify-content: space-around; display: flex;">
@@ -4916,7 +4843,7 @@
                 <h5>Ramais</h5>
                 <p><strong>SSO:</strong> 90300 / 90301 / 90302</p>
                 <p><strong>Manutenção:</strong> 90303</p>
-                <p><strong>Supervisão:</strong> 90304</p>                
+                <p><strong>Supervisão:</strong> 90304</p>
                 <p><strong>Estação:</strong> 3927-4925</p>
                 <p><strong>Aferição:</strong> 91278-0839</p>
               </div>
@@ -5214,7 +5141,8 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="USP" style="text-align: center;">CIDADE UNIVERSITÁRIA (USP)</h1>
-      <p style="text-align: center;"><strong>Endereço: </strong> Avenida das Nações Unidas, 6.202 - Jardim Universidade Pinheiros - São Paulo
+      <p style="text-align: center;"><strong>Endereço: </strong> Avenida das Nações Unidas, 6.202 - Jardim Universidade
+        Pinheiros - São Paulo
         05477-000</p>
 
       <div style="justify-content: space-around; display: flex;">
@@ -5296,7 +5224,7 @@
                 <h5>Ramais</h5>
                 <p><strong>SSO:</strong> 90500 / 90501 / 90502</p>
                 <p><strong>Manutenção:</strong> 90503</p>
-                <p><strong>Supervisão:</strong> 90504</p>                
+                <p><strong>Supervisão:</strong> 90504</p>
                 <p><strong>Estação:</strong> 3927-4927</p>
                 <p><strong>Aferição:</strong> 91278-1571</p>
               </div>
@@ -5486,7 +5414,7 @@
                 <h5>Ramais</h5>
                 <p><strong>SSO:</strong> 90600 / 90601 / 90602</p>
                 <p><strong>Manutenção:</strong> 90603</p>
-                <p><strong>Supervisão:</strong> 90604</p>                
+                <p><strong>Supervisão:</strong> 90604</p>
                 <p><strong>Estação:</strong> 3927-4928</p>
                 <p><strong>Aferição:</strong> 91278-1173</p>
               </div>
@@ -5676,7 +5604,7 @@
                 <h5>Ramais</h5>
                 <p><strong>SSO:</strong> 90700 / 90701 / 90702</p>
                 <p><strong>Manutenção:</strong> 90703</p>
-                <p><strong>Supervisão:</strong> 90704</p>                
+                <p><strong>Supervisão:</strong> 90704</p>
                 <p><strong>Estação:</strong> 3927-4929</p>
                 <p><strong>Aferição:</strong> 91278-1771</p>
               </div>
@@ -5784,7 +5712,8 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="CJD" style="text-align: center;">CIDADE JARDIM (CJD)</h1>
-      <p style="text-align: center;"><strong>Endereço: </strong> Rua Prof. Artur Ramos, 787 (Jardim Paulistano) / Rua Hungria, s/nº (Jardim Europa) – São Paulo
+      <p style="text-align: center;"><strong>Endereço: </strong> Rua Prof. Artur Ramos, 787 (Jardim Paulistano) / Rua
+        Hungria, s/nº (Jardim Europa) – São Paulo
         05477-000</p>
 
       <div style="justify-content: space-around; display: flex;">
@@ -5866,7 +5795,7 @@
                 <h5>Ramais</h5>
                 <p><strong>SSO:</strong> 90800 / 90801 / 90802</p>
                 <p><strong>Manutenção:</strong> 90803</p>
-                <p><strong>Supervisão:</strong> 90804</p>                
+                <p><strong>Supervisão:</strong> 90804</p>
                 <p><strong>Estação:</strong> 3927-4930</p>
                 <p><strong>Aferição:</strong> 91278-1644</p>
               </div>
@@ -5974,7 +5903,8 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="VOL" style="text-align: center;">VILA OLÍMPIA (VOL)</h1>
-      <p style="text-align: center;"><strong>Endereço: </strong> Rua Guilherme Barbosa de Melo, nº 117 / Rua Joel Carlos Borges, 179 – Cidade Monções – São Paulo
+      <p style="text-align: center;"><strong>Endereço: </strong> Rua Guilherme Barbosa de Melo, nº 117 / Rua Joel Carlos
+        Borges, 179 – Cidade Monções – São Paulo
         04578-000</p>
 
       <div style="justify-content: space-around; display: flex;">
@@ -6056,7 +5986,7 @@
                 <h5>Ramais</h5>
                 <p><strong>SSO:</strong> 90900 / 90901 / 90902</p>
                 <p><strong>Manutenção:</strong> 90903</p>
-                <p><strong>Supervisão:</strong> 90904</p>                
+                <p><strong>Supervisão:</strong> 90904</p>
                 <p><strong>Estação:</strong> 3927-4931</p>
                 <p><strong>Aferição:</strong> 91278-1527</p>
               </div>
@@ -6164,7 +6094,8 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="BRR" style="text-align: center;">BERRINI (BRR)</h1>
-      <p style="text-align: center;"><strong>Endereço: </strong> Rua Guilherme Barbosa de Melo, nº 117 / Rua Joel Carlos Borges, 179 – Cidade Monções – São Paulo
+      <p style="text-align: center;"><strong>Endereço: </strong> Rua Guilherme Barbosa de Melo, nº 117 / Rua Joel Carlos
+        Borges, 179 – Cidade Monções – São Paulo
         04578-000</p>
 
       <div style="justify-content: space-around; display: flex;">
@@ -6246,7 +6177,7 @@
                 <h5>Ramais</h5>
                 <p><strong>SSO:</strong> 91000 / 91001 / 91002</p>
                 <p><strong>Manutenção:</strong> 91003</p>
-                <p><strong>Supervisão:</strong> 91004</p>                
+                <p><strong>Supervisão:</strong> 91004</p>
                 <p><strong>Estação:</strong> 3927-4932</p>
                 <p><strong>Aferição:</strong> 91278-7844</p>
               </div>
@@ -6354,7 +6285,8 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="MRB" style="text-align: center;">MORUMBI (MRB)</h1>
-      <p style="text-align: center;"><strong>Endereço: </strong> Avenida das Nações Unidas, 14.171 - Vila Gertrudes - São Paulo
+      <p style="text-align: center;"><strong>Endereço: </strong> Avenida das Nações Unidas, 14.171 - Vila Gertrudes -
+        São Paulo
         04578-000</p>
 
       <div style="justify-content: space-around; display: flex;">
@@ -6436,7 +6368,7 @@
                 <h5>Ramais</h5>
                 <p><strong>SSO:</strong> 91100 / 91101 / 91102</p>
                 <p><strong>Manutenção:</strong> 91103</p>
-                <p><strong>Supervisão:</strong> 91104</p>                
+                <p><strong>Supervisão:</strong> 91104</p>
                 <p><strong>Estação:</strong> 3927-4933</p>
                 <p><strong>Aferição:</strong> 91278-1073</p>
               </div>
@@ -6544,7 +6476,8 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="GJT" style="text-align: center;">GRANJA JULIETA (GJT)</h1>
-      <p style="text-align: center;"><strong>Endereço: </strong> Rua Alexandre Dumas, 4.403 - Chácara Santo Antonio - São Paulo
+      <p style="text-align: center;"><strong>Endereço: </strong> Rua Alexandre Dumas, 4.403 - Chácara Santo Antonio -
+        São Paulo
         04717-004</p>
 
       <div style="justify-content: space-around; display: flex;">
@@ -6626,7 +6559,7 @@
                 <h5>Ramais</h5>
                 <p><strong>SSO:</strong> 91200 / 91201 / 91202</p>
                 <p><strong>Manutenção:</strong> 91203</p>
-                <p><strong>Supervisão:</strong> 91204</p>                
+                <p><strong>Supervisão:</strong> 91204</p>
                 <p><strong>Estação:</strong> 3927-4934</p>
                 <p><strong>Aferição:</strong> 91278-7612</p>
               </div>
@@ -6734,7 +6667,8 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="JOD" style="text-align: center;">JOÃO DIAS (JOD)</h1>
-      <p style="text-align: center;"><strong>Endereço: </strong> Avenida das Nações Unidas (Marginal Pinheiros), 17007 - Santo Amaro</p>
+      <p style="text-align: center;"><strong>Endereço: </strong> Avenida das Nações Unidas (Marginal Pinheiros), 17007 -
+        Santo Amaro</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -6815,7 +6749,7 @@
                 <h5>Ramais</h5>
                 <p><strong>SSO:</strong> 91300 / 91301 / 91302</p>
                 <p><strong>Manutenção:</strong> 91303</p>
-                <p><strong>Supervisão:</strong> 91304</p>                
+                <p><strong>Supervisão:</strong> 91304</p>
                 <p><strong>Estação:</strong> 3927-4935</p>
                 <p><strong>Aferição:</strong> 91278-3378</p>
               </div>
@@ -6923,7 +6857,8 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="SAM" style="text-align: center;">SANTO AMARO (SAM)</h1>
-      <p style="text-align: center;"><strong>Endereço: </strong> Avenida das Nações Unidas, s/nº - Jardim Promissão - São Paulo
+      <p style="text-align: center;"><strong>Endereço: </strong> Avenida das Nações Unidas, s/nº - Jardim Promissão -
+        São Paulo
         04795-100</p>
 
       <div style="justify-content: space-around; display: flex;">
@@ -7005,7 +6940,7 @@
                 <h5>Ramais</h5>
                 <p><strong>SSO:</strong> 91400 / 91401 / 91402</p>
                 <p><strong>Manutenção:</strong> 91403</p>
-                <p><strong>Supervisão:</strong> 91404</p>                
+                <p><strong>Supervisão:</strong> 91404</p>
                 <p><strong>Estação:</strong> 3927-4936</p>
                 <p><strong>Aferição:</strong> 91278-2392</p>
               </div>
@@ -7113,7 +7048,8 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="SOC" style="text-align: center;">SOCORRO (SOC)</h1>
-      <p style="text-align: center;"><strong>Endereço: </strong> Av. das Nações Unidas, s/nº (Jurubatuba)/ Rua Florenville s/nº (Santo Amaro) – São Paulo
+      <p style="text-align: center;"><strong>Endereço: </strong> Av. das Nações Unidas, s/nº (Jurubatuba)/ Rua
+        Florenville s/nº (Santo Amaro) – São Paulo
         04696-010</p>
 
       <div style="justify-content: space-around; display: flex;">
@@ -7195,7 +7131,7 @@
                 <h5>Ramais</h5>
                 <p><strong>SSO:</strong> 91500 / 91501 / 91502</p>
                 <p><strong>Manutenção:</strong> 91503</p>
-                <p><strong>Supervisão:</strong> 91504</p>                
+                <p><strong>Supervisão:</strong> 91504</p>
                 <p><strong>Estação:</strong> 3927-4937</p>
                 <p><strong>Aferição:</strong> 91278-6909</p>
               </div>
@@ -7385,7 +7321,7 @@
                 <h5>Ramais</h5>
                 <p><strong>SSO:</strong> 91600 / 91601 / 91602</p>
                 <p><strong>Manutenção:</strong> 91603</p>
-                <p><strong>Supervisão:</strong> 91604</p>                
+                <p><strong>Supervisão:</strong> 91604</p>
                 <p><strong>Estação:</strong> 3927-4938</p>
                 <p><strong>Aferição:</strong> 91278-2299</p>
               </div>
@@ -7575,7 +7511,7 @@
                 <h5>Ramais</h5>
                 <p><strong>SSO:</strong> 91700 / 91701 / 91702</p>
                 <p><strong>Manutenção:</strong> 91703</p>
-                <p><strong>Supervisão:</strong> 91704</p>                
+                <p><strong>Supervisão:</strong> 91704</p>
                 <p><strong>Estação:</strong> 3927-4939</p>
                 <p><strong>Aferição:</strong> 91278-3428</p>
               </div>
@@ -7683,7 +7619,8 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="INT" style="text-align: center;">PRIMAVERA INTERLAGOS (INT)</h1>
-      <p style="text-align: center;"><strong>Endereço: </strong> Rua Jequirituba, 83 (Jardim Colonial)/ Rua Alexandre Gandini, 71( Parque Santana) - São Paulo
+      <p style="text-align: center;"><strong>Endereço: </strong> Rua Jequirituba, 83 (Jardim Colonial)/ Rua Alexandre
+        Gandini, 71( Parque Santana) - São Paulo
         04822-000</p>
 
       <div style="justify-content: space-around; display: flex;">
@@ -7765,7 +7702,7 @@
                 <h5>Ramais</h5>
                 <p><strong>SSO:</strong> 91800 / 91801 / 91802</p>
                 <p><strong>Manutenção:</strong> 91803</p>
-                <p><strong>Supervisão:</strong> 91804</p>                
+                <p><strong>Supervisão:</strong> 91804</p>
                 <p><strong>Estação:</strong> 3927-4940</p>
                 <p><strong>Aferição:</strong> 91278-2239</p>
               </div>
@@ -7955,7 +7892,7 @@
                 <h5>Ramais</h5>
                 <p><strong>SSO:</strong> 91900 / 91901 / 91902</p>
                 <p><strong>Manutenção:</strong> 91903</p>
-                <p><strong>Supervisão:</strong> 91904</p>                
+                <p><strong>Supervisão:</strong> 91904</p>
                 <p><strong>Estação:</strong> 3927-4941</p>
                 <p><strong>Aferição:</strong> 91278-2875</p>
               </div>
@@ -8063,7 +8000,8 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="MVN" style="text-align: center;">MENDES VILA NATAL (MVN)</h1>
-      <p style="text-align: center;"><strong>Endereço: </strong> Estr. Dos Mendes, 92 - Jardim Icarai, São Paulo - SP, 04860-140</p>
+      <p style="text-align: center;"><strong>Endereço: </strong> Estr. Dos Mendes, 92 - Jardim Icarai, São Paulo - SP,
+        04860-140</p>
 
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
@@ -8144,7 +8082,7 @@
                 <h5>Ramais</h5>
                 <p><strong>SSO:</strong> 92000 / 92001 / 92002</p>
                 <p><strong>Manutenção:</strong> 92003</p>
-                <p><strong>Supervisão:</strong> 92004</p>                
+                <p><strong>Supervisão:</strong> 92004</p>
                 <p><strong>Estação:</strong> 3927-4942</p>
                 <p><strong>Aferição:</strong> 91278-2460</p>
               </div>
@@ -8265,38 +8203,50 @@
       <tr>
         <th scope="row"></th>
         <td>CPS Linha 08</td>
-        <td>4545-0000</td>
-        <td>8000</td>
+        <td>3927-4885</td>
+        <td>8004</td>
       </tr>
       <tr>
         <th scope="row"></th>
         <td>CPS Linha 09</td>
-        <td>4545-0000</td>
-        <td>8000</td>
+        <td>3927-4886</td>
+        <td>9004</td>
       </tr>
       <tr>
         <th scope="row"></th>
         <td>CPS Whatsapp</td>
-        <td>4545-0000</td>
-        <td>8000</td>
+        <td>91037-5205</td>
+        <td>Não atende ligação</td>
       </tr>
       <tr>
         <th scope="row"></th>
         <td>CCT Linha 08</td>
-        <td>4545-0000</td>
-        <td>8000</td>
+        <td>3927-4880</td>
+        <td>8001</td>
       </tr>
       <tr>
         <th scope="row"></th>
         <td>CCT linha 09</td>
-        <td>4545-0000</td>
-        <td>8000</td>
+        <td>3927-4884</td>
+        <td>9001</td>
       </tr>
       <tr>
         <th scope="row"></th>
-        <td>CGM</td>
-        <td>4545-0000</td>
-        <td>8000</td>
+        <td>CGM linha 08</td>
+        <td>3927-4887</td>
+        <td>8005</td>
+      </tr>
+      <tr>
+        <th scope="row"></th>
+        <td>CGM linha 09</td>
+        <td>3927-4889</td>
+        <td>9005</td>
+      </tr>
+      <tr>
+        <th scope="row"></th>
+        <td>Arrecadação</td>
+        <td>94361-5418</td>
+        <td>N/A</td>
       </tr>
     </tbody>
   </table>
