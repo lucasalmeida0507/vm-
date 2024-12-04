@@ -66,9 +66,6 @@
           <a class="nav-link" href="https://outlook.office.com/mail/" target="_blank">Email</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://grupoccr.gupy.io/" target="_blank">Gupy(vagas)</a>
-        </li>
-        <li class="nav-item">
           <div class="btn-group" role="group">
             <button id="btnGroupDrop1" type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown"
               aria-haspopup="true" aria-expanded="false">
@@ -105,8 +102,8 @@
       <div>
         <div>
           <a href="#home"
-            style="background-color: black; position: fixed; border-radius: 10px; right: 40px; top: 800px; z-index: 9999;;"><img
-              class="home" src="vm.png" alt="seta" style=" width: 90 px; height: 90px;"></a>
+            style="background-color: black; position: fixed; border-radius: 10px; right: 20px; top: 800px; z-index: 9999;;"><img
+              class="home" src="seta.png" alt="seta" style=" width: 85px; height: 85px; padding: 10px;"></a>
         </div>
       </div>
     </div>
@@ -156,12 +153,14 @@
     </div>
 
     <div class="alert alert-success" role="alert">
-      <h4 class="alert-heading">Alerts</h4>
-      <p>Quarta feira, dia 20 de Novembro às 11h da manhã, haverá jogo do Corinthians na Neo Química Arena.</p>
+      <h4 class="alert-heading">Alerta</h4>
+      <p></p>
       <hr>
-      <p class="mb-0">Atenção no trem onde os torcedores da organizada vão embarcar, se por ventura identificarem
-        terceiros com camisas de times rivais, orientá-los para que não coloquem em risco a própria integridade
-        física.
+      <p>Reforçando a necessidade de cumprir fielmente os procedimentos, priorizando o <strong>atendimento
+          humanizado</strong> e o cuidado com as pessoas, alinhado ao propósito de melhorar a vida das pessoas através
+        da mobilidade, com os nossos valores inegociáveis de integridade, integração e impacto. Reforçamos a necessidade
+        da utilização adequada das câmeras corporais disponíveis nas estações e mantenham sempre contato com o Centro de
+        Controle Operacional para mantê-lo atualizado.
       </p>
     </div>
 
@@ -1755,50 +1754,50 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Hospital Municipal Antônio Giglio						
-                  R. Pedro Fioreti, 48 - Centro, Osasco - SP						
-                  Tel:.	(11) 2183-9333					
-                  3.0 Km de distancia da Estação                 
+                <p>Hospital Municipal Antônio Giglio
+                  R. Pedro Fioreti, 48 - Centro, Osasco - SP
+                  Tel:. (11) 2183-9333
+                  3.0 Km de distancia da Estação
                 </p>
-                <p>Hospital Regional de Osasco						
-                  R. Ari Barroso, 355 - Pres. Altino, Osasco - SP						
-                  Tel:.	(11) 3683-3077					
-                  5.3 Km de distancia da Estação                  
+                <p>Hospital Regional de Osasco
+                  R. Ari Barroso, 355 - Pres. Altino, Osasco - SP
+                  Tel:. (11) 3683-3077
+                  5.3 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>1º Distrito Policial de Osasco						
-                  Av. Gal. Pedro Pinho, 1200						
-                  Tel:.	(11) 3681-8807					
-                  3.8 Km de distancia da Estação                  
+                <p>1º Distrito Policial de Osasco
+                  Av. Gal. Pedro Pinho, 1200
+                  Tel:. (11) 3681-8807
+                  3.8 Km de distancia da Estação
                 </p>
-                <p>5º Distrito Policial de Osasco 						
-                  R. Melvin Jones, 152 - Centro, Osasco - SP						
-                  Tel:.	(11) 3685-9426					
-                  3.6 km de distancia da Estação                  
+                <p>5º Distrito Policial de Osasco
+                  R. Melvin Jones, 152 - Centro, Osasco - SP
+                  Tel:. (11) 3685-9426
+                  3.6 km de distancia da Estação
                 </p>
-                <p>Delegacia de Defesa da Mulher - Osasco						
-                  R. Itabuna, 93 - Centro, Osasco - SP						
-                  Tel:.	(11) 3682-4485					
-                  4.0 km de distancia da Estação                  
+                <p>Delegacia de Defesa da Mulher - Osasco
+                  R. Itabuna, 93 - Centro, Osasco - SP
+                  Tel:. (11) 3682-4485
+                  4.0 km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>18° Grupamento de Bombeiros - Osasco						
-                  R. Vitória Régia, 61 - Jardim das Flores, Osasco - SP						
-                  Tel:.	(11) 3689-1426					
-                  2.7 Km de distancia da Estação                  
+                <p>18° Grupamento de Bombeiros - Osasco
+                  R. Vitória Régia, 61 - Jardim das Flores, Osasco - SP
+                  Tel:. (11) 3689-1426
+                  2.7 Km de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar						
-                  R. Catarina Fázio Antoniaze, 248 - Helena Maria, Osasco - SP						
-                  Tel:.	(11) 3656-3440					
-                  5.0 Km de distancia da Estação                  
+                <p>Conselho Tutelar
+                  R. Catarina Fázio Antoniaze, 248 - Helena Maria, Osasco - SP
+                  Tel:. (11) 3656-3440
+                  5.0 Km de distancia da Estação
                 </p>
-                <p>Guarda Civil Municipal de Osasco						
-                  R. Canadá, 201 - Jardim D'abril, Osasco - SP						
-                  Tel:.	2183-0869					
-                  6.6 Km de distancia da Estação                  
+                <p>Guarda Civil Municipal de Osasco
+                  R. Canadá, 201 - Jardim D'abril, Osasco - SP
+                  Tel:. 2183-0869
+                  6.6 Km de distancia da Estação
                 </p>
-                
+
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -1931,55 +1930,55 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Hospital Municipal Antônio Giglio						
-                  R. Pedro Fioreti, 48 - Centro, Osasco - SP						
-                  Tel:.	(11) 2183-9333					
-                  4.6 Km de distancia da Estação                  
+                <p>Hospital Municipal Antônio Giglio
+                  R. Pedro Fioreti, 48 - Centro, Osasco - SP
+                  Tel:. (11) 2183-9333
+                  4.6 Km de distancia da Estação
                 </p>
-                <p>Hospital Regional de Osasco						
-                  R. Ari Barroso, 355 - Pres. Altino, Osasco - SP						
-                  Tel:.	(11) 3683-3077					
-                  6.9 Km de distancia da Estação                  
+                <p>Hospital Regional de Osasco
+                  R. Ari Barroso, 355 - Pres. Altino, Osasco - SP
+                  Tel:. (11) 3683-3077
+                  6.9 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>1º Distrito Policial de Osasco						
-                  Av. Gen. Pedro Pinho, 1200 - Pestana, Osasco - SP						
-                  Tel:.	(11) 3681-8807					
-                  3.5 Km de distancia da Estação                  
+                <p>1º Distrito Policial de Osasco
+                  Av. Gen. Pedro Pinho, 1200 - Pestana, Osasco - SP
+                  Tel:. (11) 3681-8807
+                  3.5 Km de distancia da Estação
                 </p>
-                <p>Polícia Militar - 3ª Companhia do 14º BPM/M						
-                  Av. Mal. Rondon, 300 - Centro, Osasco - SP						
-                  Tel:.	(11) 3681-7106					
-                  5.5 Km de distancia da Estação                  
+                <p>Polícia Militar - 3ª Companhia do 14º BPM/M
+                  Av. Mal. Rondon, 300 - Centro, Osasco - SP
+                  Tel:. (11) 3681-7106
+                  5.5 Km de distancia da Estação
                 </p>
-                <p>9º Distrito Policial de Osasco - CIVIL						
-                  R. Carlos da Costa Ramalho Júnior, 145 - Pres. Altino, Osasco - SP						
-                  Tel:.	(11) 3681-8355					
-                  7.0 Km de distancia da Estação                  
+                <p>9º Distrito Policial de Osasco - CIVIL
+                  R. Carlos da Costa Ramalho Júnior, 145 - Pres. Altino, Osasco - SP
+                  Tel:. (11) 3681-8355
+                  7.0 Km de distancia da Estação
                 </p>
-                <p>Delegacia de Defesa da Mulher - Osasco						
-                  R. Itabuna, 93 - Centro, Osasco - SP						
-                  Tel:.	(11) 3682-4485					
-                  5.6 km de distancia da Estação                  
+                <p>Delegacia de Defesa da Mulher - Osasco
+                  R. Itabuna, 93 - Centro, Osasco - SP
+                  Tel:. (11) 3682-4485
+                  5.6 km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>Posto de Bombeiros Osasco						
-                  R. Vitória Régia, 61 - Jardim das Flores, Osasco - SP						
-                  Tel:.	(11) 3689-1426					
-                  4.3 Km de distancia da Estação                  
+                <p>Posto de Bombeiros Osasco
+                  R. Vitória Régia, 61 - Jardim das Flores, Osasco - SP
+                  Tel:. (11) 3689-1426
+                  4.3 Km de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar						
-                  R. Catarina Fázio Antoniaze, 248 - Helena Maria, Osasco - SP						
-                  Tel:.	(11) 3656-3440					
-                  6.6 Km de distancia da Estação                  
+                <p>Conselho Tutelar
+                  R. Catarina Fázio Antoniaze, 248 - Helena Maria, Osasco - SP
+                  Tel:. (11) 3656-3440
+                  6.6 Km de distancia da Estação
                 </p>
-                <p>Guarda Civil Municipal de Osasco						
-                  R. Canadá, 201 - Jardim D'abril, Osasco - SP						
-                  Tel:.	2183-0869					
-                  8.2 Km de distancia da Estação                  
+                <p>Guarda Civil Municipal de Osasco
+                  R. Canadá, 201 - Jardim D'abril, Osasco - SP
+                  Tel:. 2183-0869
+                  8.2 Km de distancia da Estação
                 </p>
-                
+
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -2109,53 +2108,53 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Hospital Municipal Antônio Giglio						
-                  R. Pedro Fioreti, 48 - Centro, Osasco - SP						
-                  Tel:.	(11) 2183-9333					
-                  5.1 Km de distancia da Estação                  
+                <p>Hospital Municipal Antônio Giglio
+                  R. Pedro Fioreti, 48 - Centro, Osasco - SP
+                  Tel:. (11) 2183-9333
+                  5.1 Km de distancia da Estação
                 </p>
-                <p>Hospital Regional de Osasco						
-                  R. Ari Barroso, 355 - Pres. Altino, Osasco - SP						
-                  Tel:.	(11) 3683-3077					
-                  6.8 Km de distancia da Estação                  
+                <p>Hospital Regional de Osasco
+                  R. Ari Barroso, 355 - Pres. Altino, Osasco - SP
+                  Tel:. (11) 3683-3077
+                  6.8 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>1º Distrito Policial de Osasco						
-                  Av. Gen. Pedro Pinho, 1200 - Pestana, Osasco - SP						
-                  Tel:.	(11) 3681-8807					
-                  3.9 Km de distancia da Estação                  
+                <p>1º Distrito Policial de Osasco
+                  Av. Gen. Pedro Pinho, 1200 - Pestana, Osasco - SP
+                  Tel:. (11) 3681-8807
+                  3.9 Km de distancia da Estação
                 </p>
-                <p>Delegacia de Defesa da Mulher - Carapicuíba						
-                  R. Corifeu de Azevedo Marques, 4300 - Centro, Carapicuíba - SP						
-                  Tel:.						
-                  2.7 Km de distancia da Estação                  
+                <p>Delegacia de Defesa da Mulher - Carapicuíba
+                  R. Corifeu de Azevedo Marques, 4300 - Centro, Carapicuíba - SP
+                  Tel:.
+                  2.7 Km de distancia da Estação
                 </p>
-                <p>Delegacia de Defesa da Mulher - Carapicuíba						
-                  Av. Rui Barbosa, 1582 - Centro, Carapicuíba - SP						
-                  Tel:.	(11) 4167-2649					
-                  3.5 Km de distancia da Estação                  
+                <p>Delegacia de Defesa da Mulher - Carapicuíba
+                  Av. Rui Barbosa, 1582 - Centro, Carapicuíba - SP
+                  Tel:. (11) 4167-2649
+                  3.5 Km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>Posto de Bombeiros Osasco						
-                  R. Vitória Régia, 61 - Jardim das Flores, Osasco - SP						
-                  Tel:.	(11) 3689-1426					
-                  4.8 Km de distancia da Estação                  
+                <p>Posto de Bombeiros Osasco
+                  R. Vitória Régia, 61 - Jardim das Flores, Osasco - SP
+                  Tel:. (11) 3689-1426
+                  4.8 Km de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar dos Direitos da Criança e do Adolescente Carapicuiba						
-                  R. São Miguel, 156 - Jardim Boa Vista, Carapicuíba - SP						
-                  Tel:.	(11) 4184-4337					
-                  2.9 Km de distancia da Estação                  
+                <p>Conselho Tutelar dos Direitos da Criança e do Adolescente Carapicuiba
+                  R. São Miguel, 156 - Jardim Boa Vista, Carapicuíba - SP
+                  Tel:. (11) 4184-4337
+                  2.9 Km de distancia da Estação
                 </p>
-                <p>Conselho Tutelar						
-                  R. Catarina Fázio Antoniaze, 248 - Helena Maria, Osasco - SP						
-                  Tel:.	(11) 3656-3440					
-                  7.1 Km de distancia da Estação                  
+                <p>Conselho Tutelar
+                  R. Catarina Fázio Antoniaze, 248 - Helena Maria, Osasco - SP
+                  Tel:. (11) 3656-3440
+                  7.1 Km de distancia da Estação
                 </p>
-                <p>Guarda Civil Municipal de Osasco						
-                  R. Canadá, 201 - Jardim D'abril, Osasco - SP						
-                  Tel:.	2183-0869					
-                  8.7 Km de distancia da Estação                  
+                <p>Guarda Civil Municipal de Osasco
+                  R. Canadá, 201 - Jardim D'abril, Osasco - SP
+                  Tel:. 2183-0869
+                  8.7 Km de distancia da Estação
                 </p>
 
               </div>
@@ -2287,42 +2286,42 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Hospital Geral de Carapicuíba						
-                  R. da Pedreira, 95 - Parque Jose Alexandre, Carapicuíba - SP						
-                  Tel:.	4185-7600					
-                  2.9 Km de distancia da Estação                  
+                <p>Hospital Geral de Carapicuíba
+                  R. da Pedreira, 95 - Parque Jose Alexandre, Carapicuíba - SP
+                  Tel:. 4185-7600
+                  2.9 Km de distancia da Estação
                 </p>
-                <p>Pronto Socorro Vila Dirce						
-                  Estr. Ernestina Vieira, 70 - Vila Dirce, Carapicuíba - SP						
-                  Tel:.	4188-8309					
-                  4.6 Km de distancia da Estação                  
+                <p>Pronto Socorro Vila Dirce
+                  Estr. Ernestina Vieira, 70 - Vila Dirce, Carapicuíba - SP
+                  Tel:. 4188-8309
+                  4.6 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>1° Distrito Policial de Carapicuíba						
-                  Av. Rui Barbosa, 1582 - Vila Caldas, Carapicuíba - SP						
-                  Tel:.	(11) 4184-2358					
-                  1.2 Km de distancia da Estação                  
+                <p>1° Distrito Policial de Carapicuíba
+                  Av. Rui Barbosa, 1582 - Vila Caldas, Carapicuíba - SP
+                  Tel:. (11) 4184-2358
+                  1.2 Km de distancia da Estação
                 </p>
-                <p>33° Batalhão de Policia Militar Metropolitano						
-                  Av. Com. Dante Carraro, 333 - Cidade Ariston Estela Azevedo, Carapicuíba - SP						
-                  Tel:.	(11) 4169-6218					
-                  2.9 Km de distancia da Estação                  
+                <p>33° Batalhão de Policia Militar Metropolitano
+                  Av. Com. Dante Carraro, 333 - Cidade Ariston Estela Azevedo, Carapicuíba - SP
+                  Tel:. (11) 4169-6218
+                  2.9 Km de distancia da Estação
                 </p>
-                <p>Delegacia de Defesa da Mulher - Carapicuíba						
-                  Av. Rui Barbosa, 1582 - Centro, Carapicuíba - SP						
-                  Tel:.	(11) 4167-2649					
-                  1.3 km de distancia da Estação                  
+                <p>Delegacia de Defesa da Mulher - Carapicuíba
+                  Av. Rui Barbosa, 1582 - Centro, Carapicuíba - SP
+                  Tel:. (11) 4167-2649
+                  1.3 km de distancia da Estação
                 </p>
-                <p>Delegacia de Defesa da Mulher - Carapicuíba						
-                  R. Corifeu de Azevedo Marques, 4300 - Centro, Carapicuíba - SP						
-                  Tel:.						
-                  1.4 Km de distancia da Estação                  
+                <p>Delegacia de Defesa da Mulher - Carapicuíba
+                  R. Corifeu de Azevedo Marques, 4300 - Centro, Carapicuíba - SP
+                  Tel:.
+                  1.4 Km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>18ºGB - 1º SGB - Estação de Bombeiros de Carapicuíba 						
-                  Av. General Teixeira Lott, 737 - Centro, Carapicuíba - SP						
-                  Tel:.	(11) 4164-1404					
-                  1.6 km de distancia da Estação                  
+                <p>18ºGB - 1º SGB - Estação de Bombeiros de Carapicuíba
+                  Av. General Teixeira Lott, 737 - Centro, Carapicuíba - SP
+                  Tel:. (11) 4164-1404
+                  1.6 km de distancia da Estação
                 </p>
                 <p>4º Grupamento de Bombeiros - Lapa
                   R. Martim Tenório, 130 - Lapa, São Paulo - SP
@@ -2330,20 +2329,20 @@
                   10.8 Km de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar						
-                  R. Antônio Roberto, 47- Jardim das Belezas, Carapicuíba - SP						
-                  Tel:.	4184-4337 / 4184-8813					
-                  1.2 Km de distancia da Estação                  
+                <p>Conselho Tutelar
+                  R. Antônio Roberto, 47- Jardim das Belezas, Carapicuíba - SP
+                  Tel:. 4184-4337 / 4184-8813
+                  1.2 Km de distancia da Estação
                 </p>
-                <p>Conselho Tutelar dos Direitos da Criança e do Adolescente Carapicuiba						
-                  R. São Miguel, 156 - Jardim Boa Vista, Carapicuíba - SP						
-                  Tel:.	(11) 4184-4337					
-                  2.2 Km de distancia da Estação                  
+                <p>Conselho Tutelar dos Direitos da Criança e do Adolescente Carapicuiba
+                  R. São Miguel, 156 - Jardim Boa Vista, Carapicuíba - SP
+                  Tel:. (11) 4184-4337
+                  2.2 Km de distancia da Estação
                 </p>
-                <p>Guarda Civil Municipal Carapicuíba						
-                  R. João Acácio de Almeida, 150 - Jardim das Belezas, Carapicuíba - SP						
-                  Tel:.	4183-5229					
-                  1.5 Km de distancia da Estação                  
+                <p>Guarda Civil Municipal Carapicuíba
+                  R. João Acácio de Almeida, 150 - Jardim das Belezas, Carapicuíba - SP
+                  Tel:. 4183-5229
+                  1.5 Km de distancia da Estação
                 </p>
 
               </div>
@@ -2476,48 +2475,48 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Hospital Geral de Carapicuíba						
-                  R. da Pedreira, 95 - Parque Jose Alexandre, Carapicuíba - SP						
-                  Tel:.	4185-7600					
-                  3.6 Km de distancia da Estação                  
+                <p>Hospital Geral de Carapicuíba
+                  R. da Pedreira, 95 - Parque Jose Alexandre, Carapicuíba - SP
+                  Tel:. 4185-7600
+                  3.6 Km de distancia da Estação
                 </p>
-                <p>Pronto Socorro Vila Dirce						
-                  Estr. Ernestina Vieira, 70 - Vila Dirce, Carapicuíba - SP						
-                  Tel:.	4188-8309					
-                  5.3 Km de distancia da Estação                  
+                <p>Pronto Socorro Vila Dirce
+                  Estr. Ernestina Vieira, 70 - Vila Dirce, Carapicuíba - SP
+                  Tel:. 4188-8309
+                  5.3 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>1° Distrito Policial de Carapicuíba						
-                  Av. Rui Barbosa, 1582 - Vila Caldas, Carapicuíba - SP						
-                  Tel:.	(11) 4184-2358					
-                  1.8 Km de distancia da Estação                  
+                <p>1° Distrito Policial de Carapicuíba
+                  Av. Rui Barbosa, 1582 - Vila Caldas, Carapicuíba - SP
+                  Tel:. (11) 4184-2358
+                  1.8 Km de distancia da Estação
                 </p>
-                <p>33° Batalhão de Policia Militar Metropolitano						
-                  Av. Com. Dante Carraro, 333 - Cidade Ariston Estela Azevedo, Carapicuíba - SP						
-                  Tel:.	(11) 4169-6218					
-                  2.5 Km de distancia da Estação                  
+                <p>33° Batalhão de Policia Militar Metropolitano
+                  Av. Com. Dante Carraro, 333 - Cidade Ariston Estela Azevedo, Carapicuíba - SP
+                  Tel:. (11) 4169-6218
+                  2.5 Km de distancia da Estação
                 </p>
-                <p>Delegacia de Defesa da Mulher - Carapicuíba						
-                  Av. Rui Barbosa, 1582 - Centro, Carapicuíba - SP						
-                  Tel:.	(11) 4167-2649					
-                  1.8 km de distancia da Estação                  
+                <p>Delegacia de Defesa da Mulher - Carapicuíba
+                  Av. Rui Barbosa, 1582 - Centro, Carapicuíba - SP
+                  Tel:. (11) 4167-2649
+                  1.8 km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>18ºGB-1ºSGB-Estação de Bombeiros de Carapicuíba 						
-                  Av. General Teixeira Lott, 737 - Centro, Carapicuíba - SP						
-                  Tel:.	(11) 4164-1404					
-                  2.1 km de distancia da Estação                  
+                <p>18ºGB-1ºSGB-Estação de Bombeiros de Carapicuíba
+                  Av. General Teixeira Lott, 737 - Centro, Carapicuíba - SP
+                  Tel:. (11) 4164-1404
+                  2.1 km de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar						
-                  R. Antônio Roberto, 47- Jardim das Belezas, Carapicuíba - SP						
-                  Tel:.	4184-4337 / 4184-8813					
-                  2.5 Km de distancia da Estação                  
+                <p>Conselho Tutelar
+                  R. Antônio Roberto, 47- Jardim das Belezas, Carapicuíba - SP
+                  Tel:. 4184-4337 / 4184-8813
+                  2.5 Km de distancia da Estação
                 </p>
-                <p>Guarda Civil Municipal Carapicuíba						
-                  R. João Acácio de Almeida, 150 - Jardim das Belezas, Carapicuíba - SP						
-                  Tel:.	4183-5229					
-                  2.6 Km de distancia da Estação                  
+                <p>Guarda Civil Municipal Carapicuíba
+                  R. João Acácio de Almeida, 150 - Jardim das Belezas, Carapicuíba - SP
+                  Tel:. 4183-5229
+                  2.6 Km de distancia da Estação
                 </p>
 
               </div>
@@ -2650,53 +2649,53 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Pronto-Socorro e Maternidade Nair Fonseca Leitão Arantes						
-                  R. Prof. João da Mata e Luz, 262 - Centro, Barueri - SP						
-                  Tel.:	4199-3143					
-                  3.8 Km de distancia da Estação                  
+                <p>Pronto-Socorro e Maternidade Nair Fonseca Leitão Arantes
+                  R. Prof. João da Mata e Luz, 262 - Centro, Barueri - SP
+                  Tel.: 4199-3143
+                  3.8 Km de distancia da Estação
                 </p>
-                <p>Hospital Geral de Carapicuíba						
-                  R. da Pedreira, 95 - Parque Jose Alexandre, Carapicuíba - SP						
-                  Tel:.	4185-7600					
-                  4.8 Km de distancia da Estação                  
+                <p>Hospital Geral de Carapicuíba
+                  R. da Pedreira, 95 - Parque Jose Alexandre, Carapicuíba - SP
+                  Tel:. 4185-7600
+                  4.8 Km de distancia da Estação
                 </p>
-                <p>Pronto Socorro Vila Dirce						
-                  Estr. Ernestina Vieira, 70 - Vila Dirce, Carapicuíba - SP						
-                  Tel:.	4188-8309					
-                  5.5 Km de distancia da Estação                  
+                <p>Pronto Socorro Vila Dirce
+                  Estr. Ernestina Vieira, 70 - Vila Dirce, Carapicuíba - SP
+                  Tel:. 4188-8309
+                  5.5 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>Delegacia de Polícia de Barueri						
-                  R. Pres. Artur da Costa e Silva, 200 - Vila Silveira, Barueri - SP						
-                  Tel.:	4198-1639					
-                  4.3 Km de distancia da Estação                  
+                <p>Delegacia de Polícia de Barueri
+                  R. Pres. Artur da Costa e Silva, 200 - Vila Silveira, Barueri - SP
+                  Tel.: 4198-1639
+                  4.3 Km de distancia da Estação
                 </p>
-                <p>Policia Militar - 20° BPM/M						
-                  R. Caim, 181 - Jardim Sao Pedro, Barueri - SP						
-                  Tel:.	4198-3300					
-                  4.7 Km de distancia da Estação                  
+                <p>Policia Militar - 20° BPM/M
+                  R. Caim, 181 - Jardim Sao Pedro, Barueri - SP
+                  Tel:. 4198-3300
+                  4.7 Km de distancia da Estação
                 </p>
-                <p>Delegacia de Defesa da Mulher - Carapicuíba						
-                  Av. Rui Barbosa, 1582 - Centro, Carapicuíba - SP						
-                  Tel:.	(11) 4198-3145					
-                  4.4 Km de distancia da Estação                  
+                <p>Delegacia de Defesa da Mulher - Carapicuíba
+                  Av. Rui Barbosa, 1582 - Centro, Carapicuíba - SP
+                  Tel:. (11) 4198-3145
+                  4.4 Km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>Corpo De Bombeiros Barueri						
-                  Rua Cabo PM José Maria Schiavelli, 193 - Jardim Tupanci, Barueri - SP						
-                  Tel:.	(11) 4199-2955					
-                  4.3 km de distancia da Estação                  
+                <p>Corpo De Bombeiros Barueri
+                  Rua Cabo PM José Maria Schiavelli, 193 - Jardim Tupanci, Barueri - SP
+                  Tel:. (11) 4199-2955
+                  4.3 km de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Corpo De Bombeiros Barueri						
-                  Rua Cabo PM José Maria Schiavelli, 193 - Jardim Tupanci, Barueri - SP						
-                  Tel:.	(11) 4199-2955					
-                  4.3 km de distancia da Estação                  
+                <p>Corpo De Bombeiros Barueri
+                  Rua Cabo PM José Maria Schiavelli, 193 - Jardim Tupanci, Barueri - SP
+                  Tel:. (11) 4199-2955
+                  4.3 km de distancia da Estação
                 </p>
-                <p>Batalhão Da Guarda Municipal De Barueri						
-                  Rua da prta - Vila Porto, Barueri  S/nº - SP						
-                  Tel:.	4198-3205					
-                  3.2 Km de distancia da Estação                  
+                <p>Batalhão Da Guarda Municipal De Barueri
+                  Rua da prta - Vila Porto, Barueri S/nº - SP
+                  Tel:. 4198-3205
+                  3.2 Km de distancia da Estação
                 </p>
 
               </div>
@@ -2828,53 +2827,53 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Pronto-Socorro e Maternidade Nair Fonseca Leitão Arantes						
-                  R. Prof. João da Mata e Luz, 262 - Centro, Barueri - SP						
-                  Tel.:	4199-3143					
-                  1.8 Km de distancia da Estação                  
+                <p>Pronto-Socorro e Maternidade Nair Fonseca Leitão Arantes
+                  R. Prof. João da Mata e Luz, 262 - Centro, Barueri - SP
+                  Tel.: 4199-3143
+                  1.8 Km de distancia da Estação
                 </p>
-                <p>UBS Benedito de Oliveira Crudo						
-                  R. Carlos de Campos, 82 - Vila Boa Vista, Barueri - SP						
-                  Tel.:	3164-9270					
-                  2.9 Km de distancia da Estação                  
+                <p>UBS Benedito de Oliveira Crudo
+                  R. Carlos de Campos, 82 - Vila Boa Vista, Barueri - SP
+                  Tel.: 3164-9270
+                  2.9 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>Delegacia de Polícia de Barueri						
-                  R. Pres. Artur da Costa e Silva, 200 - Vila Silveira, Barueri - SP						
-                  Tel.:	4198-1639					
-                  3.6 Km de distancia da Estação                  
+                <p>Delegacia de Polícia de Barueri
+                  R. Pres. Artur da Costa e Silva, 200 - Vila Silveira, Barueri - SP
+                  Tel.: 4198-1639
+                  3.6 Km de distancia da Estação
                 </p>
-                <p>Delegacia de Proteção ao Idoso (1º DP Barueri)						
-                  Rua Angelina de Assis Santos, 39 - Jardim Tupan, Barueri - SP						
-                  Tel.:	4201-3199  - 4201-1918					
-                  3.6 Km de distancia da Estação                  
+                <p>Delegacia de Proteção ao Idoso (1º DP Barueri)
+                  Rua Angelina de Assis Santos, 39 - Jardim Tupan, Barueri - SP
+                  Tel.: 4201-3199  - 4201-1918
+                  3.6 Km de distancia da Estação
                 </p>
-                <p>Policia Militar - 20° BPM/M						
-                  R. Caim, 181 - Jardim Sao Pedro, Barueri - SP						
-                  Tel.:	4198-3300					
-                  3.9 Km de distancia da Estação                  
+                <p>Policia Militar - 20° BPM/M
+                  R. Caim, 181 - Jardim Sao Pedro, Barueri - SP
+                  Tel.: 4198-3300
+                  3.9 Km de distancia da Estação
                 </p>
-                <p>Delegacia de Defesa da Mulher - Barueri						
-                  Av. Sebastião Davino dos Réis, 756 - Jardim Tupanci, Barueri - SP						
-                  Tel:.	(11) 4198-3145					
-                  4.9 km de distancia da Estação                  
+                <p>Delegacia de Defesa da Mulher - Barueri
+                  Av. Sebastião Davino dos Réis, 756 - Jardim Tupanci, Barueri - SP
+                  Tel:. (11) 4198-3145
+                  4.9 km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>Delegacia de Defesa da Mulher - Barueri						
-                  Av. Sebastião Davino dos Réis, 756 - Jardim Tupanci, Barueri - SP						
-                  Tel:.	(11) 4198-3145					
-                  4.9 km de distancia da Estação                  
+                <p>Delegacia de Defesa da Mulher - Barueri
+                  Av. Sebastião Davino dos Réis, 756 - Jardim Tupanci, Barueri - SP
+                  Tel:. (11) 4198-3145
+                  4.9 km de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar 2 De Barueri						
-                  R. Profª. Elvira Lefévre Sales Nemer, 178 - Jardim Sao Pedro, Barueri - SP						
-                  Tel.:	(11) 3164-9553					
-                  4.9  Km de distancia da Estação                  
+                <p>Conselho Tutelar 2 De Barueri
+                  R. Profª. Elvira Lefévre Sales Nemer, 178 - Jardim Sao Pedro, Barueri - SP
+                  Tel.: (11) 3164-9553
+                  4.9 Km de distancia da Estação
                 </p>
-                <p>Batalhão Da Guarda Municipal De Barueri						
-                  Rua da prta - Vila Porto, Barueri  S/nº - SP						
-                  Tel:.	4198-3205					
-                  3.5 Km de distancia da Estação                  
+                <p>Batalhão Da Guarda Municipal De Barueri
+                  Rua da prta - Vila Porto, Barueri S/nº - SP
+                  Tel:. 4198-3205
+                  3.5 Km de distancia da Estação
                 </p>
 
               </div>
@@ -3008,53 +3007,53 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Pronto-Socorro e Maternidade Nair Fonseca Leitão Arantes						
-                  R. Prof. João da Mata e Luz, 262 - Centro, Barueri - SP						
-                  Tel.:	4199-3143					
-                  3.2 Km de distancia da Estação                  
+                <p>Pronto-Socorro e Maternidade Nair Fonseca Leitão Arantes
+                  R. Prof. João da Mata e Luz, 262 - Centro, Barueri - SP
+                  Tel.: 4199-3143
+                  3.2 Km de distancia da Estação
                 </p>
-                <p>UBS Benedito de Oliveira Crudo						
-                  R. Carlos de Campos, 82 - Vila Boa Vista, Barueri - SP						
-                  Tel.:	3164-9270					
-                  3.5 Km de distancia da Estação                  
+                <p>UBS Benedito de Oliveira Crudo
+                  R. Carlos de Campos, 82 - Vila Boa Vista, Barueri - SP
+                  Tel.: 3164-9270
+                  3.5 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>Delegacia de Proteção ao Idoso (1º DP Barueri)						
-                  Rua Angelina de Assis Santos, 39 - Jardim Tupan, Barueri - SP						
-                  Tel.:	4201-3199  - 4201-1918					
-                  1.9 Km de distancia da Estação                  
+                <p>Delegacia de Proteção ao Idoso (1º DP Barueri)
+                  Rua Angelina de Assis Santos, 39 - Jardim Tupan, Barueri - SP
+                  Tel.: 4201-3199  - 4201-1918
+                  1.9 Km de distancia da Estação
                 </p>
-                <p>Policia Militar - 20° BPM/M						
-                  R. Caim, 181 - Jardim Sao Pedro, Barueri - SP						
-                  Tel.:	4198-3300					
-                  3.8 Km de distancia da Estação                  
+                <p>Policia Militar - 20° BPM/M
+                  R. Caim, 181 - Jardim Sao Pedro, Barueri - SP
+                  Tel.: 4198-3300
+                  3.8 Km de distancia da Estação
                 </p>
-                <p>Delegacia de Polícia de Barueri						
-                  R. Pres. Artur da Costa e Silva, 200 - Vila Silveira, Barueri - SP						
-                  Tel.:	4198-1639					
-                  5.8 Km de distancia da Estação                  
+                <p>Delegacia de Polícia de Barueri
+                  R. Pres. Artur da Costa e Silva, 200 - Vila Silveira, Barueri - SP
+                  Tel.: 4198-1639
+                  5.8 Km de distancia da Estação
                 </p>
-                <p>Delegacia de Defesa da Mulher - Barueri						
-                  Av. Sebastião Davino dos Réis, 756 - Jardim Tupanci, Barueri - SP						
-                  Tel:.	(11) 4198-3145					
-                  7.1 km de distancia da Estação                  
+                <p>Delegacia de Defesa da Mulher - Barueri
+                  Av. Sebastião Davino dos Réis, 756 - Jardim Tupanci, Barueri - SP
+                  Tel:. (11) 4198-3145
+                  7.1 km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>Corpo De Bombeiros Barueri						
-                  Rua Cabo PM José Maria Schiavelli, 193 - Jardim Tupanci, Barueri - SP						
-                  Tel:.	(11) 4199-2955					
-                  6.0 km de distancia da Estação                  
+                <p>Corpo De Bombeiros Barueri
+                  Rua Cabo PM José Maria Schiavelli, 193 - Jardim Tupanci, Barueri - SP
+                  Tel:. (11) 4199-2955
+                  6.0 km de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar 2 De Barueri						
-                  R. Profª. Elvira Lefévre Sales Nemer, 178 - Jardim Sao Pedro, Barueri - SP						
-                  Tel.:	(11) 3164-9553					
-                  3.2  Km de distancia da Estação                  
+                <p>Conselho Tutelar 2 De Barueri
+                  R. Profª. Elvira Lefévre Sales Nemer, 178 - Jardim Sao Pedro, Barueri - SP
+                  Tel.: (11) 3164-9553
+                  3.2 Km de distancia da Estação
                 </p>
-                <p>Batalhão Da Guarda Municipal De Barueri						
-                  Rua da prta - Vila Porto, Barueri  S/nº - SP						
-                  Tel:.	4198-3205					
-                  5.7 Km de distancia da Estação                  
+                <p>Batalhão Da Guarda Municipal De Barueri
+                  Rua da prta - Vila Porto, Barueri S/nº - SP
+                  Tel:. 4198-3205
+                  5.7 Km de distancia da Estação
                 </p>
 
               </div>
@@ -3187,58 +3186,58 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>UBS Vince Nemeth						
-                  Rua Britânia, 165 - Jardim Silveira, Barueri - SP						
-                  Tel.:	4201-4818					
-                  2.1Km de distancia da Estação                  
+                <p>UBS Vince Nemeth
+                  Rua Britânia, 165 - Jardim Silveira, Barueri - SP
+                  Tel.: 4201-4818
+                  2.1Km de distancia da Estação
                 </p>
-                <p>Pronto-Socorro e Maternidade Nair Fonseca Leitão Arantes						
-                  R. Prof. João da Mata e Luz, 262 - Centro, Barueri - SP						
-                  Tel.:	4199-3143					
-                  4.4 Km de distancia da Estação                  
+                <p>Pronto-Socorro e Maternidade Nair Fonseca Leitão Arantes
+                  R. Prof. João da Mata e Luz, 262 - Centro, Barueri - SP
+                  Tel.: 4199-3143
+                  4.4 Km de distancia da Estação
                 </p>
-                <p>UBS Benedito de Oliveira Crudo						
-                  R. Carlos de Campos, 82 - Vila Boa Vista, Barueri - SP						
-                  Tel.:	3164-9270					
-                  5.7 Km de distancia da Estação                  
+                <p>UBS Benedito de Oliveira Crudo
+                  R. Carlos de Campos, 82 - Vila Boa Vista, Barueri - SP
+                  Tel.: 3164-9270
+                  5.7 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>Delegacia de Proteção ao Idoso (1º DP Barueri)						
-                  Rua Angelina de Assis Santos, 39 - Jardim Tupan, Barueri - SP						
-                  Tel.:	4201-3199  - 4201-1918					
-                  2.1 Km de distancia da Estação                  
+                <p>Delegacia de Proteção ao Idoso (1º DP Barueri)
+                  Rua Angelina de Assis Santos, 39 - Jardim Tupan, Barueri - SP
+                  Tel.: 4201-3199  - 4201-1918
+                  2.1 Km de distancia da Estação
                 </p>
-                <p>Policia Militar - 20° BPM/M						
-                  R. Caim, 181 - Jardim Sao Pedro, Barueri - SP						
-                  Tel.:	4198-3300					
-                  4.4 Km de distancia da Estação                  
+                <p>Policia Militar - 20° BPM/M
+                  R. Caim, 181 - Jardim Sao Pedro, Barueri - SP
+                  Tel.: 4198-3300
+                  4.4 Km de distancia da Estação
                 </p>
-                <p>Delegacia de Polícia de Barueri						
-                  R. Pres. Artur da Costa e Silva, 200 - Vila Silveira, Barueri - SP						
-                  Tel.:	4198-1639					
-                  6.3 Km de distancia da Estação                  
+                <p>Delegacia de Polícia de Barueri
+                  R. Pres. Artur da Costa e Silva, 200 - Vila Silveira, Barueri - SP
+                  Tel.: 4198-1639
+                  6.3 Km de distancia da Estação
                 </p>
-                <p>Delegacia de Defesa da Mulher - Barueri						
-                  Av. Sebastião Davino dos Réis, 756 - Jardim Tupanci, Barueri - SP						
-                  Tel:.	(11) 4198-3145					
-                  8.0 km de distancia da Estação                  
+                <p>Delegacia de Defesa da Mulher - Barueri
+                  Av. Sebastião Davino dos Réis, 756 - Jardim Tupanci, Barueri - SP
+                  Tel:. (11) 4198-3145
+                  8.0 km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>Corpo De Bombeiros Barueri						
-                  Rua Cabo PM José Maria Schiavelli, 193 - Jardim Tupanci, Barueri - SP						
-                  Tel:.	(11) 4199-2955					
-                  6.6 km de distancia da Estação                  
+                <p>Corpo De Bombeiros Barueri
+                  Rua Cabo PM José Maria Schiavelli, 193 - Jardim Tupanci, Barueri - SP
+                  Tel:. (11) 4199-2955
+                  6.6 km de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Corpo De Bombeiros Barueri						
-                  Rua Cabo PM José Maria Schiavelli, 193 - Jardim Tupanci, Barueri - SP						
-                  Tel:.	(11) 4199-2955					
-                  6.6 km de distancia da Estação                  
+                <p>Corpo De Bombeiros Barueri
+                  Rua Cabo PM José Maria Schiavelli, 193 - Jardim Tupanci, Barueri - SP
+                  Tel:. (11) 4199-2955
+                  6.6 km de distancia da Estação
                 </p>
-                <p>Batalhão Da Guarda Municipal De Barueri						
-                  Rua da prta - Vila Porto, Barueri  S/nº - SP						
-                  Tel:.	4198-3205					
-                  6.2 Km de distancia da Estação                  
+                <p>Batalhão Da Guarda Municipal De Barueri
+                  Rua da prta - Vila Porto, Barueri S/nº - SP
+                  Tel:. 4198-3205
+                  6.2 Km de distancia da Estação
                 </p>
 
               </div>
@@ -3372,48 +3371,48 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Hospital Municipal de Jandira						
-                  Rua João Balhesteiro, 720 - Barueri - SP						
-                  Tel.:	4707-2349					
-                  1.3 Km de distancia da Estação                  
+                <p>Hospital Municipal de Jandira
+                  Rua João Balhesteiro, 720 - Barueri - SP
+                  Tel.: 4707-2349
+                  1.3 Km de distancia da Estação
                 </p>
-                <p>UBS Vince Nemeth						
-                  Rua Britânia, 165 - Jardim Silveira, Barueri - SP						
-                  Tel.:	4201-4818					
-                  3.3 Km de distancia da Estação                  
+                <p>UBS Vince Nemeth
+                  Rua Britânia, 165 - Jardim Silveira, Barueri - SP
+                  Tel.: 4201-4818
+                  3.3 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>Delegacia de Polícia Jandira						
-                  Av. Alberto Ruffolo, 33 - Vila Anita Costa, Jandira - SP						
-                  Tel.:	(11) 4707-2288					
-                  1.4 Km de distancia da Estação                  
+                <p>Delegacia de Polícia Jandira
+                  Av. Alberto Ruffolo, 33 - Vila Anita Costa, Jandira - SP
+                  Tel.: (11) 4707-2288
+                  1.4 Km de distancia da Estação
                 </p>
-                <p>1º Companhia do 20° BPM - Barueri						
-                  Av. Zélia, 1330 - Parque dos Camargos, Barueri - SP						
-                  Tel.:	4201-3224					
-                  3.6 Km de distancia da Estação                  
+                <p>1º Companhia do 20° BPM - Barueri
+                  Av. Zélia, 1330 - Parque dos Camargos, Barueri - SP
+                  Tel.: 4201-3224
+                  3.6 Km de distancia da Estação
                 </p>
-                <p>1º Companhia do 20° BPM - Barueri						
-                  Av. Zélia, 1330 - Parque dos Camargos, Barueri - SP						
-                  Tel.:	4201-3224					
-                  3.6 Km de distancia da Estação                  
+                <p>1º Companhia do 20° BPM - Barueri
+                  Av. Zélia, 1330 - Parque dos Camargos, Barueri - SP
+                  Tel.: 4201-3224
+                  3.6 Km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>Corpo De Bombeiros Barueri						
-                  Rua Cabo PM José Maria Schiavelli, 193 - Jardim Tupanci, Barueri - SP						
-                  Tel:.	(11) 4199-2955					
-                  6.6 km de distancia da Estação                  
+                <p>Corpo De Bombeiros Barueri
+                  Rua Cabo PM José Maria Schiavelli, 193 - Jardim Tupanci, Barueri - SP
+                  Tel:. (11) 4199-2955
+                  6.6 km de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar						
-                  Rua Rubens Lopes da Silva, 1 - Centro						
-                  Tel.:	4789-4083					
-                  120m de distancia da Estação                  
+                <p>Conselho Tutelar
+                  Rua Rubens Lopes da Silva, 1 - Centro
+                  Tel.: 4789-4083
+                  120m de distancia da Estação
                 </p>
-                <p>GCM Jandira						
-                  Praca das bandeiras, 10 - Centro, Jandira - SP						
-                  Tel:.	4772-8299					
-                  700 m de distancia da Estação                  
+                <p>GCM Jandira
+                  Praca das bandeiras, 10 - Centro, Jandira - SP
+                  Tel:. 4772-8299
+                  700 m de distancia da Estação
                 </p>
 
 
@@ -3547,53 +3546,53 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Hospital Municipal de Jandira						
-                  Rua João Balhesteiro, 720 - Barueri - SP						
-                  Tel.:	4707-2349					
-                  2.3 Km de distancia da Estação                  
+                <p>Hospital Municipal de Jandira
+                  Rua João Balhesteiro, 720 - Barueri - SP
+                  Tel.: 4707-2349
+                  2.3 Km de distancia da Estação
                 </p>
-                <p>Ubs Antónia Correia De Barros						
-                  R. Paulino Longo, 165 - Jardim Patriarca, Jandira - SP						
-                  Tel.:	4789-7541					
-                  650m de distancia da Estação                  
+                <p>Ubs Antónia Correia De Barros
+                  R. Paulino Longo, 165 - Jardim Patriarca, Jandira - SP
+                  Tel.: 4789-7541
+                  650m de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>4ª Companhia do 20º BPM/M						
-                  R. Rubéns Lopes da Silva, 106 - Centro, Jandira - SP						
-                  Tel.:	(11) 4707-6014					
-                  2.1 Km de distancia da Estação                  
+                <p>4ª Companhia do 20º BPM/M
+                  R. Rubéns Lopes da Silva, 106 - Centro, Jandira - SP
+                  Tel.: (11) 4707-6014
+                  2.1 Km de distancia da Estação
                 </p>
-                <p>Delegacia de Polícia Jandira						
-                  Av. Alberto Ruffolo, 33 - Vila Anita Costa, Jandira - SP						
-                  Tel.:	(11) 4707-2288					
-                  2.7 Km de distancia da Estação                  
+                <p>Delegacia de Polícia Jandira
+                  Av. Alberto Ruffolo, 33 - Vila Anita Costa, Jandira - SP
+                  Tel.: (11) 4707-2288
+                  2.7 Km de distancia da Estação
                 </p>
-                <p>1º Companhia do 20° BPM - Barueri						
-                  Av. Zélia, 1330 - Parque dos Camargos, Barueri - SP						
-                  Tel.:	4201-3224					
-                  4.6 Km de distancia da Estação                  
+                <p>1º Companhia do 20° BPM - Barueri
+                  Av. Zélia, 1330 - Parque dos Camargos, Barueri - SP
+                  Tel.: 4201-3224
+                  4.6 Km de distancia da Estação
                 </p>
-                <p>Centro Referência da Mulher						
-                  R. José Rufino de Oliveira, 221 - Vila Ipe, Jandira - SP						
-                  Tel.:	4619-6283					
-                  1.5 Km de distancia da Estação                  
+                <p>Centro Referência da Mulher
+                  R. José Rufino de Oliveira, 221 - Vila Ipe, Jandira - SP
+                  Tel.: 4619-6283
+                  1.5 Km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>Corpo De Bombeiros Barueri						
-                  Rua Cabo PM José Maria Schiavelli, 193 - Jardim Tupanci, Barueri - SP						
-                  Tel:.	(11) 4199-2955					
-                  8.5 km de distancia da Estação                  
+                <p>Corpo De Bombeiros Barueri
+                  Rua Cabo PM José Maria Schiavelli, 193 - Jardim Tupanci, Barueri - SP
+                  Tel:. (11) 4199-2955
+                  8.5 km de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar						
-                  Rua Rubens Lopes da Silva, 1 - Centro						
-                  Tel.:	4789-4083					
-                  1.8 Km de distancia da Estação                  
+                <p>Conselho Tutelar
+                  Rua Rubens Lopes da Silva, 1 - Centro
+                  Tel.: 4789-4083
+                  1.8 Km de distancia da Estação
                 </p>
-                <p>GCM Jandira						
-                  Praca das bandeiras, 10 - Centro, Jandira - SP						
-                  Tel:.	4772-8299					
-                  2.1 Km de distancia da Estação                  
+                <p>GCM Jandira
+                  Praca das bandeiras, 10 - Centro, Jandira - SP
+                  Tel:. 4772-8299
+                  2.1 Km de distancia da Estação
                 </p>
 
               </div>
@@ -3726,53 +3725,53 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Pronto Socorro Central de Itapevi						
-                  R. José Michelotti, 300 - Cidade da Saude, Itapevi - SP						
-                  Tel.:	4143-9900					
-                  2.6 Km de distancia da Estação                  
+                <p>Pronto Socorro Central de Itapevi
+                  R. José Michelotti, 300 - Cidade da Saude, Itapevi - SP
+                  Tel.: 4143-9900
+                  2.6 Km de distancia da Estação
                 </p>
-                <p>Hospital Geral de Itapevi						
-                  Rua Jesuino Joaquim da Silva, S/n - Jardim Nova Itapevi, Itapevi - SP						
-                  Tel.:	4143-8669					
-                  4.0 Km de distancia da Estação                  
+                <p>Hospital Geral de Itapevi
+                  Rua Jesuino Joaquim da Silva, S/n - Jardim Nova Itapevi, Itapevi - SP
+                  Tel.: 4143-8669
+                  4.0 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>1ºDP Itapevi						
-                  Av. Feres Nacif Chaluppe, 69 - Jardim Portela, Itapevi - SP						
-                  Tel.:	4141-5236					
-                  2.1 Km de distancia da Estação                  
+                <p>1ºDP Itapevi
+                  Av. Feres Nacif Chaluppe, 69 - Jardim Portela, Itapevi - SP
+                  Tel.: 4141-5236
+                  2.1 Km de distancia da Estação
                 </p>
-                <p>3ª Companhia do 20º BPM/M. Polícia Militar do Estado de São Paulo						
-                  Av. Pres. Vargas, 555 - Jardim Nova Itapevi, Itapevi - SP						
-                  Tel.:	4141-3231					
-                  3.7 Km de distancia da Estação                  
+                <p>3ª Companhia do 20º BPM/M. Polícia Militar do Estado de São Paulo
+                  Av. Pres. Vargas, 555 - Jardim Nova Itapevi, Itapevi - SP
+                  Tel.: 4141-3231
+                  3.7 Km de distancia da Estação
                 </p>
-                <p>Delegacia de Polícia Jandira						
-                  Av. Alberto Ruffolo, 33 - Vila Anita Costa, Jandira - SP						
-                  Tel.:	(11) 4707-2288					
-                  4.4 Km de distancia da Estação                  
+                <p>Delegacia de Polícia Jandira
+                  Av. Alberto Ruffolo, 33 - Vila Anita Costa, Jandira - SP
+                  Tel.: (11) 4707-2288
+                  4.4 Km de distancia da Estação
                 </p>
-                <p>Delegacia de Defesa da Mulher - Itapevi						
-                  Rod. Eng. Renê Benedito da Silva, 920 - Cohab - St. D, Itapevi - SP						
-                  Tel:.						
-                  3.1 km de distancia da Estação                  
+                <p>Delegacia de Defesa da Mulher - Itapevi
+                  Rod. Eng. Renê Benedito da Silva, 920 - Cohab - St. D, Itapevi - SP
+                  Tel:.
+                  3.1 km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>18ºGB-1ºSGB-Estação de Bombeiros Itapevi 						
-                  Professor Dimarães Antônio Sandei, 264, Itapevi - SP						
-                  Tel:.	(11) 4450-6786					
-                  2.4 km de distancia da Estação                  
+                <p>18ºGB-1ºSGB-Estação de Bombeiros Itapevi
+                  Professor Dimarães Antônio Sandei, 264, Itapevi - SP
+                  Tel:. (11) 4450-6786
+                  2.4 km de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar - Itapevi						
-                  R. Francisca Teixeira de Carvalho, 350 - Vila Nova, Itapevi - SP						
-                  Tel.:	4142-1180					
-                  3.6 Km de distancia da Estação                  
+                <p>Conselho Tutelar - Itapevi
+                  R. Francisca Teixeira de Carvalho, 350 - Vila Nova, Itapevi - SP
+                  Tel.: 4142-1180
+                  3.6 Km de distancia da Estação
                 </p>
-                <p>Guarda Municipal de Itapevi						
-                  Estr. do Itaqui, 339-363 - Condomínio Nova São Paulo, Itapevi - SP						
-                  Tel:.	4141-0474					
-                  5.5 Km de distancia da Estação                  
+                <p>Guarda Municipal de Itapevi
+                  Estr. do Itaqui, 339-363 - Condomínio Nova São Paulo, Itapevi - SP
+                  Tel:. 4141-0474
+                  5.5 Km de distancia da Estação
                 </p>
 
               </div>
@@ -3905,47 +3904,47 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Pronto Socorro Central de Itapevi						
-                  R. José Michelotti, 300 - Cidade da Saude, Itapevi - SP						
-                  Tel.:	4143-9900					
-                  2.5 Km de distancia da Estação                  
+                <p>Pronto Socorro Central de Itapevi
+                  R. José Michelotti, 300 - Cidade da Saude, Itapevi - SP
+                  Tel.: 4143-9900
+                  2.5 Km de distancia da Estação
                 </p>
-                <p>Hospital Geral de Itapevi						
-                  Rua Jesuíno Joaquim da Silva, s/nº - Jardim Nova Itapevi						
-                  Tel.:	4143-8669					
-                  4.0 Km de distanca da Estação                  
+                <p>Hospital Geral de Itapevi
+                  Rua Jesuíno Joaquim da Silva, s/nº - Jardim Nova Itapevi
+                  Tel.: 4143-8669
+                  4.0 Km de distanca da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>1ºDP Itapevi						
-                  Av. Feres Nacif Chaluppe, 69 - Jardim Portela, Itapevi - SP						
-                  Tel.:	4141-5236					
-                  400 m de distancia da Estação                  
+                <p>1ºDP Itapevi
+                  Av. Feres Nacif Chaluppe, 69 - Jardim Portela, Itapevi - SP
+                  Tel.: 4141-5236
+                  400 m de distancia da Estação
                 </p>
-                <p>3ª Companhia do 20º BPM/M. Polícia Militar do Estado de São Paulo						
-                  Av. Pres. Vargas, 555 - Jardim Nova Itapevi, Itapevi - SP						
-                  Tel.:	4141-3231					
-                  3.7 Km de distancia da Estação                  
+                <p>3ª Companhia do 20º BPM/M. Polícia Militar do Estado de São Paulo
+                  Av. Pres. Vargas, 555 - Jardim Nova Itapevi, Itapevi - SP
+                  Tel.: 4141-3231
+                  3.7 Km de distancia da Estação
                 </p>
-                <p>Delegacia de Defesa da Mulher - Itapevi						
-                  Rod. Eng. Renê Benedito da Silva, 920 - Cohab - St. D, Itapevi - SP						
-                  Tel:.						
-                  1.4 km de distancia da Estação                  
+                <p>Delegacia de Defesa da Mulher - Itapevi
+                  Rod. Eng. Renê Benedito da Silva, 920 - Cohab - St. D, Itapevi - SP
+                  Tel:.
+                  1.4 km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>18ºGB-1ºSGB-Estação de Bombeiros Itapevi 						
-                  Professor Dimarães Antônio Sandei, 264, Itapevi - SP						
-                  Tel:.	(11) 4450-6786					
-                  2.9 km de distancia da Estação                  
+                <p>18ºGB-1ºSGB-Estação de Bombeiros Itapevi
+                  Professor Dimarães Antônio Sandei, 264, Itapevi - SP
+                  Tel:. (11) 4450-6786
+                  2.9 km de distancia da Estação
                 </p>
-                <p>Conselho Tutelar - Itapevi						
-                  R. Francisca Teixeira de Carvalho, 350 - Vila Nova, Itapevi - SP						
-                  Tel.:	4142-1180					
-                  3.6 Km de distancia da Estação                  
+                <p>Conselho Tutelar - Itapevi
+                  R. Francisca Teixeira de Carvalho, 350 - Vila Nova, Itapevi - SP
+                  Tel.: 4142-1180
+                  3.6 Km de distancia da Estação
                 </p>
-                <p>Guarda Municipal de Itapevi						
-                  Estr. do Itaqui, 339-363 - Condomínio Nova São Paulo, Itapevi - SP						
-                  Tel:.	4141-0474					
-                  5.4 Km de distancia da Estação                  
+                <p>Guarda Municipal de Itapevi
+                  Estr. do Itaqui, 339-363 - Condomínio Nova São Paulo, Itapevi - SP
+                  Tel:. 4141-0474
+                  5.4 Km de distancia da Estação
                 </p>
 
               </div>
@@ -4078,48 +4077,48 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Pronto Socorro Central de Itapevi						
-                  R. José Michelotti, 300 - Cidade da Saude, Itapevi - SP						
-                  Tel.:	4143-9900					
-                  1.9 Km de distancia da Estação                  
+                <p>Pronto Socorro Central de Itapevi
+                  R. José Michelotti, 300 - Cidade da Saude, Itapevi - SP
+                  Tel.: 4143-9900
+                  1.9 Km de distancia da Estação
                 </p>
-                <p>Hospital Geral de Itapevi						
-                  Rua Jesuíno Joaquim da Silva, s/nº - Jardim Nova Itapevi						
-                  Tel.:	4143-8669					
-                  2.1 Km de distanca da Estação                  
+                <p>Hospital Geral de Itapevi
+                  Rua Jesuíno Joaquim da Silva, s/nº - Jardim Nova Itapevi
+                  Tel.: 4143-8669
+                  2.1 Km de distanca da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>3ª Companhia do 20º BPM/M. Polícia Militar do Estado de São Paulo						
-                  Av. Pres. Vargas, 555 - Jardim Nova Itapevi, Itapevi - SP						
-                  Tel.:	4141-3231					
-                  2.4 Km de distancia da Estação                  
+                <p>3ª Companhia do 20º BPM/M. Polícia Militar do Estado de São Paulo
+                  Av. Pres. Vargas, 555 - Jardim Nova Itapevi, Itapevi - SP
+                  Tel.: 4141-3231
+                  2.4 Km de distancia da Estação
                 </p>
-                <p>1ºDP Itapevi						
-                  Av. Feres Nacif Chaluppe, 69 - Jardim Portela, Itapevi - SP						
-                  Tel.:	4141-5236					
-                  2.7 Km de distancia da Estação                  
+                <p>1ºDP Itapevi
+                  Av. Feres Nacif Chaluppe, 69 - Jardim Portela, Itapevi - SP
+                  Tel.: 4141-5236
+                  2.7 Km de distancia da Estação
                 </p>
-                <p>Delegacia de Defesa da Mulher - Itapevi						
-                  Rod. Eng. Renê Benedito da Silva, 920 - Cohab - St. D, Itapevi - SP						
-                  Tel:.						
-                  1.9 km de distancia da Estação                  
+                <p>Delegacia de Defesa da Mulher - Itapevi
+                  Rod. Eng. Renê Benedito da Silva, 920 - Cohab - St. D, Itapevi - SP
+                  Tel:.
+                  1.9 km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>18ºGB-1ºSGB-Estação de Bombeiros Itapevi 						
-                  Professor Dimarães Antônio Sandei, 264, Itapevi - SP						
-                  Tel:.	(11) 4450-6786					
-                  2.3 km de distancia da Estação                  
+                <p>18ºGB-1ºSGB-Estação de Bombeiros Itapevi
+                  Professor Dimarães Antônio Sandei, 264, Itapevi - SP
+                  Tel:. (11) 4450-6786
+                  2.3 km de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar - Itapevi						
-                  R. Francisca Teixeira de Carvalho, 350 - Vila Nova, Itapevi - SP						
-                  Tel.:	4142-1180					
-                  1.7 Km de distancia da Estação                  
+                <p>Conselho Tutelar - Itapevi
+                  R. Francisca Teixeira de Carvalho, 350 - Vila Nova, Itapevi - SP
+                  Tel.: 4142-1180
+                  1.7 Km de distancia da Estação
                 </p>
-                <p>Guarda Municipal de Itapevi						
-                  Estr. do Itaqui, 339-363 - Condomínio Nova São Paulo, Itapevi - SP						
-                  Tel:.	4141-0474					
-                  4.4 Km de distancia da Estação                  
+                <p>Guarda Municipal de Itapevi
+                  Estr. do Itaqui, 339-363 - Condomínio Nova São Paulo, Itapevi - SP
+                  Tel:. 4141-0474
+                  4.4 Km de distancia da Estação
                 </p>
 
               </div>
@@ -4252,48 +4251,48 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Pronto Socorro Central de Itapevi						
-                  R. José Michelotti, 300 - Cidade da Saude, Itapevi - SP						
-                  Tel.:	4143-9900					
-                  8.1 Km de distancia da Estação                  
+                <p>Pronto Socorro Central de Itapevi
+                  R. José Michelotti, 300 - Cidade da Saude, Itapevi - SP
+                  Tel.: 4143-9900
+                  8.1 Km de distancia da Estação
                 </p>
-                <p>Hospital Geral de Itapevi						
-                  Rua Jesuíno Joaquim da Silva, s/nº - Jardim Nova Itapevi						
-                  Tel.:	4143-8669					
-                  7.3 Km de distanca da Estação                  
+                <p>Hospital Geral de Itapevi
+                  Rua Jesuíno Joaquim da Silva, s/nº - Jardim Nova Itapevi
+                  Tel.: 4143-8669
+                  7.3 Km de distanca da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>1ºDP Itapevi						
-                  Av. Feres Nacif Chaluppe, 69 - Jardim Portela, Itapevi - SP						
-                  Tel.:	4141-5236					
-                  7.9 Km de distancia da Estação                  
+                <p>1ºDP Itapevi
+                  Av. Feres Nacif Chaluppe, 69 - Jardim Portela, Itapevi - SP
+                  Tel.: 4141-5236
+                  7.9 Km de distancia da Estação
                 </p>
-                <p>3ª Companhia do 20º BPM/M. Polícia Militar do Estado de São Paulo						
-                  Av. Pres. Vargas, 555 - Jardim Nova Itapevi, Itapevi - SP						
-                  Tel.:	4141-3231					
-                  7.5 Km de distancia da Estação                  
+                <p>3ª Companhia do 20º BPM/M. Polícia Militar do Estado de São Paulo
+                  Av. Pres. Vargas, 555 - Jardim Nova Itapevi, Itapevi - SP
+                  Tel.: 4141-3231
+                  7.5 Km de distancia da Estação
                 </p>
-                <p>Delegacia de Defesa da Mulher - Itapevi						
-                  Rod. Eng. Renê Benedito da Silva, 920 - Cohab - St. D, Itapevi - SP						
-                  Tel:.						
-                  6.7 km de distancia da Estação                  
+                <p>Delegacia de Defesa da Mulher - Itapevi
+                  Rod. Eng. Renê Benedito da Silva, 920 - Cohab - St. D, Itapevi - SP
+                  Tel:.
+                  6.7 km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>18ºGB-1ºSGB-Estação de Bombeiros Itapevi 						
-                  Professor Dimarães Antônio Sandei, 264, Itapevi - SP						
-                  Tel:.	(11) 4450-6786					
-                  8.5 km de distancia da Estação                  
+                <p>18ºGB-1ºSGB-Estação de Bombeiros Itapevi
+                  Professor Dimarães Antônio Sandei, 264, Itapevi - SP
+                  Tel:. (11) 4450-6786
+                  8.5 km de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar - Itapevi						
-                  R. Francisca Teixeira de Carvalho, 350 - Vila Nova, Itapevi - SP						
-                  Tel.:	4142-1180					
-                  7 Km de distancia da Estação                  
+                <p>Conselho Tutelar - Itapevi
+                  R. Francisca Teixeira de Carvalho, 350 - Vila Nova, Itapevi - SP
+                  Tel.: 4142-1180
+                  7 Km de distancia da Estação
                 </p>
-                <p>Guarda Municipal de Itapevi						
-                  Estr. do Itaqui, 339-363 - Condomínio Nova São Paulo, Itapevi - SP						
-                  Tel:.	4141-0474					
-                  9.3 Km de distancia da Estação                  
+                <p>Guarda Municipal de Itapevi
+                  Estr. do Itaqui, 339-363 - Condomínio Nova São Paulo, Itapevi - SP
+                  Tel:. 4141-0474
+                  9.3 Km de distancia da Estação
                 </p>
 
               </div>
@@ -4425,48 +4424,48 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Pronto Socorro Central de Itapevi						
-                  R. José Michelotti, 300 - Cidade da Saude, Itapevi - SP						
-                  Tel.:	4143-9900					
-                  8.1 Km de distancia da Estação                  
+                <p>Pronto Socorro Central de Itapevi
+                  R. José Michelotti, 300 - Cidade da Saude, Itapevi - SP
+                  Tel.: 4143-9900
+                  8.1 Km de distancia da Estação
                 </p>
-                <p>Pronto Socorro Central de Itapevi						
-                  R. José Michelotti, 300 - Cidade da Saude, Itapevi - SP						
-                  Tel.:	4143-9900					
-                  8.1 Km de distancia da Estação                  
+                <p>Pronto Socorro Central de Itapevi
+                  R. José Michelotti, 300 - Cidade da Saude, Itapevi - SP
+                  Tel.: 4143-9900
+                  8.1 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>1ºDP Itapevi						
-                  Av. Feres Nacif Chaluppe, 69 - Jardim Portela, Itapevi - SP						
-                  Tel.:	4141-5236					
-                  8.3 Km de distancia da Estação                  
+                <p>1ºDP Itapevi
+                  Av. Feres Nacif Chaluppe, 69 - Jardim Portela, Itapevi - SP
+                  Tel.: 4141-5236
+                  8.3 Km de distancia da Estação
                 </p>
-                <p>3ª Companhia do 20º BPM/M. Polícia Militar do Estado de São Paulo						
-                  Av. Pres. Vargas, 555 - Jardim Nova Itapevi, Itapevi - SP						
-                  Tel.:	4141-3231					
-                  8.6 Km de distancia da Estação                  
+                <p>3ª Companhia do 20º BPM/M. Polícia Militar do Estado de São Paulo
+                  Av. Pres. Vargas, 555 - Jardim Nova Itapevi, Itapevi - SP
+                  Tel.: 4141-3231
+                  8.6 Km de distancia da Estação
                 </p>
-                <p>Delegacia de Defesa da Mulher - Itapevi						
-                  Rod. Eng. Renê Benedito da Silva, 920 - Cohab - St. D, Itapevi - SP						
-                  Tel:.						
-                  6.7 km de distancia da Estação                  
+                <p>Delegacia de Defesa da Mulher - Itapevi
+                  Rod. Eng. Renê Benedito da Silva, 920 - Cohab - St. D, Itapevi - SP
+                  Tel:.
+                  6.7 km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>18ºGB-1ºSGB-Estação de Bombeiros Itapevi 						
-                  Professor Dimarães Antônio Sandei, 264, Itapevi - SP						
-                  Tel:.	(11) 4450-6786					
-                  8.5 km de distancia da Estação                  
+                <p>18ºGB-1ºSGB-Estação de Bombeiros Itapevi
+                  Professor Dimarães Antônio Sandei, 264, Itapevi - SP
+                  Tel:. (11) 4450-6786
+                  8.5 km de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar - Itapevi						
-                  R. Francisca Teixeira de Carvalho, 350 - Vila Nova, Itapevi - SP						
-                  Tel.:	4142-1180					
-                  6.9 Km de distancia da Estação                  
+                <p>Conselho Tutelar - Itapevi
+                  R. Francisca Teixeira de Carvalho, 350 - Vila Nova, Itapevi - SP
+                  Tel.: 4142-1180
+                  6.9 Km de distancia da Estação
                 </p>
-                <p>Guarda Municipal de Itapevi						
-                  Estr. do Itaqui, 339-363 - Condomínio Nova São Paulo, Itapevi - SP						
-                  Tel:.	4141-0474					
-                  8.6 Km de distancia da Estação                  
+                <p>Guarda Municipal de Itapevi
+                  Estr. do Itaqui, 339-363 - Condomínio Nova São Paulo, Itapevi - SP
+                  Tel:. 4141-0474
+                  8.6 Km de distancia da Estação
                 </p>
 
               </div>
@@ -4601,35 +4600,35 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Unidade Básica de Saúde Bom Retiro
-                  R. Ten. Pena, 8 - Bom Retiro, São Paulo - SP
-                  Tel:. (11) 3224-9903
-                  800m de distancia da Estação
-                </p>
-                <p>Hospital Municipal da Barra Funda
-                  R. Vitorino Carmilo, nº 717 - Barra Funda, São Paulo - SP
-                  Tel:. (11) 2821-5950
-                  2.1 Km de distancia da Estação
-                </p>
                 <p>Pronto Socorro Municipal da Lapa
                   Av. Queiroz Filho, 313 - Vila Hamburguesa, São Paulo - SP
                   Tel:. (11) 3022-4122 - 4878-1701
-                  13.0 Km de distancia da Estação
+                  3.1 Km de distancia da Estação
+                </p>
+                <p>UBS Alto de Pinheiros
+                  Av. Queiroz Filho, 313 - Vila Hamburguesa, São Paulo - SP, 05319-000
+                  Tel:. (11) 3023-4588
+                  3.2 Km de distancia da Estação
+                </p>
+                <p>PS Bandeirantes
+                  R. Augusto Farina, 1125 - Butanta, São Paulo - SP
+                  Tel:. (11) 3731-6018
+                  10.5 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>77º Distrito Policial - Santa Cecília
-                  Alameda Glete, 827 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3221-5860
-                  1.2 Km de distancia da Estação
+                <p>91º Distrito Policial de São Paulo
+                  Av. Dr. Gastão Vidigal, 2600 - Vila Leopoldina, São Paulo - SP
+                  Tel:. (11) 3831-4916
+                  2.1 Km de distancia da Estação
+                </p>
+                <p>3ª Delegacia De Defesa Da Mulher - Oeste
+                  Av. Corifeu de Azevedo Marques, 4.300 - 2° andar - Vila Lageado, São Paulo
+                  Tel:. (11) 3768-4664
+                  5.1 km de distancia da Estação
                 </p>
                 <p>Delegacia De Polícia Do Metropolitano - DELPOM
                   Av. Auro Soares de Moura Andrade, 15076 - Barra Funda, São Paulo - SP
                   Tel:. (11) 3662-1222 - ( 08H00 AS 20H00 )
-                  4.2 Km de distancia da Estação
-                </p>
-                <p>4º BPM/M
-                  R. Passo da Pátria, 1504 - Vila Bela Alianca, São Paulo - SP
-                  Tel:. (11) 3836-8996
                   13.8 Km de distancia da Estação
                 </p>
                 <p>1ª Delegacia De Defesa Da Mulher - Centro
@@ -4638,31 +4637,21 @@
                   6.8 Km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>2º Grupamento de Bombeiros Campos Elíseos
-                  Alameda Barão de Piracicaba, 126 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  1.4 Km de distancia da Estação
+                <p>Corpo de Bombeiros Posto Pinheiros
+                  R. Sumidouro, 520 - Pinheiros, São Paulo - SP
+                  Tel:. (11) 3037-0113
+                  7.2 Km de distancia da Estação
                 </p>
-                <p>4º Grupamento de Bombeiros - Lapa
-                  R. Martim Tenório, 130 - Lapa, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  10.8 Km de distancia da Estação
+                <h4>CONSELHO TUTELAR e INSPETORIA</h4>
+                <p>Conselho Tutelar - Lapa
+                  R. Guaicurus, 1000 - SALA 16 - Água Branca, São Paulo - SP
+                  Tel:. (11) 3864-5365 / 3672-8409
+                  7.0 Km de distancia da Estação
                 </p>
-                <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar
-                  Praça da República, 150 - República, São Paulo - SP
-                  Tel:. (11) 3259-8016 / 3259-9282(
-                  2.8 Km de distancia da Estação
-                </p>
-                <p>Guarda Civil Municipal - Centro
-                  Av. Santos Dumont, 767 - Luz, São Paulo - SP
-                  Tel:. 3229-7802
-                  2.9 Km de distancia da Estação
-                </p>
-                <p>Guarda Civil Municipal - Oeste
-                  R. Maj. Paladino, 180 - Vila Ribeiro de Barros, São Paulo - SP
-                  Tel:. 3977-0260
-                  16.0 Km de distancia da Estação
+                <p>Inspetoria Pinheiros
+                  Av. Profº Frederico Hermann Júnior, 653 - Alto de Pinheiros, São Paulo - SP
+                  Tel:. (11) 3813-0106 Plantão / 3812-54
+                  6.5 Km de distancia da Estação
                 </p>
 
               </div>
@@ -4791,68 +4780,68 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Unidade Básica de Saúde Bom Retiro
-                  R. Ten. Pena, 8 - Bom Retiro, São Paulo - SP
-                  Tel:. (11) 3224-9903
-                  800m de distancia da Estação
-                </p>
-                <p>Hospital Municipal da Barra Funda
-                  R. Vitorino Carmilo, nº 717 - Barra Funda, São Paulo - SP
-                  Tel:. (11) 2821-5950
-                  2.1 Km de distancia da Estação
+                <p>Hospital Universitário USP
+                  Av. Prof. Lineu Prestes, 2565 - Butantã, São Paulo - SP
+                  Tel:. (11) 3032-1100
+                  3.8 Km de distancia da Estação
                 </p>
                 <p>Pronto Socorro Municipal da Lapa
                   Av. Queiroz Filho, 313 - Vila Hamburguesa, São Paulo - SP
                   Tel:. (11) 3022-4122 - 4878-1701
-                  13.0 Km de distancia da Estação
+                  5.8 Km de distancia da Estação
+                </p>
+                <p>PS Bandeirantes
+                  R. Augusto Farina, 1125 - Butanta, São Paulo - SP
+                  Tel:. (11) 3731-6018
+                  9.7 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>77º Distrito Policial - Santa Cecília
-                  Alameda Glete, 827 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3221-5860
-                  1.2 Km de distancia da Estação
-                </p>
-                <p>Delegacia De Polícia Do Metropolitano - DELPOM
-                  Av. Auro Soares de Moura Andrade, 15076 - Barra Funda, São Paulo - SP
-                  Tel:. (11) 3662-1222 - ( 08H00 AS 20H00 )
-                  4.2 Km de distancia da Estação
-                </p>
-                <p>4º BPM/M
-                  R. Passo da Pátria, 1504 - Vila Bela Alianca, São Paulo - SP
-                  Tel:. (11) 3836-8996
-                  13.8 Km de distancia da Estação
-                </p>
-                <p>1ª Delegacia De Defesa Da Mulher - Centro
-                  R. Dr. Bettencourt Rodrigues, 200 - Centro Histórico de São Paulo, São Paulo
-                  Tel:.
-                  6.8 Km de distancia da Estação
-                </p>
-                <h4>CORPO DE BOMBEIROS</h4>
-                <p>2º Grupamento de Bombeiros Campos Elíseos
-                  Alameda Barão de Piracicaba, 126 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3396-2440
+                <p>91º Distrito Policial de São Paulo
+                  Av. Dr. Gastão Vidigal, 2600 - Vila Leopoldina, São Paulo - SP
+                  Tel:. (11) 3831-4916
                   1.4 Km de distancia da Estação
                 </p>
-                <p>4º Grupamento de Bombeiros - Lapa
-                  R. Martim Tenório, 130 - Lapa, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  10.8 Km de distancia da Estação
+                <p>23 BPM/M - Vila Madalena
+                  140, R. Gomes de Medeiros, 62 - Vila Madalena, São Paulo - SP
+                  Tel:. (11) 3034-3533
+                  5.3 Km de distancia da Estação
                 </p>
-                <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar
-                  Praça da República, 150 - República, São Paulo - SP
-                  Tel:. (11) 3259-8016 / 3259-9282(
-                  2.8 Km de distancia da Estação
+                <p>14º Distrito Policial Pinheiros
+                  R. Dep. Lacerda Franco, 372 - Pinheiros, São Paulo - SP
+                  Tel:. (11) 3032-1100 - 3032-3433
+                  6.7 Km de distancia da Estação
+                </p>
+                <p>3ª Delegacia De Defesa Da Mulher - Oeste
+                  Av. Corifeu de Azevedo Marques, 4.300 - 2° andar - Vila Lageado, São Paulo
+                  Tel:. (11) 3768-4664
+                  4.4 km de distancia da Estação
+                </p>
+                <P>Delegacia De Polícia Do Metropolitano - DELPOM
+                  Av. Auro Soares de Moura Andrade, 15076 - Barra Funda, São Paulo - SP
+                  Tel:. (11) 3662-1222 - ( 08H00 AS 20H00 )
+                  15.5 Km de distancia da Estação
+                </P>
+                <h4>CORPO DE BOMBEIROS</h4>
+                <p>Corpo de Bombeiros Posto Pinheiros
+                  R. Sumidouro, 520 - Pinheiros, São Paulo - SP
+                  Tel:. (11) 3037-0113
+                  6.4 Km de distancia da Estação
+                </p>
+                <h4>CONSELHO TUTELAR e INSPETORIA</h4>
+                <p>Conselho Tutelar - Lapa
+                  R. Guaicurus, 1000 - SALA 16 - Água Branca, São Paulo - SP
+                  Tel:. (11) 3864-5365 / 3672-8409
+                  13.8 Km de distancia da Estação
                 </p>
                 <p>Guarda Civil Municipal - Centro
                   Av. Santos Dumont, 767 - Luz, São Paulo - SP
                   Tel:. 3229-7802
                   2.9 Km de distancia da Estação
                 </p>
-                <p>Guarda Civil Municipal - Oeste
-                  R. Maj. Paladino, 180 - Vila Ribeiro de Barros, São Paulo - SP
-                  Tel:. 3977-0260
-                  16.0 Km de distancia da Estação
+                <p>Inspetoria Pinheiros - Guarda Municipal
+                  Av. Profº Frederico Hermann Júnior, 653 - Alto de Pinheiros, São Paulo - SP
+                  Tel:. (11) 3813-0106 Plantão / 3812-54
+                  5.7 Km de distancia da Estação
                 </p>
 
 
@@ -4983,68 +4972,68 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Unidade Básica de Saúde Bom Retiro
-                  R. Ten. Pena, 8 - Bom Retiro, São Paulo - SP
-                  Tel:. (11) 3224-9903
-                  800m de distancia da Estação
-                </p>
-                <p>Hospital Municipal da Barra Funda
-                  R. Vitorino Carmilo, nº 717 - Barra Funda, São Paulo - SP
-                  Tel:. (11) 2821-5950
-                  2.1 Km de distancia da Estação
-                </p>
                 <p>Pronto Socorro Municipal da Lapa
                   Av. Queiroz Filho, 313 - Vila Hamburguesa, São Paulo - SP
                   Tel:. (11) 3022-4122 - 4878-1701
-                  13.0 Km de distancia da Estação
+                  4.4 Km de distancia da Estação
+                </p>
+                <p>Hospital Universitário USP
+                  Av. Prof. Lineu Prestes, 2565 - Butantã, São Paulo - SP
+                  Tel:. (11) 3032-1100
+                  5.1 Km de distancia da Estação
+                </p>
+                <p>PS Bandeirantes
+                  R. Augusto Farina, 1125 - Butanta, São Paulo - SP
+                  Tel:. (11) 3731-6018
+                  5.5 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>77º Distrito Policial - Santa Cecília
-                  Alameda Glete, 827 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3221-5860
-                  1.2 Km de distancia da Estação
+                <p>23 BPM/M - Vila Madalena
+                  140, R. Gomes de Medeiros, 62 - Vila Madalena, São Paulo - SP
+                  Tel:. (11) 3034-3533
+                  2.8 Km de distancia da Estação
+                </p>
+                <p>14º DP Pinheiros
+                  R. Dep. Lacerda Franco, 372 - Pinheiros, São Paulo - SP
+                  Tel:. (11) 3032-1100
+                  3.8 Km de distancia da Estação
+                </p>
+                <p>15º DP Itaim Bibi
+                  R. Dr. Renato Paes de Barros, 340 - Itaim Bibi, São Paulo
+                  Tel:. (11) 3079--8244
+                  7.3 Km de distancia da Estação
+                </p>
+                <p>3ª Delegacia De Defesa Da Mulher - Oeste
+                  Av. Corifeu de Azevedo Marques, 4.300 - 2° andar - Vila Lageado, São Paulo
+                  Tel:. (11) 3768-4664
+                  6.4 km de distancia da Estação
                 </p>
                 <p>Delegacia De Polícia Do Metropolitano - DELPOM
                   Av. Auro Soares de Moura Andrade, 15076 - Barra Funda, São Paulo - SP
                   Tel:. (11) 3662-1222 - ( 08H00 AS 20H00 )
-                  4.2 Km de distancia da Estação
-                </p>
-                <p>4º BPM/M
-                  R. Passo da Pátria, 1504 - Vila Bela Alianca, São Paulo - SP
-                  Tel:. (11) 3836-8996
-                  13.8 Km de distancia da Estação
-                </p>
-                <p>1ª Delegacia De Defesa Da Mulher - Centro
-                  R. Dr. Bettencourt Rodrigues, 200 - Centro Histórico de São Paulo, São Paulo
-                  Tel:.
-                  6.8 Km de distancia da Estação
+                  8.7 Km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>2º Grupamento de Bombeiros Campos Elíseos
-                  Alameda Barão de Piracicaba, 126 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  1.4 Km de distancia da Estação
-                </p>
-                <p>4º Grupamento de Bombeiros - Lapa
-                  R. Martim Tenório, 130 - Lapa, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  10.8 Km de distancia da Estação
+                <p>Corpo de Bombeiros Posto Pinheiros
+                  R. Sumidouro, 520 - Pinheiros, São Paulo - SP
+                  Tel:. (11) 3037-0113
+                  3.5 Km de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar
-                  Praça da República, 150 - República, São Paulo - SP
-                  Tel:. (11) 3259-8016 / 3259-9282(
+                <p>Conselho Tutelar - Pinheiros
+                  Av. Profº Frederico Hermann Júnior, 595 - Alto de Pinheiros, São Paulo - SP
+                  Tel:. (11) 3095-9595
                   2.8 Km de distancia da Estação
                 </p>
-                <p>Guarda Civil Municipal - Centro
-                  Av. Santos Dumont, 767 - Luz, São Paulo - SP
-                  Tel:. 3229-7802
-                  2.9 Km de distancia da Estação
+                <p>Conselho Tutelar - Lapa
+                  R. Guaicurus, 1000 - SALA 16 - Água Branca, São Paulo - SP
+                  Tel:. (11) 3886-2070
+                  6.2 Km de distancia da Estação
                 </p>
-                <p>Guarda Civil Municipal - Oeste
-                  R. Maj. Paladino, 180 - Vila Ribeiro de Barros, São Paulo - SP
-                  Tel:. 3977-0260
-                  16.0 Km de distancia da Estação
+                <p>Inspetoria Pinheiros - Guarda Municipal
+                  Av. Profº Frederico Hermann Júnior, 653 - Alto de Pinheiros, São Paulo - SP
+                  Tel:. (11) 3813-0106 Plantão / 3812-54
+                  2.8 Km de distancia da Estação
                 </p>
 
 
@@ -5174,71 +5163,64 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Unidade Básica de Saúde Bom Retiro
-                  R. Ten. Pena, 8 - Bom Retiro, São Paulo - SP
-                  Tel:. (11) 3224-9903
-                  800m de distancia da Estação
-                </p>
-                <p>Hospital Municipal da Barra Funda
-                  R. Vitorino Carmilo, nº 717 - Barra Funda, São Paulo - SP
-                  Tel:. (11) 2821-5950
-                  2.1 Km de distancia da Estação
+                <p>Hospital Universitário USP
+                  Av. Prof. Lineu Prestes, 2565 - Butantã, São Paulo - SP
+                  Tel:. (11) 3032-1100
+                  6.2 Km de distancia da Estação
                 </p>
                 <p>Pronto Socorro Municipal da Lapa
                   Av. Queiroz Filho, 313 - Vila Hamburguesa, São Paulo - SP
                   Tel:. (11) 3022-4122 - 4878-1701
-                  13.0 Km de distancia da Estação
+                  5.5 Km de distancia da Estação
+                </p>
+                <p>PS Bandeirantes
+                  R. Augusto Farina, 1125 - Butanta, São Paulo - SP
+                  Tel:. (11) 3731-6018
+                  5.6 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>77º Distrito Policial - Santa Cecília
-                  Alameda Glete, 827 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3221-5860
-                  1.2 Km de distancia da Estação
+                <p>14º DP Pinheiros
+                  R. Dep. Lacerda Franco, 372 - Pinheiros, São Paulo - SP
+                  Tel:. (11) 3032-1100
+                  3.7 Km de distancia da Estação
+                </p>
+                <p>15º DP Itaim Bibi
+                  R. Dr. Renato Paes de Barros, 340 - Itaim Bibi, São Paulo
+                  Tel:. (11) 3079--8244
+                  5.9 Km de distancia da Estação
+                </p>
+                <p>3ª Delegacia De Defesa Da Mulher - Oeste
+                  Av. Corifeu de Azevedo Marques, 4.300 - 2° andar - Vila Lageado, São Paulo
+                  Tel:. (11) 3768-4664
+                  8.9 km de distancia da Estação
                 </p>
                 <p>Delegacia De Polícia Do Metropolitano - DELPOM
                   Av. Auro Soares de Moura Andrade, 15076 - Barra Funda, São Paulo - SP
                   Tel:. (11) 3662-1222 - ( 08H00 AS 20H00 )
-                  4.2 Km de distancia da Estação
-                </p>
-                <p>4º BPM/M
-                  R. Passo da Pátria, 1504 - Vila Bela Alianca, São Paulo - SP
-                  Tel:. (11) 3836-8996
-                  13.8 Km de distancia da Estação
-                </p>
-                <p>1ª Delegacia De Defesa Da Mulher - Centro
-                  R. Dr. Bettencourt Rodrigues, 200 - Centro Histórico de São Paulo, São Paulo
-                  Tel:.
-                  6.8 Km de distancia da Estação
+                  7.4 Km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>2º Grupamento de Bombeiros Campos Elíseos
-                  Alameda Barão de Piracicaba, 126 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  1.4 Km de distancia da Estação
-                </p>
-                <p>4º Grupamento de Bombeiros - Lapa
-                  R. Martim Tenório, 130 - Lapa, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  10.8 Km de distancia da Estação
+                <p>Corpo de Bombeiros Posto Pinheiros
+                  R. Sumidouro, 520 - Pinheiros, São Paulo - SP
+                  Tel:. (11) 3037-0113
+                  450 m de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar
-                  Praça da República, 150 - República, São Paulo - SP
-                  Tel:. (11) 3259-8016 / 3259-9282(
-                  2.8 Km de distancia da Estação
+                <p>Conselho Tutelar - Pinheiros
+                  Av. Profº Frederico Hermann Júnior, 595 - Alto de Pinheiros, São Paulo - SP
+                  Tel:. (11) 3095-9595
+                  500 m de distancia da Estação
                 </p>
-                <p>Guarda Civil Municipal - Centro
-                  Av. Santos Dumont, 767 - Luz, São Paulo - SP
-                  Tel:. 3229-7802
-                  2.9 Km de distancia da Estação
+                <p>Conselho Tutelar - Lapa
+                  R. Guaicurus, 1000 - SALA 16 - Água Branca, São Paulo - SP
+                  Tel:. (11) 3886-2070
+                  6.2 Km de distancia da Estação
                 </p>
-                <p>Guarda Civil Municipal - Oeste
-                  R. Maj. Paladino, 180 - Vila Ribeiro de Barros, São Paulo - SP
-                  Tel:. 3977-0260
-                  16.0 Km de distancia da Estação
+                <p>Inspetoria Pinheiros - Guarda Municipal
+                  Av. Profº Frederico Hermann Júnior, 653 - Alto de Pinheiros, São Paulo - SP
+                  Tel:. (11) 3813-0106 Plantão / 3812-54
+                  500 m de distancia da Estação
                 </p>
-
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -5364,68 +5346,63 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Unidade Básica de Saúde Bom Retiro
-                  R. Ten. Pena, 8 - Bom Retiro, São Paulo - SP
-                  Tel:. (11) 3224-9903
-                  800m de distancia da Estação
+                <p>Hospital Universitário USP
+                  Av. Prof. Lineu Prestes, 2565 - Butantã, São Paulo - SP
+                  Tel:. (11) 3032-1100
+                  6.7 Km de distancia da Estação
                 </p>
-                <p>Hospital Municipal da Barra Funda
-                  R. Vitorino Carmilo, nº 717 - Barra Funda, São Paulo - SP
-                  Tel:. (11) 2821-5950
-                  2.1 Km de distancia da Estação
-                </p>
-                <p>Pronto Socorro Municipal da Lapa
-                  Av. Queiroz Filho, 313 - Vila Hamburguesa, São Paulo - SP
-                  Tel:. (11) 3022-4122 - 4878-1701
-                  13.0 Km de distancia da Estação
+                <p>PS Bandeirantes
+                  R. Augusto Farina, 1125 - Butanta, São Paulo - SP
+                  Tel:. (11) 3731-6018
+                  6.2 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>77º Distrito Policial - Santa Cecília
-                  Alameda Glete, 827 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3221-5860
-                  1.2 Km de distancia da Estação
+                <p>14º DP Pinheiros
+                  R. Dep. Lacerda Franco, 372 - Pinheiros, São Paulo - SP
+                  Tel:. (11) 3032-1100
+                  3.0 Km de distancia da Estação
+                </p>
+                <p>15º DP Itaim Bibi
+                  R. Dr. Renato Paes de Barros, 340 - Itaim Bibi, São Paulo
+                  Tel:. (11) 3079--8244
+                  4.9 Km de distancia da Estação
+                </p>
+                <p>1ª Delegacia de Defesa da Mulher ( Casa da Mulher Brasileira )
+                  R. Viêira Ravasco, 26 - Cambuci, São Paulo - SP
+                  Tel:. (11) 3275-8000
+                  9.3 km de distancia da Estação
+                </p>
+                <p>3ª Delegacia De Defesa Da Mulher - Oeste
+                  Av. Corifeu de Azevedo Marques, 4.300 - 2° andar - Vila Lageado, São Paulo
+                  Tel:. (11) 3768-4664
+                  9.3 km de distancia da Estação
                 </p>
                 <p>Delegacia De Polícia Do Metropolitano - DELPOM
                   Av. Auro Soares de Moura Andrade, 15076 - Barra Funda, São Paulo - SP
                   Tel:. (11) 3662-1222 - ( 08H00 AS 20H00 )
-                  4.2 Km de distancia da Estação
-                </p>
-                <p>4º BPM/M
-                  R. Passo da Pátria, 1504 - Vila Bela Alianca, São Paulo - SP
-                  Tel:. (11) 3836-8996
-                  13.8 Km de distancia da Estação
-                </p>
-                <p>1ª Delegacia De Defesa Da Mulher - Centro
-                  R. Dr. Bettencourt Rodrigues, 200 - Centro Histórico de São Paulo, São Paulo
-                  Tel:.
-                  6.8 Km de distancia da Estação
+                  7.9 Km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>2º Grupamento de Bombeiros Campos Elíseos
-                  Alameda Barão de Piracicaba, 126 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  1.4 Km de distancia da Estação
-                </p>
-                <p>4º Grupamento de Bombeiros - Lapa
-                  R. Martim Tenório, 130 - Lapa, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  10.8 Km de distancia da Estação
+                <p>Corpo de Bombeiros Posto Pinheiros
+                  R. Sumidouro, 520 - Pinheiros, São Paulo - SP
+                  Tel:. (11) 3037-0113
+                  2.3 km de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar
-                  Praça da República, 150 - República, São Paulo - SP
-                  Tel:. (11) 3259-8016 / 3259-9282(
-                  2.8 Km de distancia da Estação
+                <p>Conselho Tutelar - Pinheiros
+                  Av. Profº Frederico Hermann Júnior, 595 - Alto de Pinheiros, São Paulo - SP
+                  Tel:. (11) 3095-9595
+                  2.5 km de distancia da Estação
                 </p>
-                <p>Guarda Civil Municipal - Centro
-                  Av. Santos Dumont, 767 - Luz, São Paulo - SP
-                  Tel:. 3229-7802
-                  2.9 Km de distancia da Estação
+                <p>Inspetoria Regional Santo Amaro - Guarda Municipal
+                  Rua Darwin, 161 - Jardim Santo Amaro, São Paulo - SP
+                  Tel:. (11) 5687-2514 / 5687-2258
+                  13.4 Km de distancia da Estação
                 </p>
-                <p>Guarda Civil Municipal - Oeste
-                  R. Maj. Paladino, 180 - Vila Ribeiro de Barros, São Paulo - SP
-                  Tel:. 3977-0260
-                  16.0 Km de distancia da Estação
+                <p>Inspetoria Pinheiros - Guarda Municipal
+                  Av. Profº Frederico Hermann Júnior, 653 - Alto de Pinheiros, São Paulo - SP
+                  Tel:. (11) 3813-0106 Plantão / 3812-54
+                  2.5 km de distancia da Estação
                 </p>
 
 
@@ -5556,68 +5533,73 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Unidade Básica de Saúde Bom Retiro
-                  R. Ten. Pena, 8 - Bom Retiro, São Paulo - SP
-                  Tel:. (11) 3224-9903
-                  800m de distancia da Estação
+                <p>UBS Dr. José de Barros Magaldi
+                  R. Salvador Cardoso, 177 - Itaim Bibi, São Paulo - SP
+                  Tel:. (11) 3167-0837
+                  2.9 Km de distancia da Estação
                 </p>
-                <p>Hospital Municipal da Barra Funda
-                  R. Vitorino Carmilo, nº 717 - Barra Funda, São Paulo - SP
-                  Tel:. (11) 2821-5950
-                  2.1 Km de distancia da Estação
+                <p>Unidade Básica de Saúde Max Perlman
+                  R. Jacques Félix, 499 - Vila Nova Conceição, São Paulo - SP
+                  Tel:.
+                  4.4 Km de distancia da Estação
                 </p>
-                <p>Pronto Socorro Municipal da Lapa
-                  Av. Queiroz Filho, 313 - Vila Hamburguesa, São Paulo - SP
-                  Tel:. (11) 3022-4122 - 4878-1701
-                  13.0 Km de distancia da Estação
+                <p>PS Bandeirantes
+                  R. Augusto Farina, 1125 - Butanta, São Paulo - SP
+                  Tel:. (11) 3731-6018
+                  6.6 Km de distancia da Estação
+                </p>
+                <p>Hospital Universitário USP
+                  Av. Prof. Lineu Prestes, 2565 - Butantã, São Paulo - SP
+                  Tel:. (11) 3032-1100
+                  9.0 Km de distancia da Estação
+                </p>
+                <p>Pronto Socorro Municipal José Sylvio de Camargo - Santo Amaro
+                  Rua Adolfo Pinheiro, 805 - Santo Amaro, São Paulo - Sp
+                  Tel:. (11) 5523-1777
+                  15.8 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>77º Distrito Policial - Santa Cecília
-                  Alameda Glete, 827 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3221-5860
-                  1.2 Km de distancia da Estação
+                <p>15º DP Itaim Bibi
+                  R. Dr. Renato Paes de Barros, 340 - Itaim Bibi, São Paulo
+                  Tel:. (11) 3079--8244
+                  2.7 Km de distancia da Estação
+                </p>
+                <p>96º DP Brooklin
+                  Av. Engenheiro Luís Carlos Berrini, 900 - Itaim Bibi, São Paulo - SP
+                  Tel:. (11) 5505-1607
+                  3.9 Km de distancia da Estação
+                </p>
+                <p>2º Delegacia de Defesa da Mulher
+                  Av. Onze de Junho, nº 89 - Vila Clementino, São Paulo - SP
+                  Tel:. (11) 5084-2579
+                  8.6 km de distancia da Estação
                 </p>
                 <p>Delegacia De Polícia Do Metropolitano - DELPOM
                   Av. Auro Soares de Moura Andrade, 15076 - Barra Funda, São Paulo - SP
                   Tel:. (11) 3662-1222 - ( 08H00 AS 20H00 )
-                  4.2 Km de distancia da Estação
-                </p>
-                <p>4º BPM/M
-                  R. Passo da Pátria, 1504 - Vila Bela Alianca, São Paulo - SP
-                  Tel:. (11) 3836-8996
-                  13.8 Km de distancia da Estação
-                </p>
-                <p>1ª Delegacia De Defesa Da Mulher - Centro
-                  R. Dr. Bettencourt Rodrigues, 200 - Centro Histórico de São Paulo, São Paulo
-                  Tel:.
-                  6.8 Km de distancia da Estação
+                  8.7 Km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>2º Grupamento de Bombeiros Campos Elíseos
-                  Alameda Barão de Piracicaba, 126 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  1.4 Km de distancia da Estação
+                <p>4º Grupamento Corpo de Bombeiros - Posto Pinheiros
+                  R. Sumidouro, 520 - Pinheiros, São Paulo - SP
+                  Tel:. (11) 3037-0113
+                  2.7 Km de distancia da Estação
                 </p>
-                <p>4º Grupamento de Bombeiros - Lapa
-                  R. Martim Tenório, 130 - Lapa, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  10.8 Km de distancia da Estação
+                <p>4º Grupamento De Bombeiros Posto Vila Olimpia
+                  Rua Hélion Povoa, 120 - Vila Olímpia, São Paulo - SP
+                  Tel:. (11) 3341-7546
+                  3.5 km de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar
-                  Praça da República, 150 - República, São Paulo - SP
-                  Tel:. (11) 3259-8016 / 3259-9282(
-                  2.8 Km de distancia da Estação
+                <p>Conselho Tutelar - Vila Mariana
+                  R. Botucatu, 959 - Vila Clementino, São Paulo - SP
+                  Tel:. (11) 5080-5180
+                  7.7 km de distancia da Estação
                 </p>
-                <p>Guarda Civil Municipal - Centro
-                  Av. Santos Dumont, 767 - Luz, São Paulo - SP
-                  Tel:. 3229-7802
-                  2.9 Km de distancia da Estação
-                </p>
-                <p>Guarda Civil Municipal - Oeste
-                  R. Maj. Paladino, 180 - Vila Ribeiro de Barros, São Paulo - SP
-                  Tel:. 3977-0260
-                  16.0 Km de distancia da Estação
+                <p>Inspetoria Regional Santo Amaro - Guarda Municipal
+                  Rua Darwin, 161 - Jardim Santo Amaro, São Paulo - SP
+                  Tel:. (11) 5687-2514 / 5687-2258
+                  9.0 Km de distancia da Estação
                 </p>
 
 
@@ -5748,68 +5730,73 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Unidade Básica de Saúde Bom Retiro
-                  R. Ten. Pena, 8 - Bom Retiro, São Paulo - SP
-                  Tel:. (11) 3224-9903
-                  800m de distancia da Estação
+                <p>UBS Jardim Edite
+                  R. Charles Coulomb, 80 - Cidade Monções, São Paulo - SP
+                  Tel:. (11) 4329-8860
+                  2.8 Km de distancia da Estação
                 </p>
-                <p>Hospital Municipal da Barra Funda
-                  R. Vitorino Carmilo, nº 717 - Barra Funda, São Paulo - SP
-                  Tel:. (11) 2821-5950
-                  2.1 Km de distancia da Estação
+                <p>Pronto Socorro Municipal José Sylvio de Camargo - Santo Amaro
+                  Rua Adolfo Pinheiro, 805 - Santo Amaro, São Paulo - Sp
+                  Tel:. (11) 5523-1777
+                  8.1 Km de distancia da Estação
                 </p>
-                <p>Pronto Socorro Municipal da Lapa
-                  Av. Queiroz Filho, 313 - Vila Hamburguesa, São Paulo - SP
-                  Tel:. (11) 3022-4122 - 4878-1701
-                  13.0 Km de distancia da Estação
+                <p>PS Bandeirantes
+                  R. Augusto Farina, 1125 - Butanta, São Paulo - SP
+                  Tel:. (11) 3731-6018
+                  7.6 Km de distancia da Estação
+                </p>
+                <p>Hospital Universitário USP
+                  Av. Prof. Lineu Prestes, 2565 - Butantã, São Paulo - SP
+                  Tel:. (11) 3032-1100
+                  10.0 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>77º Distrito Policial - Santa Cecília
-                  Alameda Glete, 827 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3221-5860
-                  1.2 Km de distancia da Estação
+                <p>96º DP Brooklin
+                  Av. Engenheiro Luís Carlos Berrini, 900 - Itaim Bibi, São Paulo - SP
+                  Tel:. (11) 5505-1607
+                  1.3 Km de distancia da Estação
+                </p>
+                <p>15º DP Itaim Bibi
+                  R. Dr. Renato Paes de Barros, 340 - Itaim Bibi, São Paulo
+                  Tel:. (11) 3079--8244
+                  3.1 Km de distancia da Estação
+                </p>
+                <p>16º DP - 2º Delegacia de Defesa da Mulher
+                  R. Padre José de Anchieta, 138 - 2º Andar - Santo Amaro, São Paulo - SP
+                  Tel:. (11) 5083-6266
+                  7.8 km de distancia da Estação
                 </p>
                 <p>Delegacia De Polícia Do Metropolitano - DELPOM
                   Av. Auro Soares de Moura Andrade, 15076 - Barra Funda, São Paulo - SP
                   Tel:. (11) 3662-1222 - ( 08H00 AS 20H00 )
-                  4.2 Km de distancia da Estação
-                </p>
-                <p>4º BPM/M
-                  R. Passo da Pátria, 1504 - Vila Bela Alianca, São Paulo - SP
-                  Tel:. (11) 3836-8996
-                  13.8 Km de distancia da Estação
-                </p>
-                <p>1ª Delegacia De Defesa Da Mulher - Centro
-                  R. Dr. Bettencourt Rodrigues, 200 - Centro Histórico de São Paulo, São Paulo
-                  Tel:.
-                  6.8 Km de distancia da Estação
+                  9.7 Km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>2º Grupamento de Bombeiros Campos Elíseos
-                  Alameda Barão de Piracicaba, 126 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  1.4 Km de distancia da Estação
+                <p>4º Grupamento De Bombeiros Posto Vila Olimpia
+                  Rua Hélion Povoa, 120 - Vila Olímpia, São Paulo - SP
+                  Tel:. (11) 3341-7546
+                  2.7 km de distancia da Estação
                 </p>
-                <p>4º Grupamento de Bombeiros - Lapa
-                  R. Martim Tenório, 130 - Lapa, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  10.8 Km de distancia da Estação
+                <p>4º Grupamento Corpo de Bombeiros - Posto Pinheiros
+                  R. Sumidouro, 520 - Pinheiros, São Paulo - SP
+                  Tel:. (11) 3037-0113
+                  3.7 Km de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar
-                  Praça da República, 150 - República, São Paulo - SP
-                  Tel:. (11) 3259-8016 / 3259-9282(
-                  2.8 Km de distancia da Estação
+                <p>Conselho Tutelar - Pinheiros
+                  Av. Profº Frederico Hermann Júnior, 595 - Alto de Pinheiros, São Paulo - SP
+                  Tel:. (11) 3095-9595
+                  3.9 Km de distancia da Estação
                 </p>
-                <p>Guarda Civil Municipal - Centro
-                  Av. Santos Dumont, 767 - Luz, São Paulo - SP
-                  Tel:. 3229-7802
-                  2.9 Km de distancia da Estação
+                <p>Conselho Tutelar - Vila Mariana
+                  R. Botucatu, 959 - Vila Clementino, São Paulo - SP
+                  Tel:. (11) 5080-5180
+                  6.9 km de distancia da Estação
                 </p>
-                <p>Guarda Civil Municipal - Oeste
-                  R. Maj. Paladino, 180 - Vila Ribeiro de Barros, São Paulo - SP
-                  Tel:. 3977-0260
-                  16.0 Km de distancia da Estação
+                <p>Inspetoria Regional Santo Amaro - Guarda Municipal
+                  Rua Darwin, 161 - Jardim Santo Amaro, São Paulo - SP
+                  Tel:. (11) 5687-2514 / 5687-2258
+                  9.0 Km de distancia da Estação
                 </p>
 
 
@@ -5939,68 +5926,73 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Unidade Básica de Saúde Bom Retiro
-                  R. Ten. Pena, 8 - Bom Retiro, São Paulo - SP
-                  Tel:. (11) 3224-9903
-                  800m de distancia da Estação
+                <p>Pronto Socorro Municipal José Sylvio de Camargo - Santo Amaro
+                  Rua Adolfo Pinheiro, 805 - Santo Amaro, São Paulo - Sp
+                  Tel:. (11) 5523-1777
+                  6.4 Km de distancia da Estação
                 </p>
-                <p>Hospital Municipal da Barra Funda
-                  R. Vitorino Carmilo, nº 717 - Barra Funda, São Paulo - SP
-                  Tel:. (11) 2821-5950
-                  2.1 Km de distancia da Estação
+                <p>PS Bandeirantes
+                  R. Augusto Farina, 1125 - Butanta, São Paulo - SP
+                  Tel:. (11) 3731-6018
+                  8.9 Km de distancia da Estação
                 </p>
-                <p>Pronto Socorro Municipal da Lapa
-                  Av. Queiroz Filho, 313 - Vila Hamburguesa, São Paulo - SP
-                  Tel:. (11) 3022-4122 - 4878-1701
-                  13.0 Km de distancia da Estação
+                <p>Hospital Universitário USP
+                  Av. Prof. Lineu Prestes, 2565 - Butantã, São Paulo - SP
+                  Tel:. (11) 3032-1100
+                  11.3 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>77º Distrito Policial - Santa Cecília
-                  Alameda Glete, 827 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3221-5860
-                  1.2 Km de distancia da Estação
+                <p>96º DP Brooklin
+                  Av. Engenheiro Luís Carlos Berrini, 900 - Itaim Bibi, São Paulo - SP
+                  Tel:. (11) 5505-1607
+                  2.6 Km de distancia da Estação
+                </p>
+                <p>2° Delegacia de Policia Seccional De São Paulo
+                  Av. Engenheiro Luís Carlos Berrini, 900 - Itaim Bibi, São Paulo
+                  Tel:. (11) 5506-7444
+                  2.6 Km de distancia da Estação
+                </p>
+                <p>15º DP Itaim Bibi
+                  R. Dr. Renato Paes de Barros, 340 - Itaim Bibi, São Paulo
+                  Tel:. (11) 3079--8244
+                  4.4 Km de distancia da Estação
+                </p>
+                <p>16º DP - 2º Delegacia de Defesa da Mulher
+                  R. Padre José de Anchieta, 138 - 2º Andar - Santo Amaro, São Paulo - SP
+                  Tel:. (11) 5083-6266
+                  9.2 km de distancia da Estação
+                </p>
+                <p>16º DP - 2º Delegacia de Defesa da Mulher
+                  R. Padre José de Anchieta, 138 - 2º Andar - Santo Amaro, São Paulo - SP
+                  Tel:. (11) 5083-6266
+                  9.2 km de distancia da Estação
+                </p>
+                <p>6ª Delegacia de Defesa da Mulher
+                  R. Padre José de Anchieta, 138 - Santo Amaro, São Paulo - SP
+                  Tel:. (11) 5687-4004
+                  9.5 km de distancia da Estação
                 </p>
                 <p>Delegacia De Polícia Do Metropolitano - DELPOM
                   Av. Auro Soares de Moura Andrade, 15076 - Barra Funda, São Paulo - SP
                   Tel:. (11) 3662-1222 - ( 08H00 AS 20H00 )
-                  4.2 Km de distancia da Estação
-                </p>
-                <p>4º BPM/M
-                  R. Passo da Pátria, 1504 - Vila Bela Alianca, São Paulo - SP
-                  Tel:. (11) 3836-8996
-                  13.8 Km de distancia da Estação
-                </p>
-                <p>1ª Delegacia De Defesa Da Mulher - Centro
-                  R. Dr. Bettencourt Rodrigues, 200 - Centro Histórico de São Paulo, São Paulo
-                  Tel:.
-                  6.8 Km de distancia da Estação
+                  11.0 Km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>2º Grupamento de Bombeiros Campos Elíseos
-                  Alameda Barão de Piracicaba, 126 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  1.4 Km de distancia da Estação
-                </p>
-                <p>4º Grupamento de Bombeiros - Lapa
-                  R. Martim Tenório, 130 - Lapa, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  10.8 Km de distancia da Estação
+                <p>4º Grupamento Corpo de Bombeiros - Posto Pinheiros
+                  R. Sumidouro, 520 - Pinheiros, São Paulo - SP
+                  Tel:. (11) 3037-0113
+                  5.0 Km de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar
-                  Praça da República, 150 - República, São Paulo - SP
-                  Tel:. (11) 3259-8016 / 3259-9282(
-                  2.8 Km de distancia da Estação
+                <p>Conselho Tutelar - Pinheiros
+                  Av. Profº Frederico Hermann Júnior, 595 - Alto de Pinheiros, São Paulo - SP
+                  Tel:. (11) 3095-9595
+                  5.2 Km de distancia da Estação
                 </p>
-                <p>Guarda Civil Municipal - Centro
-                  Av. Santos Dumont, 767 - Luz, São Paulo - SP
-                  Tel:. 3229-7802
-                  2.9 Km de distancia da Estação
-                </p>
-                <p>Guarda Civil Municipal - Oeste
-                  R. Maj. Paladino, 180 - Vila Ribeiro de Barros, São Paulo - SP
-                  Tel:. 3977-0260
-                  16.0 Km de distancia da Estação
+                <p>Inspetoria Regional Santo Amaro - Guarda Municipal
+                  Rua Darwin, 161 - Jardim Santo Amaro, São Paulo - SP
+                  Tel:. (11) 5687-2514 / 5687-2258
+                  7.2 Km de distancia da Estação
                 </p>
 
 
@@ -6084,9 +6076,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligmrb">
           Ligar
         </button>
@@ -6131,71 +6120,59 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Unidade Básica de Saúde Bom Retiro
-                  R. Ten. Pena, 8 - Bom Retiro, São Paulo - SP
-                  Tel:. (11) 3224-9903
-                  800m de distancia da Estação
+                <p>Pronto Socorro Municipal José Sylvio de Camargo - Santo Amaro
+                  Rua Adolfo Pinheiro, 805 - Santo Amaro, São Paulo - Sp
+                  Tel:. (11) 5523-1777
+                  4.6 Km de distancia da Estação
                 </p>
-                <p>Hospital Municipal da Barra Funda
-                  R. Vitorino Carmilo, nº 717 - Barra Funda, São Paulo - SP
-                  Tel:. (11) 2821-5950
-                  2.1 Km de distancia da Estação
+                <p>PS Bandeirantes
+                  R. Augusto Farina, 1125 - Butanta, São Paulo - SP
+                  Tel:. (11) 3731-6018
+                  10.9 Km de distancia da Estação
                 </p>
-                <p>Pronto Socorro Municipal da Lapa
-                  Av. Queiroz Filho, 313 - Vila Hamburguesa, São Paulo - SP
-                  Tel:. (11) 3022-4122 - 4878-1701
-                  13.0 Km de distancia da Estação
+                <p>Hospital Universitário USP
+                  Av. Prof. Lineu Prestes, 2565 - Butantã, São Paulo - SP
+                  Tel:. (11) 3032-1100
+                  13.3 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>77º Distrito Policial - Santa Cecília
-                  Alameda Glete, 827 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3221-5860
-                  1.2 Km de distancia da Estação
+                <p>96º DP Brooklin
+                  Av. Engenheiro Luís Carlos Berrini, 900 - Itaim Bibi, São Paulo - SP
+                  Tel:. (11) 5505-1607
+                  2.6 Km de distancia da Estação
+                </p>
+                <p>6ª Delegacia de Defesa da Mulher
+                  R. Padre José de Anchieta, 138 - Santo Amaro, São Paulo - SP
+                  Tel:. (11) 5687-4004
+                  5.0 km de distancia da Estação
+                </p>
+                <p>16º DP - 2º Delegacia de Defesa da Mulher
+                  R. Padre José de Anchieta, 138 - 2º Andar - Santo Amaro, São Paulo - SP
+                  Tel:. (11) 5083-6266
+                  11.1 km de distancia da Estação
                 </p>
                 <p>Delegacia De Polícia Do Metropolitano - DELPOM
                   Av. Auro Soares de Moura Andrade, 15076 - Barra Funda, São Paulo - SP
                   Tel:. (11) 3662-1222 - ( 08H00 AS 20H00 )
-                  4.2 Km de distancia da Estação
-                </p>
-                <p>4º BPM/M
-                  R. Passo da Pátria, 1504 - Vila Bela Alianca, São Paulo - SP
-                  Tel:. (11) 3836-8996
-                  13.8 Km de distancia da Estação
-                </p>
-                <p>1ª Delegacia De Defesa Da Mulher - Centro
-                  R. Dr. Bettencourt Rodrigues, 200 - Centro Histórico de São Paulo, São Paulo
-                  Tel:.
-                  6.8 Km de distancia da Estação
+                  13.0 Km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>2º Grupamento de Bombeiros Campos Elíseos
-                  Alameda Barão de Piracicaba, 126 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  1.4 Km de distancia da Estação
-                </p>
-                <p>4º Grupamento de Bombeiros - Lapa
-                  R. Martim Tenório, 130 - Lapa, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  10.8 Km de distancia da Estação
+                <p>4º Grupamento Corpo de Bombeiros - Posto Pinheiros
+                  R. Sumidouro, 520 - Pinheiros, São Paulo - SP
+                  Tel:. (11) 3037-0113
+                  7.0 Km de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar
-                  Praça da República, 150 - República, São Paulo - SP
-                  Tel:. (11) 3259-8016 / 3259-9282(
-                  2.8 Km de distancia da Estação
+                <p>Conselho Tutelar – Santo Amaro
+                  Av. Adolfo Pinheiro, 1175 - Santo Amaro, São Paulo - SP
+                  Tel:. (11) 5548-2382
+                  4.3 km de distancia da Estação
                 </p>
-                <p>Guarda Civil Municipal - Centro
-                  Av. Santos Dumont, 767 - Luz, São Paulo - SP
-                  Tel:. 3229-7802
-                  2.9 Km de distancia da Estação
+                <p>Inspetoria Regional Santo Amaro - Guarda Municipal
+                  Rua Darwin, 161 - Jardim Santo Amaro, São Paulo - SP
+                  Tel:. (11) 5687-2514 / 5687-2258
+                  5.1 Km de distancia da Estação
                 </p>
-                <p>Guarda Civil Municipal - Oeste
-                  R. Maj. Paladino, 180 - Vila Ribeiro de Barros, São Paulo - SP
-                  Tel:. 3977-0260
-                  16.0 Km de distancia da Estação
-                </p>
-
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -6322,47 +6299,56 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Unidade Básica de Saúde Bom Retiro
-                  R. Ten. Pena, 8 - Bom Retiro, São Paulo - SP
-                  Tel:. (11) 3224-9903
-                  800m de distancia da Estação
+                <p>Pronto Socorro Municipal José Sylvio de Camargo - Santo Amaro
+                  Rua Adolfo Pinheiro, 805 - Santo Amaro, São Paulo - Sp
+                  Tel:. (11) 5523-1777
+                  3.9 Km de distancia da Estação
                 </p>
-                <p>Hospital Municipal da Barra Funda
-                  R. Vitorino Carmilo, nº 717 - Barra Funda, São Paulo - SP
-                  Tel:. (11) 2821-5950
-                  2.1 Km de distancia da Estação
+                <p>PS Bandeirantes
+                  R. Augusto Farina, 1125 - Butanta, São Paulo - SP
+                  Tel:. (11) 3731-6018
+                  12.2 Km de distancia da Estação
                 </p>
-                <p>Pronto Socorro Municipal da Lapa
-                  Av. Queiroz Filho, 313 - Vila Hamburguesa, São Paulo - SP
-                  Tel:. (11) 3022-4122 - 4878-1701
-                  13.0 Km de distancia da Estação
+                <p>Hospital Universitário USP
+                  Av. Prof. Lineu Prestes, 2565 - Butantã, São Paulo - SP
+                  Tel:. (11) 3032-1100
+                  14.6 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>77º Distrito Policial - Santa Cecília
-                  Alameda Glete, 827 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3221-5860
-                  1.2 Km de distancia da Estação
+                <p>11º DP Santo Amaro
+                  R. Padre José de Anchieta, 138 - Santo Amaro - São Paulo - SP
+                  Tel:. (11) 5686-9931
+                  3.2 Km de distancia da Estação
+                </p>
+                <p>96º DP Brooklin
+                  Av. Engenheiro Luís Carlos Berrini, 900 - Itaim Bibi, São Paulo - SP
+                  Tel:. (11) 5505-1607
+                  3.9 Km de distancia da Estação
+                </p>
+                <p>22° Batalhão de Polícia Militar Metropolitano
+                  R. Dr. Paulo Aíres Neto, 110 - Jardim Marajoara, São Paulo - SP
+                  Tel:. (11) 5521-1300
+                  6.7 Km de distancia da Estação
+                </p>
+                <p>6º DDM - Delegacia de Defesa da Mulher - SUL
+                  R. Padre José de Anchieta, 138 - Santo Amaro - São Paulo - SP
+                  Tel:. (11) 5687-4004
+                  3.2 Km de distancia da Estação
+                <p>6º DDM - Delegacia de Defesa da Mulher - 99° DP
+                  Rua Sargento Manuel Barbosa da Silva, 115 - Jardim Anhanguera - SP
+                  Tel:.
+                  6.5 Km de distancia da Estação
                 </p>
                 <p>Delegacia De Polícia Do Metropolitano - DELPOM
                   Av. Auro Soares de Moura Andrade, 15076 - Barra Funda, São Paulo - SP
                   Tel:. (11) 3662-1222 - ( 08H00 AS 20H00 )
-                  4.2 Km de distancia da Estação
-                </p>
-                <p>4º BPM/M
-                  R. Passo da Pátria, 1504 - Vila Bela Alianca, São Paulo - SP
-                  Tel:. (11) 3836-8996
-                  13.8 Km de distancia da Estação
-                </p>
-                <p>1ª Delegacia De Defesa Da Mulher - Centro
-                  R. Dr. Bettencourt Rodrigues, 200 - Centro Histórico de São Paulo, São Paulo
-                  Tel:.
-                  6.8 Km de distancia da Estação
+                  14.3 Km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>2º Grupamento de Bombeiros Campos Elíseos
-                  Alameda Barão de Piracicaba, 126 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  1.4 Km de distancia da Estação
+                <p>4º Grupamento Corpo de Bombeiros - Posto Pinheiros
+                  R. Sumidouro, 520 - Pinheiros, São Paulo - SP
+                  Tel:. (11) 3037-0113
+                  8.3 Km de distancia da Estação
                 </p>
                 <p>4º Grupamento de Bombeiros - Lapa
                   R. Martim Tenório, 130 - Lapa, São Paulo - SP
@@ -6370,20 +6356,15 @@
                   10.8 Km de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar
-                  Praça da República, 150 - República, São Paulo - SP
-                  Tel:. (11) 3259-8016 / 3259-9282(
-                  2.8 Km de distancia da Estação
+                <p>Conselho Tutelar – Santo Amaro
+                  Av. Adolfo Pinheiro, 1175 - Santo Amaro, São Paulo - SP
+                  Tel:. (11) 5548-2382
+                  3.9 km de distancia da Estação
                 </p>
-                <p>Guarda Civil Municipal - Centro
-                  Av. Santos Dumont, 767 - Luz, São Paulo - SP
-                  Tel:. 3229-7802
-                  2.9 Km de distancia da Estação
-                </p>
-                <p>Guarda Civil Municipal - Oeste
-                  R. Maj. Paladino, 180 - Vila Ribeiro de Barros, São Paulo - SP
-                  Tel:. 3977-0260
-                  16.0 Km de distancia da Estação
+                <p>Inspetoria Regional Santo Amaro - Guarda Municipal
+                  Rua Darwin, 161 - Jardim Santo Amaro, São Paulo - SP
+                  Tel:. (11) 5687-2514 / 5687-2258
+                  5.1 Km de distancia da Estação
                 </p>
 
 
@@ -6513,68 +6494,43 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Unidade Básica de Saúde Bom Retiro
-                  R. Ten. Pena, 8 - Bom Retiro, São Paulo - SP
-                  Tel:. (11) 3224-9903
-                  800m de distancia da Estação
-                </p>
-                <p>Hospital Municipal da Barra Funda
-                  R. Vitorino Carmilo, nº 717 - Barra Funda, São Paulo - SP
-                  Tel:. (11) 2821-5950
-                  2.1 Km de distancia da Estação
-                </p>
-                <p>Pronto Socorro Municipal da Lapa
-                  Av. Queiroz Filho, 313 - Vila Hamburguesa, São Paulo - SP
-                  Tel:. (11) 3022-4122 - 4878-1701
-                  13.0 Km de distancia da Estação
+                <p>Pronto Socorro Municipal José Sylvio de Camargo - Santo Amaro
+                  Rua Adolfo Pinheiro, 805 - Santo Amaro, São Paulo - SP
+                  Tel:. (11) 5523-1777
+                  3.9 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>77º Distrito Policial - Santa Cecília
-                  Alameda Glete, 827 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3221-5860
-                  1.2 Km de distancia da Estação
+                <p>11º DP Santo Amaro
+                  R. Padre José de Anchieta, 138 - Santo Amaro, São Paulo - SP
+                  Tel:. (11) 5686-9931
+                  2.5 km de distancia da Estação
+                </p>
+                <p>6º DDM - Delegacia de Defesa da Mulher - 99° DP
+                  R. Padre José de Anchieta, 138 - Santo Amaro - São Paulo - SP
+                  Tel:. (11) 5687-4004
+                  2.5 Km de distancia da Estação
                 </p>
                 <p>Delegacia De Polícia Do Metropolitano - DELPOM
                   Av. Auro Soares de Moura Andrade, 15076 - Barra Funda, São Paulo - SP
                   Tel:. (11) 3662-1222 - ( 08H00 AS 20H00 )
-                  4.2 Km de distancia da Estação
-                </p>
-                <p>4º BPM/M
-                  R. Passo da Pátria, 1504 - Vila Bela Alianca, São Paulo - SP
-                  Tel:. (11) 3836-8996
-                  13.8 Km de distancia da Estação
-                </p>
-                <p>1ª Delegacia De Defesa Da Mulher - Centro
-                  R. Dr. Bettencourt Rodrigues, 200 - Centro Histórico de São Paulo, São Paulo
-                  Tel:.
-                  6.8 Km de distancia da Estação
+                  15.9 Km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>2º Grupamento de Bombeiros Campos Elíseos
-                  Alameda Barão de Piracicaba, 126 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  1.4 Km de distancia da Estação
-                </p>
-                <p>4º Grupamento de Bombeiros - Lapa
-                  R. Martim Tenório, 130 - Lapa, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  10.8 Km de distancia da Estação
+                <p>4º Grupamento de Bombeiros
+                  R. Henri Dunant, 116 - Santo Amaro, São Paulo - SP
+                  Tel:. (11) 5181-6716
+                  4.0 Km de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar
-                  Praça da República, 150 - República, São Paulo - SP
-                  Tel:. (11) 3259-8016 / 3259-9282(
-                  2.8 Km de distancia da Estação
+                <p>Conselho Tutelar – Santo Amaro
+                  Av. Adolfo Pinheiro, 1175 - Santo Amaro, São Paulo - SP
+                  Tel:. (11) 5548-2382
+                  2.9 km de distancia da Estação
                 </p>
-                <p>Guarda Civil Municipal - Centro
-                  Av. Santos Dumont, 767 - Luz, São Paulo - SP
-                  Tel:. 3229-7802
-                  2.9 Km de distancia da Estação
-                </p>
-                <p>Guarda Civil Municipal - Oeste
-                  R. Maj. Paladino, 180 - Vila Ribeiro de Barros, São Paulo - SP
-                  Tel:. 3977-0260
-                  16.0 Km de distancia da Estação
+                <p>Inspetoria Regional Capela Do Socorro - Guarda municipal
+                  Av Atlantica N° 2450 - São Paulo - SP
+                  Tel:. (11) 5665-8127 / 5665-8247
+                  7.2 Km de distancia da Estação
                 </p>
 
 
@@ -6706,68 +6662,48 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Unidade Básica de Saúde Bom Retiro
-                  R. Ten. Pena, 8 - Bom Retiro, São Paulo - SP
-                  Tel:. (11) 3224-9903
-                  800m de distancia da Estação
-                </p>
-                <p>Hospital Municipal da Barra Funda
-                  R. Vitorino Carmilo, nº 717 - Barra Funda, São Paulo - SP
-                  Tel:. (11) 2821-5950
-                  2.1 Km de distancia da Estação
-                </p>
-                <p>Pronto Socorro Municipal da Lapa
-                  Av. Queiroz Filho, 313 - Vila Hamburguesa, São Paulo - SP
-                  Tel:. (11) 3022-4122 - 4878-1701
-                  13.0 Km de distancia da Estação
+                <p>Pronto Socorro Municipal José Sylvio de Camargo - Santo Amaro
+                  Rua Adolfo Pinheiro, 805 - Santo Amaro, São Paulo - Sp
+                  Tel:. (11) 5523-1777
+                  1.6 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>77º Distrito Policial - Santa Cecília
-                  Alameda Glete, 827 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3221-5860
-                  1.2 Km de distancia da Estação
+                <p>11º DP Santo Amaro
+                  R. Padre José de Anchieta, 138 - Santo Amaro, São Paulo - SP
+                  Tel:. (11) 5686-9931
+                  2.3 km de distancia da Estação
+                </p>
+                <p>6º DDM - Delegacia de Defesa da Mulher - SUL
+                  R. Padre José de Anchieta, 138 - Santo Amaro - São Paulo - SP
+                  Tel:. (11) 5687-4004
+                  2.3 Km de distancia da Estação
+                </p>
+                <p>6º DDM - Delegacia de Defesa da Mulher - 99° DP
+                  Rua Sargento Manuel Barbosa da Silva, 115 - Jardim Anhanguera - SP
+                  Tel:.
+                  4.5 Km de distancia da Estação
                 </p>
                 <p>Delegacia De Polícia Do Metropolitano - DELPOM
                   Av. Auro Soares de Moura Andrade, 15076 - Barra Funda, São Paulo - SP
                   Tel:. (11) 3662-1222 - ( 08H00 AS 20H00 )
-                  4.2 Km de distancia da Estação
-                </p>
-                <p>4º BPM/M
-                  R. Passo da Pátria, 1504 - Vila Bela Alianca, São Paulo - SP
-                  Tel:. (11) 3836-8996
-                  13.8 Km de distancia da Estação
-                </p>
-                <p>1ª Delegacia De Defesa Da Mulher - Centro
-                  R. Dr. Bettencourt Rodrigues, 200 - Centro Histórico de São Paulo, São Paulo
-                  Tel:.
-                  6.8 Km de distancia da Estação
+                  18.05 Km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>2º Grupamento de Bombeiros Campos Elíseos
-                  Alameda Barão de Piracicaba, 126 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  1.4 Km de distancia da Estação
-                </p>
-                <p>4º Grupamento de Bombeiros - Lapa
-                  R. Martim Tenório, 130 - Lapa, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  10.8 Km de distancia da Estação
+                <p>4º Grupamento de Bombeiros
+                  R. Henri Dunant, 116 - Santo Amaro, São Paulo - SP
+                  Tel:. (11) 5181-6716
+                  4.0 Km de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar
-                  Praça da República, 150 - República, São Paulo - SP
-                  Tel:. (11) 3259-8016 / 3259-9282(
-                  2.8 Km de distancia da Estação
+                <p>Conselho Tutelar – Santo Amaro
+                  Av. Adolfo Pinheiro, 1175 - Santo Amaro, São Paulo - SP
+                  Tel:. (11) 5548-2382
+                  2.8 km de distancia da Estação
                 </p>
-                <p>Guarda Civil Municipal - Centro
-                  Av. Santos Dumont, 767 - Luz, São Paulo - SP
-                  Tel:. 3229-7802
-                  2.9 Km de distancia da Estação
-                </p>
-                <p>Guarda Civil Municipal - Oeste
-                  R. Maj. Paladino, 180 - Vila Ribeiro de Barros, São Paulo - SP
-                  Tel:. 3977-0260
-                  16.0 Km de distancia da Estação
+                <p>Inspetoria Regional Capela Do Socorro - Guarda municipal
+                  Av Atlantica N° 2450 - São Paulo - SP
+                  Tel:. (11) 5665-8127 / 5665-8247
+                  5.3 Km de distancia da Estação
                 </p>
 
 
@@ -6898,68 +6834,43 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Unidade Básica de Saúde Bom Retiro
-                  R. Ten. Pena, 8 - Bom Retiro, São Paulo - SP
-                  Tel:. (11) 3224-9903
-                  800m de distancia da Estação
-                </p>
-                <p>Hospital Municipal da Barra Funda
-                  R. Vitorino Carmilo, nº 717 - Barra Funda, São Paulo - SP
-                  Tel:. (11) 2821-5950
-                  2.1 Km de distancia da Estação
-                </p>
-                <p>Pronto Socorro Municipal da Lapa
-                  Av. Queiroz Filho, 313 - Vila Hamburguesa, São Paulo - SP
-                  Tel:. (11) 3022-4122 - 4878-1701
-                  13.0 Km de distancia da Estação
+                <p>Pronto Socorro Municipal José Sylvio de Camargo - Santo Amaro
+                  Rua Adolfo Pinheiro, 805 - Santo Amaro, São Paulo - SP
+                  Tel:. (11) 5523-1777
+                  2.4 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>77º Distrito Policial - Santa Cecília
-                  Alameda Glete, 827 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3221-5860
-                  1.2 Km de distancia da Estação
+                <p>11º DP Santo Amaro
+                  R. Padre José de Anchieta, 138 - Santo Amaro, São Paulo - SP
+                  Tel:. (11) 5686-9931
+                  2.5 km de distancia da Estação
+                </p>
+                <p>6º DDM - Delegacia de Defesa da Mulher - 99° DP
+                  Rua Sargento Manuel Barbosa da Silva, 115 - Jardim Anhanguera - SP
+                  Tel:.
+                  3.3 Km de distancia da Estação
                 </p>
                 <p>Delegacia De Polícia Do Metropolitano - DELPOM
                   Av. Auro Soares de Moura Andrade, 15076 - Barra Funda, São Paulo - SP
                   Tel:. (11) 3662-1222 - ( 08H00 AS 20H00 )
-                  4.2 Km de distancia da Estação
-                </p>
-                <p>4º BPM/M
-                  R. Passo da Pátria, 1504 - Vila Bela Alianca, São Paulo - SP
-                  Tel:. (11) 3836-8996
-                  13.8 Km de distancia da Estação
-                </p>
-                <p>1ª Delegacia De Defesa Da Mulher - Centro
-                  R. Dr. Bettencourt Rodrigues, 200 - Centro Histórico de São Paulo, São Paulo
-                  Tel:.
-                  6.8 Km de distancia da Estação
+                  19.4 Km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>2º Grupamento de Bombeiros Campos Elíseos
-                  Alameda Barão de Piracicaba, 126 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  1.4 Km de distancia da Estação
-                </p>
-                <p>4º Grupamento de Bombeiros - Lapa
-                  R. Martim Tenório, 130 - Lapa, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  10.8 Km de distancia da Estação
+                <p>4º Grupamento de Bombeiros
+                  R. Henri Dunant, 116 - Santo Amaro, São Paulo - SP
+                  Tel:.
+                  4.2 Km de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar
-                  Praça da República, 150 - República, São Paulo - SP
-                  Tel:. (11) 3259-8016 / 3259-9282(
-                  2.8 Km de distancia da Estação
+                <p>Conselho Tutelar – Santo Amaro
+                  Av. Adolfo Pinheiro, 1175 - Santo Amaro, São Paulo - SP
+                  Tel:. (11) 5548-2382
+                  2.8 km de distancia da Estação
                 </p>
-                <p>Guarda Civil Municipal - Centro
-                  Av. Santos Dumont, 767 - Luz, São Paulo - SP
-                  Tel:. 3229-7802
-                  2.9 Km de distancia da Estação
-                </p>
-                <p>Guarda Civil Municipal - Oeste
-                  R. Maj. Paladino, 180 - Vila Ribeiro de Barros, São Paulo - SP
-                  Tel:. 3977-0260
-                  16.0 Km de distancia da Estação
+                <p>Inspetoria Regional Capela Do Socorro - Guarda municipal
+                  Av Atlantica N° 2450 - São Paulo - SP
+                  Tel:. (11) 5665-8127 / 5665-8247
+                  4.0 Km de distancia da Estação
                 </p>
 
 
@@ -7090,68 +7001,53 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Unidade Básica de Saúde Bom Retiro
-                  R. Ten. Pena, 8 - Bom Retiro, São Paulo - SP
-                  Tel:. (11) 3224-9903
-                  800m de distancia da Estação
+                <p>Pronto Socorro do Hospital Regional Sul
+                  R. Gen. Roberto Alves de Carvalho Filho, 270 - Santo Amaro, São Paulo - SP
+                  Tel:. (11) 5694-8200
+                  4.0 Km de distancia da Estação
                 </p>
-                <p>Hospital Municipal da Barra Funda
-                  R. Vitorino Carmilo, nº 717 - Barra Funda, São Paulo - SP
-                  Tel:. (11) 2821-5950
-                  2.1 Km de distancia da Estação
-                </p>
-                <p>Pronto Socorro Municipal da Lapa
-                  Av. Queiroz Filho, 313 - Vila Hamburguesa, São Paulo - SP
-                  Tel:. (11) 3022-4122 - 4878-1701
-                  13.0 Km de distancia da Estação
+                <p>Pronto Socorro Municipal Dona Maria Antonieta Ferreira de Barros
+                  R. Antônio Felipe Filho, 180 - Jardim Somara, São Paulo - SP
+                  Tel:. (11) 5972-4881
+                  10.6 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>77º Distrito Policial - Santa Cecília
-                  Alameda Glete, 827 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3221-5860
-                  1.2 Km de distancia da Estação
+                <p>99º Distrito Policial - Campo Grande
+                  Rua Sargento Manuel Barbosa da Silva, 115 - Jardim Anhanguera, SP
+                  Tel:. (11) 5521-6653
+                  2.7 Km de distancia da Estação
+                </p>
+                <p>2ª Companhia 27º Batalhão de Polícia Militar Metropolitano
+                  R.Prof Oswaldo Quirino Simões, 122 - Vila California, São Paulo - SP
+                  Tel:. (11) 5524-8785
+                  2.9 Km de distancia da Estação
+                </p>
+                <p>6º DDM - Delegacia de Defesa da Mulher - 99° DP
+                  Rua Sargento Manuel Barbosa da Silva, 115 - Jardim Anhanguera, SP
+                  Tel:.
+                  6.7 Km de distancia da Estação
                 </p>
                 <p>Delegacia De Polícia Do Metropolitano - DELPOM
                   Av. Auro Soares de Moura Andrade, 15076 - Barra Funda, São Paulo - SP
                   Tel:. (11) 3662-1222 - ( 08H00 AS 20H00 )
-                  4.2 Km de distancia da Estação
-                </p>
-                <p>4º BPM/M
-                  R. Passo da Pátria, 1504 - Vila Bela Alianca, São Paulo - SP
-                  Tel:. (11) 3836-8996
-                  13.8 Km de distancia da Estação
-                </p>
-                <p>1ª Delegacia De Defesa Da Mulher - Centro
-                  R. Dr. Bettencourt Rodrigues, 200 - Centro Histórico de São Paulo, São Paulo
-                  Tel:.
-                  6.8 Km de distancia da Estação
+                  21.7 Km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>2º Grupamento de Bombeiros Campos Elíseos
-                  Alameda Barão de Piracicaba, 126 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  1.4 Km de distancia da Estação
-                </p>
-                <p>4º Grupamento de Bombeiros - Lapa
-                  R. Martim Tenório, 130 - Lapa, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  10.8 Km de distancia da Estação
+                <p>4º Grupamento de Bombeiros
+                  R. Henri Dunant, 116 - Santo Amaro, São Paulo - SP
+                  Tel:.
+                  6.4 Km de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar
-                  Praça da República, 150 - República, São Paulo - SP
-                  Tel:. (11) 3259-8016 / 3259-9282(
-                  2.8 Km de distancia da Estação
+                <p>Conselho Tutelar Santo Amaro
+                  Av. Adolfo Pinheiro, 1175 - Santo Amaro, São Paulo - SP
+                  Tel:. (11) 5548-2382
+                  4.4 Km de distancia da Estação
                 </p>
-                <p>Guarda Civil Municipal - Centro
-                  Av. Santos Dumont, 767 - Luz, São Paulo - SP
-                  Tel:. 3229-7802
-                  2.9 Km de distancia da Estação
-                </p>
-                <p>Guarda Civil Municipal - Oeste
-                  R. Maj. Paladino, 180 - Vila Ribeiro de Barros, São Paulo - SP
-                  Tel:. 3977-0260
-                  16.0 Km de distancia da Estação
+                <p>Inspetoria Regional Capela Do Socorro - Guarda municipal
+                  Av Atlantica N° 2450
+                  Tel:. (11) 5665-8127 / 5665-8247
+                  5.5 Km de distancia da Estação
                 </p>
 
 
@@ -7280,68 +7176,48 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Unidade Básica de Saúde Bom Retiro
-                  R. Ten. Pena, 8 - Bom Retiro, São Paulo - SP
-                  Tel:. (11) 3224-9903
-                  800m de distancia da Estação
+                <p>Hospital Geral de Pedreira
+                  R. João Francisco de Moura, 251 - Vila Campo Grande, São Paulo - SP
+                  Tel:. (11) 5613-5900
+                  4.7 Km de distancia da Estação
                 </p>
-                <p>Hospital Municipal da Barra Funda
-                  R. Vitorino Carmilo, nº 717 - Barra Funda, São Paulo - SP
-                  Tel:. (11) 2821-5950
-                  2.1 Km de distancia da Estação
-                </p>
-                <p>Pronto Socorro Municipal da Lapa
-                  Av. Queiroz Filho, 313 - Vila Hamburguesa, São Paulo - SP
-                  Tel:. (11) 3022-4122 - 4878-1701
-                  13.0 Km de distancia da Estação
+                <p>Pronto Socorro Municipal Dona Maria Antonieta Ferreira de Barros
+                  R. Antônio Felipe Filho, 180 - Jardim Somara, São Paulo - SP
+                  Tel:. (11) 5972-4881
+                  5.8 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>77º Distrito Policial - Santa Cecília
-                  Alameda Glete, 827 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3221-5860
-                  1.2 Km de distancia da Estação
+                <p>101º Distrito Policial - Jd. das Imbuias
+                  R. Carolina Michaelis, 370 - Jardim das Imbuias, São Paulo - SP
+                  Tel:. (11) 5928-5952
+                  4.6 Km de distancia da Estação
+                </p>
+                <p>6º DDM - Delegacia de Defesa da Mulher - 99° DP
+                  Rua Sargento Manuel Barbosa da Silva, 115 - Jardim Anhanguera, SP
+                  Tel:.
+                  6.7 Km de distancia da Estação
                 </p>
                 <p>Delegacia De Polícia Do Metropolitano - DELPOM
                   Av. Auro Soares de Moura Andrade, 15076 - Barra Funda, São Paulo - SP
                   Tel:. (11) 3662-1222 - ( 08H00 AS 20H00 )
-                  4.2 Km de distancia da Estação
-                </p>
-                <p>4º BPM/M
-                  R. Passo da Pátria, 1504 - Vila Bela Alianca, São Paulo - SP
-                  Tel:. (11) 3836-8996
-                  13.8 Km de distancia da Estação
-                </p>
-                <p>1ª Delegacia De Defesa Da Mulher - Centro
-                  R. Dr. Bettencourt Rodrigues, 200 - Centro Histórico de São Paulo, São Paulo
-                  Tel:.
-                  6.8 Km de distancia da Estação
+                  25.9 Km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>2º Grupamento de Bombeiros Campos Elíseos
-                  Alameda Barão de Piracicaba, 126 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  1.4 Km de distancia da Estação
-                </p>
-                <p>4º Grupamento de Bombeiros - Lapa
-                  R. Martim Tenório, 130 - Lapa, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  10.8 Km de distancia da Estação
+                <p>4º Grupamento de Bombeiros
+                  R. Henri Dunant, 116 - Santo Amaro, São Paulo - SP
+                  Tel:.
+                  10.4 Km de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar
-                  Praça da República, 150 - República, São Paulo - SP
-                  Tel:. (11) 3259-8016 / 3259-9282(
-                  2.8 Km de distancia da Estação
-                </p>
-                <p>Guarda Civil Municipal - Centro
-                  Av. Santos Dumont, 767 - Luz, São Paulo - SP
-                  Tel:. 3229-7802
+                <p>Conselho Tutelar Capela do Socorro
+                  R. Walter Pereira Correia, 12 - Jardim Cliper, São Paulo
+                  Tel:. (11) 5667-4619
                   2.9 Km de distancia da Estação
                 </p>
-                <p>Guarda Civil Municipal - Oeste
-                  R. Maj. Paladino, 180 - Vila Ribeiro de Barros, São Paulo - SP
-                  Tel:. 3977-0260
-                  16.0 Km de distancia da Estação
+                <p>Inspetoria Regional Capela Do Socorro - Guarda municipal
+                  Av Atlantica N° 2450
+                  Tel:. (11) 5665-8127 / 5665-8247
+                  5.8 Km de distancia da Estação
                 </p>
 
 
@@ -7471,68 +7347,43 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Unidade Básica de Saúde Bom Retiro
-                  R. Ten. Pena, 8 - Bom Retiro, São Paulo - SP
-                  Tel:. (11) 3224-9903
-                  800m de distancia da Estação
-                </p>
-                <p>Hospital Municipal da Barra Funda
-                  R. Vitorino Carmilo, nº 717 - Barra Funda, São Paulo - SP
-                  Tel:. (11) 2821-5950
-                  2.1 Km de distancia da Estação
-                </p>
-                <p>Pronto Socorro Municipal da Lapa
-                  Av. Queiroz Filho, 313 - Vila Hamburguesa, São Paulo - SP
-                  Tel:. (11) 3022-4122 - 4878-1701
-                  13.0 Km de distancia da Estação
+                <p>Pronto Socorro Municipal Dona Maria Antonieta Ferreira de Barros
+                  R. Antônio Felipe Filho, 180 - Jardim Somara, São Paulo - SP
+                  Tel:. (11) 5972-4881
+                  3.9 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>77º Distrito Policial - Santa Cecília
-                  Alameda Glete, 827 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3221-5860
-                  1.2 Km de distancia da Estação
+                <p>101º Distrito Policial - Jd. das Imbuias
+                  R. Carolina Michaelis, 370 - Jardim das Imbuias, São Paulo - SP
+                  Tel:. (11) 5928-5952
+                  3.5 Km de distancia da Estação
+                </p>
+                <p>6º DDM - Delegacia de Defesa da Mulher - 99° DP
+                  Rua Sargento Manuel Barbosa da Silva, 115 - Jardim Anhanguera, SP
+                  Tel:.
+                  8.4 Km de distancia da Estação
                 </p>
                 <p>Delegacia De Polícia Do Metropolitano - DELPOM
                   Av. Auro Soares de Moura Andrade, 15076 - Barra Funda, São Paulo - SP
                   Tel:. (11) 3662-1222 - ( 08H00 AS 20H00 )
-                  4.2 Km de distancia da Estação
-                </p>
-                <p>4º BPM/M
-                  R. Passo da Pátria, 1504 - Vila Bela Alianca, São Paulo - SP
-                  Tel:. (11) 3836-8996
-                  13.8 Km de distancia da Estação
-                </p>
-                <p>1ª Delegacia De Defesa Da Mulher - Centro
-                  R. Dr. Bettencourt Rodrigues, 200 - Centro Histórico de São Paulo, São Paulo
-                  Tel:.
-                  6.8 Km de distancia da Estação
+                  27.3 Km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>2º Grupamento de Bombeiros Campos Elíseos
-                  Alameda Barão de Piracicaba, 126 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  1.4 Km de distancia da Estação
-                </p>
-                <p>4º Grupamento de Bombeiros - Lapa
-                  R. Martim Tenório, 130 - Lapa, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  10.8 Km de distancia da Estação
+                <p>4º Grupamento de Bombeiros
+                  R. Henri Dunant, 116 - Santo Amaro, São Paulo - SP
+                  Tel:.
+                  12.1 Km de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar
-                  Praça da República, 150 - República, São Paulo - SP
-                  Tel:. (11) 3259-8016 / 3259-9282(
-                  2.8 Km de distancia da Estação
-                </p>
-                <p>Guarda Civil Municipal - Centro
-                  Av. Santos Dumont, 767 - Luz, São Paulo - SP
-                  Tel:. 3229-7802
+                <p>Conselho Tutelar Grajaú
+                  R. José Quaresma Júnior - Parque Grajau, São Paulo - SP
+                  Tel:.
                   2.9 Km de distancia da Estação
                 </p>
-                <p>Guarda Civil Municipal - Oeste
-                  R. Maj. Paladino, 180 - Vila Ribeiro de Barros, São Paulo - SP
-                  Tel:. 3977-0260
-                  16.0 Km de distancia da Estação
+                <p>Inspetoria Regional Capela Do Socorro - Guarda municipal
+                  Av Atlantica N° 2450
+                  Tel:. (11) 5665-8127 / 5665-8247
+                  8.8 Km de distancia da Estação
                 </p>
 
 
@@ -7661,68 +7512,53 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Unidade Básica de Saúde Bom Retiro
-                  R. Ten. Pena, 8 - Bom Retiro, São Paulo - SP
-                  Tel:. (11) 3224-9903
-                  800m de distancia da Estação
-                </p>
-                <p>Hospital Municipal da Barra Funda
-                  R. Vitorino Carmilo, nº 717 - Barra Funda, São Paulo - SP
-                  Tel:. (11) 2821-5950
-                  2.1 Km de distancia da Estação
-                </p>
-                <p>Pronto Socorro Municipal da Lapa
-                  Av. Queiroz Filho, 313 - Vila Hamburguesa, São Paulo - SP
-                  Tel:. (11) 3022-4122 - 4878-1701
-                  13.0 Km de distancia da Estação
+                <p>Pronto Socorro Municipal Dona Maria Antonieta Ferreira de Barros
+                  R. Antônio Felipe Filho, 180 - Jardim Somara, São Paulo - SP
+                  Tel:. (11) 5972-4881
+                  2.7 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>77º Distrito Policial - Santa Cecília
-                  Alameda Glete, 827 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3221-5860
+                <p>27º Batalhão de Polícia Militar Metropolitano
+                  R. Rosália Grisi Sandoval, 270 - Parque America, São Paulo - SP
+                  Tel:. (11) 5928-1414
                   1.2 Km de distancia da Estação
+                </p>
+                <p>101º Distrito Policial - Jd. das Imbuias
+                  R. Carolina Michaelis, 370 - Jardim das Imbuias, São Paulo - SP
+                  Tel:. (11) 5928-5952
+                  3.7 Km de distancia da Estação
+                </p>
+                <p>85° Distrito Policial - Jardim Mirna
+                  R. Dr. Juvenal Hudson Ferreira, 141 - Jardim Myrna, São Paulo - SP
+                  Tel:. (11) 5526-9955
+                  4.8 Km de distancia da Estação
+                </p>
+                <p>6º DDM - Delegacia de Defesa da Mulher - 99° DP
+                  Rua Sargento Manuel Barbosa da Silva, 115 - Jardim Anhanguera, SP
+                  Tel:.
+                  10.1 km de distancia da Estação
                 </p>
                 <p>Delegacia De Polícia Do Metropolitano - DELPOM
                   Av. Auro Soares de Moura Andrade, 15076 - Barra Funda, São Paulo - SP
                   Tel:. (11) 3662-1222 - ( 08H00 AS 20H00 )
-                  4.2 Km de distancia da Estação
-                </p>
-                <p>4º BPM/M
-                  R. Passo da Pátria, 1504 - Vila Bela Alianca, São Paulo - SP
-                  Tel:. (11) 3836-8996
-                  13.8 Km de distancia da Estação
-                </p>
-                <p>1ª Delegacia De Defesa Da Mulher - Centro
-                  R. Dr. Bettencourt Rodrigues, 200 - Centro Histórico de São Paulo, São Paulo
-                  Tel:.
-                  6.8 Km de distancia da Estação
+                  29.1 Km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>2º Grupamento de Bombeiros Campos Elíseos
-                  Alameda Barão de Piracicaba, 126 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  1.4 Km de distancia da Estação
-                </p>
-                <p>4º Grupamento de Bombeiros - Lapa
-                  R. Martim Tenório, 130 - Lapa, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  10.8 Km de distancia da Estação
+                <p>4º Grupamento de Bombeiros
+                  R. Henri Dunant, 116 - Santo Amaro, São Paulo - SP
+                  Tel:.
+                  14.0 Km de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
-                <p>Conselho Tutelar
-                  Praça da República, 150 - República, São Paulo - SP
-                  Tel:. (11) 3259-8016 / 3259-9282(
-                  2.8 Km de distancia da Estação
-                </p>
-                <p>Guarda Civil Municipal - Centro
-                  Av. Santos Dumont, 767 - Luz, São Paulo - SP
-                  Tel:. 3229-7802
+                <p>Conselho Tutelar Grajaú
+                  R. José Quaresma Júnior - Parque Grajau, São Paulo - SP
+                  Tel:.
                   2.9 Km de distancia da Estação
                 </p>
-                <p>Guarda Civil Municipal - Oeste
-                  R. Maj. Paladino, 180 - Vila Ribeiro de Barros, São Paulo - SP
-                  Tel:. 3977-0260
-                  16.0 Km de distancia da Estação
+                <p>Inspetoria Regional Capela Do Socorro - Guarda municipal
+                  Av Atlantica N° 2450
+                  Tel:. (11) 5665-8127 / 5665-8247
+                  8.8 Km de distancia da Estação
                 </p>
 
 
@@ -7851,68 +7687,43 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-                <p>Unidade Básica de Saúde Bom Retiro
-                  R. Ten. Pena, 8 - Bom Retiro, São Paulo - SP
-                  Tel:. (11) 3224-9903
-                  800m de distancia da Estação
-                </p>
-                <p>Hospital Municipal da Barra Funda
-                  R. Vitorino Carmilo, nº 717 - Barra Funda, São Paulo - SP
-                  Tel:. (11) 2821-5950
-                  2.1 Km de distancia da Estação
-                </p>
-                <p>Pronto Socorro Municipal da Lapa
-                  Av. Queiroz Filho, 313 - Vila Hamburguesa, São Paulo - SP
-                  Tel:. (11) 3022-4122 - 4878-1701
-                  13.0 Km de distancia da Estação
+                <p>Pronto Socorro Municipal Dona Maria Antonieta Ferreira de Barros
+                  R. Antônio Felipe Filho, 180 - Jardim Somara, São Paulo - SP
+                  Tel:. (11) 5972-4881
+                  3.7 Km de distancia da Estação
                 </p>
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
-                <p>77º Distrito Policial - Santa Cecília
-                  Alameda Glete, 827 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3221-5860
+                <p>27º Batalhão de Polícia Militar Metropolitano
+                  R. Rosália Grisi Sandoval, 270 - Parque America, São Paulo - SP
+                  Tel:. (11) 5928-1414
                   1.2 Km de distancia da Estação
                 </p>
-                <p>Delegacia De Polícia Do Metropolitano - DELPOM
-                  Av. Auro Soares de Moura Andrade, 15076 - Barra Funda, São Paulo - SP
-                  Tel:. (11) 3662-1222 - ( 08H00 AS 20H00 )
-                  4.2 Km de distancia da Estação
+                <p>85° Distrito Policial - Jardim Mirna
+                  R. Dr. Juvenal Hudson Ferreira, 141 - Jardim Myrna, São Paulo - SP
+                  Tel:. (11) 5526-9955
+                  4.8 Km de distancia da Estação
                 </p>
-                <p>4º BPM/M
-                  R. Passo da Pátria, 1504 - Vila Bela Alianca, São Paulo - SP
-                  Tel:. (11) 3836-8996
-                  13.8 Km de distancia da Estação
-                </p>
-                <p>1ª Delegacia De Defesa Da Mulher - Centro
-                  R. Dr. Bettencourt Rodrigues, 200 - Centro Histórico de São Paulo, São Paulo
+                <p>6º DDM - Delegacia de Defesa da Mulher - 99° DP
+                  Rua Sargento Manuel Barbosa da Silva, 115 - Jardim Anhanguera, SP
                   Tel:.
-                  6.8 Km de distancia da Estação
+                  10.1 km de distancia da Estação
                 </p>
                 <h4>CORPO DE BOMBEIROS</h4>
-                <p>2º Grupamento de Bombeiros Campos Elíseos
-                  Alameda Barão de Piracicaba, 126 - Campos Elíseos, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  1.4 Km de distancia da Estação
-                </p>
-                <p>4º Grupamento de Bombeiros - Lapa
-                  R. Martim Tenório, 130 - Lapa, São Paulo - SP
-                  Tel:. (11) 3396-2440
-                  10.8 Km de distancia da Estação
+                <p>4º Grupamento de Bombeiros
+                  R. Henri Dunant, 116 - Santo Amaro, São Paulo - SP
+                  Tel:.
+                  14.0 Km de distancia da Estação
                 </p>
                 <h4>CONSELHO TUTELAR e GCM</h4>
                 <p>Conselho Tutelar
-                  Praça da República, 150 - República, São Paulo - SP
-                  Tel:. (11) 3259-8016 / 3259-9282(
-                  2.8 Km de distancia da Estação
+                  R. Uva Natal, 402 - Vila Natal, São Paulo - SP
+                  Tel:. (11) 5927-4437
+                  2.2 Km de distância da Estação
                 </p>
-                <p>Guarda Civil Municipal - Centro
-                  Av. Santos Dumont, 767 - Luz, São Paulo - SP
-                  Tel:. 3229-7802
-                  2.9 Km de distancia da Estação
-                </p>
-                <p>Guarda Civil Municipal - Oeste
-                  R. Maj. Paladino, 180 - Vila Ribeiro de Barros, São Paulo - SP
-                  Tel:. 3977-0260
-                  16.0 Km de distancia da Estação
+                <p>Conselho Tutelar Grajaú
+                  R. José Quaresma Júnior - Parque Grajau, São Paulo - SP
+                  Tel:.
+                  4.4 Km de distancia da Estação
                 </p>
 
 
