@@ -10,7 +10,6 @@
 </head>
 
 <body>
-
   <nav id="home" class="navbar navbar-expand-lg navbar navbar-dark bg-dark">
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01"
       aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Alterna navegação">
@@ -39,7 +38,7 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="https://portalmobilidade.grupoccr.com.br/operacional/engenharia.asp"
-            target="_blank">Portal mobilidade</a>
+            target="_blank">Portal Mobilidade</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="https://meurh.grupoccr.com.br/FrameHTML/web/app/RH/PortalMeuRH/#/login"
@@ -71,7 +70,7 @@
               aria-haspopup="true" aria-expanded="false">
               Grupo CCR
             </button>
-            <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
+            <div class="dropdown-menu" aria-labelledby="btnGroupDrop1" style="text-align: center;">
               <a class="dropdown-item" href="https://www.viaquatro.com.br/" target="_blank">Via quatro</a>
               <a class="dropdown-item" href="https://www.viamobilidade.com.br/nos/linha-5-lilas"
                 target="_blank">Viamobilidade linha 05</a>
@@ -90,13 +89,10 @@
               <a class="dropdown-item" href="https://www.vltrio.com.br/#/" target="_blank">VLT Carioca</a>
             </div>
           </div>
-
         </li>
       </ul>
-
     </div>
   </nav>
-
   <div>
     <div>
       <div>
@@ -108,10 +104,8 @@
       </div>
     </div>
   </div>
-
   <img src="alfa.jfif" class="img-fluid" alt="Imagem responsiva" style="width: 100%; height: auto;">
   <div class="box" style="--color:red">
-
     <div class="jumbotron">
       <h1 class="display-4">Caro Agente, seja bem vindo!</h1>
       <p class="lead">Seu mundo de conhecimento</p>
@@ -151,7 +145,6 @@
         </div>
       </div>
     </div>
-
     <div class="alert alert-success" role="alert">
       <h4 class="alert-heading">Alerta</h4>
       <p></p>
@@ -163,9 +156,7 @@
         Controle Operacional para mantê-lo atualizado.
       </p>
     </div>
-
     <div style=justify-content;>
-
       <div class=" role=" toolbar aria-label="">
         <div>
           <a type="button" class="btn btn-secondary" href="#JPR">JPR</a>
@@ -191,7 +182,6 @@
           <a type="button" class="btn btn-secondary" href="#SRT">SRT</a>
           <a type="button" class="btn btn-secondary" href="#ABU">ABU</a>
         </div>
-
         <div>
           <a class="btn btn-primary" role="button" href="#CEA">CEA</a>
           <a class="btn btn-primary" type="submit" href="#JAG">JAG</a>
@@ -212,7 +202,6 @@
           <a class="btn btn-primary" type="submit" href="#GRA">GRA</a>
           <a class="btn btn-primary" type="submit" href="#MVN">MVN</a>
         </div>
-
         <div class="card-deck" style="margin: 15px;">
           <div class="card">
             <img class="card-img-top" style="height: 350px; height: 350px;" src="moovit.png"
@@ -270,16 +259,9 @@
             </div>
           </div>
         </div>
-
-
       </div>
-
     </div>
-
-
-
   </div>
-
   <div style="justify-content: space-between; display: flex;">
     <div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
       <div class="card-header">DICA Nº 1</div>
@@ -352,23 +334,17 @@
       </div>
     </div>
   </div>
-
-
-
   <div class="p-3 mb-2 bg-secondary text-white" style="text-align: center;"><strong>LINHA 08 DIAMANTE</strong></div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="JPR" style="text-align: center;">JÚLIO PRESTES (JPR)</h1>
       <p style="text-align: center;"><strong>Endereço:</strong> Praça Júlio Prestes, 148 - Campos Elíseos – São
         Paulo
         01218-020</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/J%C3%BAlio+Prestes/@-23.5341412,-46.6398746,15z/data=!4m6!3m5!1s0x94ce585ce629f3c5:0xb0aad38748ae9828!8m2!3d-23.5341412!4d-46.6398746!16s%2Fg%2F1211p_v0?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acessjpr">
           Acessibilidade
         </button>
@@ -389,7 +365,7 @@
                 <p><strong>Rampa:</strong> Sim</p>
                 <p><strong>Elevadores:</strong> Não</p>
                 <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Escadas fixas:</strong> Não</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -397,7 +373,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontjpr">
           Pontos de Referência
         </button>
@@ -422,9 +397,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligjpr">
           Ligar
         </button>
@@ -448,8 +420,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -532,22 +502,16 @@
                   Tel:. 3977-0260
                   16.0 Km de distancia da Estação
                 </p>
-
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <img style="height: 30px; height: 30px;" src="linha3.png" alt="">
@@ -556,12 +520,10 @@
       <p style="text-align: center;"><strong>Endereço:</strong> Avenida Auro Soares de Moura Andrade, 664 (Barra
         Funda) / Rua da Várzea, s/nº (Várzea da Barra Funda) – São Paulo - SP
         01156-001</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Palmeiras-Barra+Funda/@-23.5254689,-46.66742,15z/data=!4m6!3m5!1s0x94ce5803ffc85a79:0xfc31541fa60a201a!8m2!3d-23.5254689!4d-46.66742!16s%2Fm%2F0g5slps?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acessbfu">
           Acessibilidade
         </button>
@@ -580,9 +542,9 @@
                 <p><strong>Piso tátil:</strong> Sim</p>
                 <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
                 <p><strong>Rampa:</strong> Sim</p>
-                <p><strong>Elevadores:</strong> Não</p>
-                <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Elevadores:</strong> Sim</p>
+                <p><strong>Escadas rolantes:</strong> Sim</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -590,7 +552,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontbfu">
           Pontos de Referência
         </button>
@@ -605,10 +566,10 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Terminal Rodoviário</p>
+                <p>- Transferencia com as linhas 03 e 07</p>
+                <p>- Memorial Amércia Latina</p>
+                <p>- Allianz Parque</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -616,9 +577,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligbfu">
           Ligar
         </button>
@@ -642,8 +600,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -716,37 +672,28 @@
                   Tel:. 3977-0260
                   16.0 Km de distancia da Estação
                 </p>
-
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   </div>
   </div>
   </div>
-
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="LAB" style="text-align: center;">LAPA (LAB)</h1>
       <p style="text-align: center;"><strong>Endereço:</strong> Rua Guaicurus, 1438 - Água Branca - São Paulo - SP
         05033-002</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Lapa/@-23.5204248,-46.6997003,18z/data=!4m10!1m2!2m1!1zRXN0YcOnw6NvIExhcGEgbWFwYQ!3m6!1s0x94cef865ed579529:0x33d118b5442e9127!8m2!3d-23.520327!4d-46.6989541!15sChNFc3Rhw6fDo28gTGFwYSBtYXBhkgENdHJhaW5fc3RhdGlvbuABAA!16s%2Fg%2F1224zpf2?entry=ttu&g_ep=EgoyMDI0MTExOC4wIKXMDSoASAFQAw%3D%3D"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acesslab">
           Acessibilidade
         </button>
@@ -762,12 +709,12 @@
               </div>
               <div class="modal-body">
                 <p><strong>Sanitário Público:</strong> Sim</p>
-                <p><strong>Piso tátil:</strong> Sim</p>
-                <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
-                <p><strong>Rampa:</strong> Sim</p>
-                <p><strong>Elevadores:</strong> Não</p>
+                <p><strong>Piso tátil:</strong> Não</p>
+                <p><strong>Telefone adaptado para PCR:</strong> Não</p>
+                <p><strong>Rampa:</strong> Não</p>
+                <p><strong>Elevadores:</strong> Sim</p>
                 <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -775,7 +722,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontlab">
           Pontos de Referência
         </button>
@@ -790,10 +736,8 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Estação Lapa linha 07</p>
+                <p>- Terminal de Onibus</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -801,9 +745,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#liglab">
           Ligar
         </button>
@@ -827,8 +768,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -848,7 +787,6 @@
               </div>
               <div class="modal-body">
                 <h4>HOSPITAIS/UBS</h4>
-
                 <p>Hospital Municipal da Barra Funda
                   R. Vitorino Carmilo, nº 717 - Barra Funda, São Paulo - SP
                   Tel:. (11) 2821-5950
@@ -908,25 +846,19 @@
                   Tel:. 3977-0260
                   6.4 Km de distancia da Estação
                 </p>
-
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   </div>
   </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <img style="height: 50px; height: 50px; " src="ambulancia.png" alt="">
@@ -934,12 +866,10 @@
       <p style="text-align: center;"><strong>Endereço:</strong> Rua João Tibiriçá, s/nº - Vila Anastácio - São
         Paulo
         05077-000</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Domingos+de+Moraes/@-23.5191434,-46.7215832,15z/data=!4m6!3m5!1s0x94cef8ed048f772f:0x1087bf1dd00357eb!8m2!3d-23.5191434!4d-46.7215832!16s%2Fg%2F121ysx1q?entry=ttu&g_ep=EgoyMDI0MTExOC4wIKXMDSoASAFQAw%3D%3D"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acessdmo">
           Acessibilidade
         </button>
@@ -956,11 +886,11 @@
               <div class="modal-body">
                 <p><strong>Sanitário Público:</strong> Sim</p>
                 <p><strong>Piso tátil:</strong> Sim</p>
-                <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
+                <p><strong>Telefone adaptado para PCR:</strong> Não</p>
                 <p><strong>Rampa:</strong> Sim</p>
-                <p><strong>Elevadores:</strong> Não</p>
+                <p><strong>Elevadores:</strong> Sim</p>
                 <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -968,7 +898,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontdmo">
           Pontos de Referência
         </button>
@@ -983,10 +912,7 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Centro de Lapa</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -994,9 +920,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligdmo">
           Ligar
         </button>
@@ -1020,8 +943,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -1093,32 +1014,26 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   </div>
   </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="ILE" style="text-align: center;">IMPERATRIZ LEOPOLDINA (ILE)</h1>
       <p style="text-align: center;"><strong>Endereço:</strong> Rua Major Paladino, 08 (Vila Ribeiro de Barros) /
         Av. Imperatriz Leopoldina, nº 20 (Vila Leopoldina) - São Paulo - SP
         05307-000</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Imperatriz+Leopoldina/@-23.5237733,-46.7375625,15z/data=!4m2!3m1!1s0x0:0x4ea3d3896ca01f86?sa=X&ved=1t:2428&ictx=111"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acessile">
           Acessibilidade
         </button>
@@ -1134,12 +1049,12 @@
               </div>
               <div class="modal-body">
                 <p><strong>Sanitário Público:</strong> Sim</p>
-                <p><strong>Piso tátil:</strong> Sim</p>
-                <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
-                <p><strong>Rampa:</strong> Sim</p>
+                <p><strong>Piso tátil:</strong> Não</p>
+                <p><strong>Telefone adaptado para PCR:</strong> Não</p>
+                <p><strong>Rampa:</strong> Não</p>
                 <p><strong>Elevadores:</strong> Não</p>
                 <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -1147,7 +1062,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontile">
           Pontos de Referência
         </button>
@@ -1162,10 +1076,9 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Universidade São Judas Tadeu Vila Leopoldina</p>
+                <p>- Parque Leopoldina Orlando Villas Boas</p>
+                <p>- Sabesp unidade Oeste</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -1173,9 +1086,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligile">
           Ligar
         </button>
@@ -1199,8 +1109,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -1230,7 +1138,6 @@
                   Tel:. (11) 4878-1701
                   3.6 Km de distancia da Estação
                 </p>
-
                 <h4>DELEGACIAS E BATALHÕES DA PM</h4>
                 <p>4° Batalhão de Polícia Militar Metropolitano
                   R. Passo da Pátria, 1504 - Vila Leopoldina, São Paulo - SP
@@ -1269,36 +1176,29 @@
                   Tel:. 3977-0260
                   1.9 Km de distancia da Estação
                 </p>
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   </div>
   </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <img style="height: 30px; height: 30px;" src="linha9.jfif" alt="">
       <h1 id="PAL" style="text-align: center;">PRESIDENTE ALTINO (PAL)</h1>
       <p style="text-align: center;"><strong>Endereço:</strong> Rua Abílio Mendes, 08 - Presidente Altino - Osasco
         06210-070</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Presidente+Altino/@-23.53124,-46.7618,15z/data=!4m2!3m1!1s0x0:0x78ac9d38a215f26f?sa=X&ved=1t:2428&ictx=111"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acesspal">
           Acessibilidade
         </button>
@@ -1314,12 +1214,12 @@
               </div>
               <div class="modal-body">
                 <p><strong>Sanitário Público:</strong> Sim</p>
-                <p><strong>Piso tátil:</strong> Sim</p>
+                <p><strong>Piso tátil:</strong> Não</p>
                 <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
                 <p><strong>Rampa:</strong> Sim</p>
-                <p><strong>Elevadores:</strong> Não</p>
+                <p><strong>Elevadores:</strong> Sim</p>
                 <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -1327,7 +1227,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontpal">
           Pontos de Referência
         </button>
@@ -1342,10 +1241,8 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Transferencia com a linha 09</p>
+                <p>- Pátio de trens Presidente Altino</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -1353,9 +1250,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligpal">
           Ligar
         </button>
@@ -1379,8 +1273,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -1452,20 +1344,16 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   </div>
   </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <img style="height: 30px; height: 30px;" src="linha9.jfif" alt="">
@@ -1473,12 +1361,10 @@
       <p style="text-align: center;"><strong>Endereço:</strong> Praça Antonio Menck, s/nº (Centro)/ Rua Erasmo
         Braga, s/nº (Bonfim) – Osasco
         06093-090</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Osasco/@-23.5277704,-46.7759278,15z/data=!4m2!3m1!1s0x0:0x882e4ddd0f5f18f3?sa=X&ved=1t:2428&ictx=111&cshid=1732191892025993"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acessosa">
           Acessibilidade
         </button>
@@ -1494,12 +1380,12 @@
               </div>
               <div class="modal-body">
                 <p><strong>Sanitário Público:</strong> Sim</p>
-                <p><strong>Piso tátil:</strong> Sim</p>
-                <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
+                <p><strong>Piso tátil:</strong> Não</p>
+                <p><strong>Telefone adaptado para PCR:</strong> Não</p>
                 <p><strong>Rampa:</strong> Sim</p>
-                <p><strong>Elevadores:</strong> Não</p>
-                <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Elevadores:</strong> Sim</p>
+                <p><strong>Escadas rolantes:</strong> Sim</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -1507,7 +1393,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontosa">
           Pontos de Referência
         </button>
@@ -1522,10 +1407,9 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Transferencia com a linha 09</p>
+                <p>- Pátio de trens Presidente Altino</p>
+                <p>- Shopping Osasco Plaza</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -1533,9 +1417,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligosa">
           Ligar
         </button>
@@ -1559,8 +1440,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -1628,31 +1507,25 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   </div>
   </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="CSA" style="text-align: center;">COMANDANTE SAMPAIO (CSA)</h1>
       <p style="text-align: center;"><strong>Endereço:</strong> Avenida dos Autonomistas, 5.100 - Km 18 – Osasco
         06194-060</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Comandante+Sampaio/@-23.525708,-46.7957153,15z/data=!4m2!3m1!1s0x0:0x3fecf3df98d23adb?sa=X&ved=1t:2428&ictx=111"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acesscsa">
           Acessibilidade
         </button>
@@ -1668,12 +1541,12 @@
               </div>
               <div class="modal-body">
                 <p><strong>Sanitário Público:</strong> Sim</p>
-                <p><strong>Piso tátil:</strong> Sim</p>
-                <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
-                <p><strong>Rampa:</strong> Sim</p>
+                <p><strong>Piso tátil:</strong> Não</p>
+                <p><strong>Telefone adaptado para PCR:</strong> Não</p>
+                <p><strong>Rampa:</strong> Não</p>
                 <p><strong>Elevadores:</strong> Não</p>
                 <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -1681,7 +1554,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontcsa">
           Pontos de Referência
         </button>
@@ -1696,10 +1568,8 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Avenida dos Autonomistas</p>
+                <p>- Joli Materias de Construção</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -1707,9 +1577,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligcsa">
           Ligar
         </button>
@@ -1733,8 +1600,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -1797,24 +1662,19 @@
                   Tel:. 2183-0869
                   6.6 Km de distancia da Estação
                 </p>
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   </div>
   </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <img style="height: 50px; height: 50px; left: 50px;" src="moto.png" alt="">
@@ -1823,12 +1683,10 @@
       <p style="text-align: center;"><strong>Endereço:</strong> Praça Antonio Raposo Tavares, s/nº - Km 18 –
         Osasco
         06194-140</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Quita%C3%BAna/@-23.5229152,-46.8071981,15z/data=!4m2!3m1!1s0x0:0xd030191f66b33a89?sa=X&ved=1t:2428&ictx=111"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acessqtu">
           Acessibilidade
         </button>
@@ -1847,9 +1705,9 @@
                 <p><strong>Piso tátil:</strong> Sim</p>
                 <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
                 <p><strong>Rampa:</strong> Sim</p>
-                <p><strong>Elevadores:</strong> Não</p>
+                <p><strong>Elevadores:</strong> Sim</p>
                 <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -1857,7 +1715,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontqtu">
           Pontos de Referência
         </button>
@@ -1872,10 +1729,9 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- 4º Batalhão da Infantaria</p>
+                <p>- EPPEN Escola Paulista de Política, Economia e Negócios</p>
+                <p>- Avenida dos Autonomistas</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -1883,9 +1739,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligqtu">
           Ligar
         </button>
@@ -1909,8 +1762,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -1978,35 +1829,28 @@
                   Tel:. 2183-0869
                   8.2 Km de distancia da Estação
                 </p>
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   </div>
   </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="GMC" style="text-align: center;">GENERAL MIGUEL COSTA (GMC)</h1>
       <p style="text-align: center;"><strong>Endereço:</strong> Avenida Autonomista, S/N° (KM 18) - Osasco - SP
         06900-600</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/General+Miguel+Costa/@-23.5235557,-46.8152962,15z/data=!4m2!3m1!1s0x0:0xd9ff3882de25006?sa=X&ved=1t:2428&ictx=111"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acessgmc">
           Acessibilidade
         </button>
@@ -2021,13 +1865,13 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p><strong>Sanitário Público:</strong> Sim</p>
-                <p><strong>Piso tátil:</strong> Sim</p>
-                <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
-                <p><strong>Rampa:</strong> Sim</p>
+                <p><strong>Sanitário Público:</strong> Não</p>
+                <p><strong>Piso tátil:</strong> Não</p>
+                <p><strong>Telefone adaptado para PCR:</strong> Não</p>
+                <p><strong>Rampa:</strong> Não</p>
                 <p><strong>Elevadores:</strong> Não</p>
                 <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -2035,7 +1879,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontgmc">
           Pontos de Referência
         </button>
@@ -2050,10 +1893,9 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Terminal de Onibus</p>
+                <p>- Avenida dos Autonomistas</p>
+                <p>- Roldão Atacadista</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -2061,9 +1903,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#liggmc">
           Ligar
         </button>
@@ -2087,8 +1926,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -2156,35 +1993,28 @@
                   Tel:. 2183-0869
                   8.7 Km de distancia da Estação
                 </p>
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   </div>
   </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="CPB" style="text-align: center;">CARAPICUÍBA (CPB)</h1>
       <p style="text-align: center;"><strong>Endereço:</strong> Rua Max Zandron, s/nº - Centro – Carapicuiba
         06310-180</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Carapicu%C3%ADba/@-23.5187115,-46.8356498,15z/data=!4m2!3m1!1s0x0:0xd94301e3982d09b6?sa=X&ved=1t:2428&ictx=111"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acesscpb">
           Acessibilidade
         </button>
@@ -2202,10 +2032,10 @@
                 <p><strong>Sanitário Público:</strong> Sim</p>
                 <p><strong>Piso tátil:</strong> Sim</p>
                 <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
-                <p><strong>Rampa:</strong> Sim</p>
-                <p><strong>Elevadores:</strong> Não</p>
-                <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Rampa:</strong> Não</p>
+                <p><strong>Elevadores:</strong> Sim</p>
+                <p><strong>Escadas rolantes:</strong> Sim</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -2213,7 +2043,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontcpb">
           Pontos de Referência
         </button>
@@ -2228,10 +2057,9 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Terminal de Ônibus</p>
+                <p>- Terminal Rodoviário</p>
+                <p>- Sesi Carapicuíba</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -2239,9 +2067,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligcpb">
           Ligar
         </button>
@@ -2265,8 +2090,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -2344,36 +2167,29 @@
                   Tel:. 4183-5229
                   1.5 Km de distancia da Estação
                 </p>
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   </div>
   </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="STE" style="text-align: center;">SANTA TEREZINHA (STE)</h1>
       <p style="text-align: center;"><strong>Endereço:</strong> Rua Dep. Emílio Carlos, 900 - Santa Terezinha –
         Carapicuiba
         06310-160</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Santa+Terezinha/@-23.51657,-46.84799,15z/data=!4m2!3m1!1s0x0:0x43a78fc1b8a50e6b?sa=X&ved=1t:2428&ictx=111"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acessste">
           Acessibilidade
         </button>
@@ -2391,10 +2207,10 @@
                 <p><strong>Sanitário Público:</strong> Sim</p>
                 <p><strong>Piso tátil:</strong> Sim</p>
                 <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
-                <p><strong>Rampa:</strong> Sim</p>
-                <p><strong>Elevadores:</strong> Não</p>
+                <p><strong>Rampa:</strong> Não</p>
+                <p><strong>Elevadores:</strong> Sim</p>
                 <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -2402,7 +2218,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontste">
           Pontos de Referência
         </button>
@@ -2417,10 +2232,8 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Avenida Deputado Emílio Carlos</p>
+                <p>- Associaçõ Santa Terezinha</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -2428,9 +2241,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligste">
           Ligar
         </button>
@@ -2454,8 +2264,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -2518,36 +2326,29 @@
                   Tel:. 4183-5229
                   2.6 Km de distancia da Estação
                 </p>
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   </div>
   </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="AJO" style="text-align: center;">ANTONIO JOÃO (AJO)</h1>
       <p style="text-align: center;"><strong>Endereço:</strong> Rua Acre, s/nº (Fazenda Militar-Aldeia) / Rua Gen. de
         Divisa Pedro Rodrigues da Silva, s/nº - Nova Aldeinha - Barueri
         06447-000</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Ant%C3%B4nio+Jo%C3%A3o/@-23.5171849,-46.8580859,15z/data=!4m2!3m1!1s0x0:0xd8e5c039dce2bb26?sa=X&ved=1t:2428&ictx=111"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acessajo">
           Acessibilidade
         </button>
@@ -2568,7 +2369,7 @@
                 <p><strong>Rampa:</strong> Sim</p>
                 <p><strong>Elevadores:</strong> Não</p>
                 <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Escadas fixas:</strong> Não</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -2576,7 +2377,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontajo">
           Pontos de Referência
         </button>
@@ -2591,10 +2391,8 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Parque Shopping Barueri</p>
+                <p>- Sonda Supermercados</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -2602,9 +2400,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligajo">
           Ligar
         </button>
@@ -2628,8 +2423,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -2697,35 +2490,28 @@
                   Tel:. 4198-3205
                   3.2 Km de distancia da Estação
                 </p>
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   </div>
   </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="BRU" style="text-align: center;">BARUERI (BRU)</h1>
       <p style="text-align: center;"><strong>Endereço:</strong> Praça São João Batista, 30 – Centro – Barueri
         06401-000</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Barueri/@-23.5128451,-46.875563,15z/data=!4m6!3m5!1s0x94cf03d990c0a201:0xa1ea651524650c58!8m2!3d-23.5128451!4d-46.875563!16s%2Fg%2F1220480q?entry=ttu&g_ep=EgoyMDI0MTExOC4wIKXMDSoASAFQAw%3D%3D"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acessbru">
           Acessibilidade
         </button>
@@ -2744,9 +2530,9 @@
                 <p><strong>Piso tátil:</strong> Sim</p>
                 <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
                 <p><strong>Rampa:</strong> Sim</p>
-                <p><strong>Elevadores:</strong> Não</p>
-                <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Elevadores:</strong> Sim</p>
+                <p><strong>Escadas rolantes:</strong> Sim</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -2754,7 +2540,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontbru">
           Pontos de Referência
         </button>
@@ -2769,10 +2554,9 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Terminal de Ônibus</p>
+                <p>- Cemitério Municipal Álvaro Quinteiro Vieira</p>
+                <p>- Boulevard Central de Barueri</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -2780,9 +2564,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligbru">
           Ligar
         </button>
@@ -2806,8 +2587,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -2875,36 +2654,29 @@
                   Tel:. 4198-3205
                   3.5 Km de distancia da Estação
                 </p>
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   </div>
   </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="JBE" style="text-align: center;">JARDIM BELVAL (JBE)</h1>
       <p style="text-align: center;"><strong>Endereço:</strong> Avenida Grupo Bandeirantes, s/nº / Rua Interna Grupo
         Bandeirantes, s/nº - Jardim Belval – Barueri
         06401-070</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Jardim+Belval/@-23.51435,-46.88935,15z/data=!4m6!3m5!1s0x94cf03e5cb7403c5:0xaa3533024a76ec48!8m2!3d-23.51435!4d-46.88935!16s%2Fg%2F123852mf?entry=ttu&g_ep=EgoyMDI0MTExOC4wIKXMDSoASAFQAw%3D%3D"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acessjbe">
           Acessibilidade
         </button>
@@ -2921,11 +2693,11 @@
               <div class="modal-body">
                 <p><strong>Sanitário Público:</strong> Sim</p>
                 <p><strong>Piso tátil:</strong> Sim</p>
-                <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
-                <p><strong>Rampa:</strong> Sim</p>
-                <p><strong>Elevadores:</strong> Não</p>
+                <p><strong>Telefone adaptado para PCR:</strong> Não</p>
+                <p><strong>Rampa:</strong> Não</p>
+                <p><strong>Elevadores:</strong> Sim</p>
                 <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -2933,7 +2705,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontjbe">
           Pontos de Referência
         </button>
@@ -2948,10 +2719,9 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Arena Barueri</p>
+                <p>- 20º Grupo de Artilharia de Campanha Leve</p>
+                <p>- Assaí Atacadista</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -2959,9 +2729,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligjbe">
           Ligar
         </button>
@@ -2986,8 +2753,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -3055,36 +2820,29 @@
                   Tel:. 4198-3205
                   5.7 Km de distancia da Estação
                 </p>
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   </div>
   </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="JSI" style="text-align: center;">JARDIM SILVEIRA (JSI)</h1>
       <p style="text-align: center;"><strong>Endereço:</strong> Rua Fernão Dias Pais Leme, s/nº - Jardim Silveira -
         Barueri
         06433-190</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Jardim+Silveira/@-23.52348,-46.893437,15z/data=!4m2!3m1!1s0x0:0x19db7465b1001e81?sa=X&ved=1t:2428&ictx=111"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acessjsi">
           Acessibilidade
         </button>
@@ -3101,11 +2859,11 @@
               <div class="modal-body">
                 <p><strong>Sanitário Público:</strong> Sim</p>
                 <p><strong>Piso tátil:</strong> Sim</p>
-                <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
-                <p><strong>Rampa:</strong> Sim</p>
-                <p><strong>Elevadores:</strong> Não</p>
-                <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Telefone adaptado para PCR:</strong> Não</p>
+                <p><strong>Rampa:</strong> Não</p>
+                <p><strong>Elevadores:</strong> Sim</p>
+                <p><strong>Escadas rolantes:</strong> Sim</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -3113,7 +2871,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontjsi">
           Pontos de Referência
         </button>
@@ -3128,10 +2885,10 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Terminal de Ônibus</p>
+                <p>- Paraná Atacadista</p>
+                <p>- Assaí Atacadista</p>
+                <p>- Complexo Esportivo Jardim Silveira</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -3139,9 +2896,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligjsi">
           Ligar
         </button>
@@ -3165,8 +2919,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -3239,24 +2991,19 @@
                   Tel:. 4198-3205
                   6.2 Km de distancia da Estação
                 </p>
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   </div>
   </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <img style="height: 50px; height: 50px; " src="ambulancia.png" alt="">
@@ -3264,12 +3011,10 @@
       <p style="text-align: center;"><strong>Endereço:</strong> Rua João Balhesteiro, 50 (Centro)/ Via de Acesso João
         Góes S/N° (Jardim Alvorada) – Jandira
         06600-000</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Jandira/@-23.5278556,-46.9028653,15z/data=!4m2!3m1!1s0x0:0x5560ab210e31a153?sa=X&ved=1t:2428&ictx=111"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acessjdi">
           Acessibilidade
         </button>
@@ -3287,10 +3032,10 @@
                 <p><strong>Sanitário Público:</strong> Sim</p>
                 <p><strong>Piso tátil:</strong> Sim</p>
                 <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
-                <p><strong>Rampa:</strong> Sim</p>
-                <p><strong>Elevadores:</strong> Não</p>
-                <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Rampa:</strong> Não</p>
+                <p><strong>Elevadores:</strong> Sim</p>
+                <p><strong>Escadas rolantes:</strong> Sim</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -3298,7 +3043,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontjdi">
           Pontos de Referência
         </button>
@@ -3313,10 +3057,8 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Shopping Popular Jandira</p>
+                <p>- Terminal Rodoviário Jandira</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -3324,9 +3066,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligjdi">
           Ligar
         </button>
@@ -3350,8 +3089,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -3414,37 +3151,29 @@
                   Tel:. 4772-8299
                   700 m de distancia da Estação
                 </p>
-
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   </div>
   </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="SCO" style="text-align: center;">SAGRADO CORAÇÃO (SCO)</h1>
       <p style="text-align: center;"><strong>Endereço:</strong> Rua Francisco José Longo, 402 – Jardim Sagrado Coração –
         Jandira
         06600-000</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Sagrado+Cora%C3%A7%C3%A3o/@-23.5292287,-46.9159855,15z/data=!4m6!3m5!1s0x94cf041d9577af87:0x3f0605dcf88a0973!8m2!3d-23.5292287!4d-46.9159855!16s%2Fg%2F120mysf5?entry=ttu&g_ep=EgoyMDI0MTExOC4wIKXMDSoASAFQAw%3D%3D"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acesssco">
           Acessibilidade
         </button>
@@ -3460,12 +3189,12 @@
               </div>
               <div class="modal-body">
                 <p><strong>Sanitário Público:</strong> Sim</p>
-                <p><strong>Piso tátil:</strong> Sim</p>
-                <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
-                <p><strong>Rampa:</strong> Sim</p>
+                <p><strong>Piso tátil:</strong> Não</p>
+                <p><strong>Telefone adaptado para PCR:</strong> Não</p>
+                <p><strong>Rampa:</strong> Não</p>
                 <p><strong>Elevadores:</strong> Não</p>
                 <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -3473,7 +3202,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontsco">
           Pontos de Referência
         </button>
@@ -3488,10 +3216,7 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Distribuidora de doces e salgados</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -3499,9 +3224,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligsco">
           Ligar
         </button>
@@ -3525,8 +3247,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -3594,36 +3314,29 @@
                   Tel:. 4772-8299
                   2.1 Km de distancia da Estação
                 </p>
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   </div>
   </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="ECD" style="text-align: center;">ENGENHEIRO CARDOSO (ECD)</h1>
       <p style="text-align: center;"><strong>Endereço:</strong> Rua Nelson Ferreira da Costa, s/nº (Jardim Vitápolis)/
         Rua Projetada, s/nº (Jardim Portela) – Itapevi
         06693-240</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Eng.+Cardoso/@-23.5352414,-46.9285673,15z/data=!4m2!3m1!1s0x0:0x68531a2848a1bbaf?sa=X&ved=1t:2428&ictx=111"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acessecd">
           Acessibilidade
         </button>
@@ -3640,11 +3353,11 @@
               <div class="modal-body">
                 <p><strong>Sanitário Público:</strong> Sim</p>
                 <p><strong>Piso tátil:</strong> Sim</p>
-                <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
+                <p><strong>Telefone adaptado para PCR:</strong> Não</p>
                 <p><strong>Rampa:</strong> Sim</p>
-                <p><strong>Elevadores:</strong> Não</p>
+                <p><strong>Elevadores:</strong> Sim</p>
                 <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -3652,7 +3365,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontecd">
           Pontos de Referência
         </button>
@@ -3667,10 +3379,9 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Rua Osvaldo Francisco</p>
+                <p>- Rua Nelson Ferreira da Costa</p>
+                <p>- Barbosa Supermercados</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -3678,9 +3389,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligecd">
           Ligar
         </button>
@@ -3704,8 +3412,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -3773,40 +3479,33 @@
                   Tel:. 4141-0474
                   5.5 Km de distancia da Estação
                 </p>
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   </div>
   </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="IPV" style="text-align: center;">ITAPEVI (IPV)</h1>
       <p style="text-align: center;"><strong>Endereço:</strong> Rua João Pires de Oliveira, 51 (Jardim Nova Itapevi)/
         Av. Feres Nacif Chaluppe, S/N (Centro) – Itapevi
         06693-240</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/search/esta%C3%A7%C3%A3o+itapevi/@-23.5455952,-46.9378893,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI0MTExOC4wIKXMDSoASAFQAw%3D%3D"
           target="_blank">Mapa da região</a>
-
-        <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acessipv">
+        <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acesssrt">
           Acessibilidade
         </button>
-        <div class="modal fade" id="acessipv" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado"
+        <div class="modal fade" id="acesssrt" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado"
           aria-hidden="true">
           <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content">
@@ -3819,11 +3518,11 @@
               <div class="modal-body">
                 <p><strong>Sanitário Público:</strong> Sim</p>
                 <p><strong>Piso tátil:</strong> Sim</p>
-                <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
+                <p><strong>Telefone adaptado para PCR:</strong> Não</p>
                 <p><strong>Rampa:</strong> Sim</p>
                 <p><strong>Elevadores:</strong> Não</p>
                 <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Escadas fixas:</strong> Não</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -3831,11 +3530,10 @@
             </div>
           </div>
         </div>
-
-        <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontjpr">
+        <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontipv">
           Pontos de Referência
         </button>
-        <div class="modal fade" id="pontjpr" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado"
+        <div class="modal fade" id="pontipv" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado"
           aria-hidden="true">
           <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content">
@@ -3846,10 +3544,8 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Cento de Itapevi</p>
+                <p>- Lopes Supermercados</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -3857,9 +3553,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligipv">
           Ligar
         </button>
@@ -3883,8 +3576,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -3946,36 +3637,29 @@
                   Tel:. 4141-0474
                   5.4 Km de distancia da Estação
                 </p>
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   </div>
   </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="SRT" style="text-align: center;">SANTA RITA (SRT)</h1>
       <p style="text-align: center;"><strong>Endereço:</strong> Rodovia Engenheiro Ren Benedito da Silva, 1850 – Santa
         Rita – Itapevi
         06695-210</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Santa+Rita/@-23.5451089,-46.9477259,15z/data=!4m6!3m5!1s0x94cf0679a8e458dd:0x32ef64470e96baa4!8m2!3d-23.5451089!4d-46.9477259!16s%2Fg%2F11b6f063kl?entry=ttu&g_ep=EgoyMDI0MTExOC4wIKXMDSoASAFQAw%3D%3D"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acesssrt">
           Acessibilidade
         </button>
@@ -3996,7 +3680,7 @@
                 <p><strong>Rampa:</strong> Sim</p>
                 <p><strong>Elevadores:</strong> Não</p>
                 <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Escadas fixas:</strong> Não</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -4004,7 +3688,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontsrt">
           Pontos de Referência
         </button>
@@ -4019,10 +3702,9 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Atacadão de Itapevi</p>
+                <p>- Assaí Atacadista</p>
+                <p>- Escola do Futuro - ETI Prof. Irany Toledo de Moraes</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -4030,9 +3712,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligsrt">
           Ligar
         </button>
@@ -4056,8 +3735,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -4120,36 +3797,29 @@
                   Tel:. 4141-0474
                   4.4 Km de distancia da Estação
                 </p>
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   </div>
   </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="AMB" style="text-align: center;">AMBUITÁ (AMB)</h1>
       <p style="text-align: center;">
       <p style="text-align: center;"><strong>Endereço:</strong> R. Dr. José Alexandre Crosgnac, 1322 - Ambuitá, Itapevi
         - SP, 06680-035</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Antiga+Esta%C3%A7%C3%A3o+Ambuit%C3%A1/@-23.5309419,-46.9723282,15z/data=!4m6!3m5!1s0x94cf053da14e82ed:0xc6c447cc02e8d380!8m2!3d-23.5309419!4d-46.9723282!16s%2Fg%2F11v59fdtwz?entry=ttu&g_ep=EgoyMDI0MTExOC4wIKXMDSoASAFQAw%3D%3D"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acessamb">
           Acessibilidade
         </button>
@@ -4165,12 +3835,12 @@
               </div>
               <div class="modal-body">
                 <p><strong>Sanitário Público:</strong> Sim</p>
-                <p><strong>Piso tátil:</strong> Sim</p>
-                <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
+                <p><strong>Piso tátil:</strong> Não</p>
+                <p><strong>Telefone adaptado para PCR:</strong> Não</p>
                 <p><strong>Rampa:</strong> Sim</p>
                 <p><strong>Elevadores:</strong> Não</p>
                 <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Escadas fixas:</strong> Não</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -4178,7 +3848,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontamb">
           Pontos de Referência
         </button>
@@ -4193,10 +3862,7 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- N/A</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -4204,9 +3870,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligamb">
           Ligar
         </button>
@@ -4230,8 +3893,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -4294,35 +3955,28 @@
                   Tel:. 4141-0474
                   9.3 Km de distancia da Estação
                 </p>
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   </div>
   </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="ABU" style="text-align: center;">AMADOR BUENO (ABU)</h1>
       <p style="text-align: center;"><strong>Endereço:</strong> Avenida Bambina Chaluppe, s/nº- Amador Bueno – Itapevi
         06650-000</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Amador+Bueno/@-23.5305347,-46.9838246,15z/data=!4m6!3m5!1s0x94cf0f66a47784dd:0x8b4b49ebe1a1bed8!8m2!3d-23.5305347!4d-46.9838246!16s%2Fg%2F1q54vzxc_?entry=ttu&g_ep=EgoyMDI0MTExOC4wIKXMDSoASAFQAw%3D%3D"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acessabu">
           Acessibilidade
         </button>
@@ -4339,11 +3993,11 @@
               <div class="modal-body">
                 <p><strong>Sanitário Público:</strong> Sim</p>
                 <p><strong>Piso tátil:</strong> Sim</p>
-                <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
+                <p><strong>Telefone adaptado para PCR:</strong> Não</p>
                 <p><strong>Rampa:</strong> Sim</p>
                 <p><strong>Elevadores:</strong> Não</p>
                 <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Escadas fixas:</strong> Não</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -4351,7 +4005,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontabu">
           Pontos de Referência
         </button>
@@ -4366,10 +4019,7 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- N/A</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -4377,9 +4027,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligabu">
           Ligar
         </button>
@@ -4403,8 +4050,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -4467,38 +4112,30 @@
                   Tel:. 4141-0474
                   8.6 Km de distancia da Estação
                 </p>
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   </div>
   </div>
   </div>
-
   <div class="p-3 mb-2 bg-primary text-white" style="text-align: center;"><strong>LINHA 09 ESMERALDA</strong></div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="CEA" style="text-align: center;">CEASA (CEA)</h1>
       <p style="text-align: center;"><strong>Endereço: </strong> Avenida das Nações Unidas, 1.390 - Vila Leopoldina -
         São Paulo
         05311-000</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Ceasa/@-23.5373938,-46.7426148,15z/data=!4m2!3m1!1s0x0:0x3385c27c0ad3948f?sa=X&ved=1t:2428&ictx=111"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acesscea">
           Acessibilidade
         </button>
@@ -4517,9 +4154,9 @@
                 <p><strong>Piso tátil:</strong> Sim</p>
                 <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
                 <p><strong>Rampa:</strong> Sim</p>
-                <p><strong>Elevadores:</strong> Não</p>
+                <p><strong>Elevadores:</strong> Sim</p>
                 <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -4527,7 +4164,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontcea">
           Pontos de Referência
         </button>
@@ -4542,10 +4178,9 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Centro de Detenção Provisória Pinheiros</p>
+                <p>- CEAGESP</p>
+                <p>- Supermercado Hirota</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -4553,9 +4188,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligcea">
           Ligar
         </button>
@@ -4579,8 +4211,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -4653,32 +4283,26 @@
                   Tel:. (11) 3813-0106 Plantão / 3812-54
                   6.5 Km de distancia da Estação
                 </p>
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <img style="height: 50px; height: 50px; " src="ambulancia.png" alt="">
       <h1 id="JAG" style="text-align: center;">VILLA LOBOS JAGUARÉ (JAG)</h1>
       <p style="text-align: center;"><strong>Endereço: </strong> Avenida das Nações Unidas, 2.100 - Jaguaré - São Paulo
         05477-000</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Villa+Lobos-+Jaguar%C3%A9/@-23.5460318,-46.7327301,15z/data=!4m2!3m1!1s0x0:0x8d842db7a67ea1f5?sa=X&ved=1t:2428&ictx=111"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acessjag">
           Acessibilidade
         </button>
@@ -4696,10 +4320,10 @@
                 <p><strong>Sanitário Público:</strong> Sim</p>
                 <p><strong>Piso tátil:</strong> Sim</p>
                 <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
-                <p><strong>Rampa:</strong> Sim</p>
-                <p><strong>Elevadores:</strong> Não</p>
+                <p><strong>Rampa:</strong> Não</p>
+                <p><strong>Elevadores:</strong> Sim</p>
                 <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -4707,7 +4331,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontjag">
           Pontos de Referência
         </button>
@@ -4722,10 +4345,9 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Parque Villa Lobos</p>
+                <p>- Roda Rico</p>
+                <p>- Ponte do Jaguaré</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -4733,9 +4355,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligjag">
           Ligar
         </button>
@@ -4759,8 +4378,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -4843,21 +4460,16 @@
                   Tel:. (11) 3813-0106 Plantão / 3812-54
                   5.7 Km de distancia da Estação
                 </p>
-
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <img style="height: 40px; height: 40px; " src="bike.png" alt="">
@@ -4865,12 +4477,10 @@
       <p style="text-align: center;"><strong>Endereço: </strong> Avenida das Nações Unidas, 6.202 - Jardim Universidade
         Pinheiros - São Paulo
         05477-000</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Cidade+Universit%C3%A1ria/@-23.55709,-46.7114872,15z/data=!4m6!3m5!1s0x94ce56375599a2f3:0xec467256c0a75dec!8m2!3d-23.55709!4d-46.7114872!16s%2Fg%2F122fcjzr?entry=ttu&g_ep=EgoyMDI0MTExOC4wIKXMDSoASAFQAw%3D%3D"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acessusp">
           Acessibilidade
         </button>
@@ -4886,12 +4496,12 @@
               </div>
               <div class="modal-body">
                 <p><strong>Sanitário Público:</strong> Sim</p>
-                <p><strong>Piso tátil:</strong> Sim</p>
-                <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
-                <p><strong>Rampa:</strong> Sim</p>
-                <p><strong>Elevadores:</strong> Não</p>
+                <p><strong>Piso tátil:</strong> Não</p>
+                <p><strong>Telefone adaptado para PCR:</strong> Não</p>
+                <p><strong>Rampa:</strong> Não</p>
+                <p><strong>Elevadores:</strong> Sim</p>
                 <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -4899,7 +4509,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontusp">
           Pontos de Referência
         </button>
@@ -4914,10 +4523,9 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Faculdade de Educação da Universidade de São Paulo</p>
+                <p>- Clube Alto dos Pinheiros</p>
+                <p>- Ciclovia</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -4925,9 +4533,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligusp">
           Ligar
         </button>
@@ -4951,8 +4556,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -5035,33 +4638,26 @@
                   Tel:. (11) 3813-0106 Plantão / 3812-54
                   2.8 Km de distancia da Estação
                 </p>
-
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <img style="height: 30px; height: 30px;" src="linha4.png" alt="">
       <h1 id="PIN" style="text-align: center;">PINHEIROS (PIN)</h1>
       <p style="text-align: center;"><strong>Endereço: </strong> Rua Capri, 145 - Pinheiros - São Paulo
         05477-000</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/search/esta%C3%A7%C3%A3o+pinheiros/@-23.56735,-46.7045749,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI0MTExOC4wIKXMDSoASAFQAw%3D%3D"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acesspin">
           Acessibilidade
         </button>
@@ -5081,8 +4677,8 @@
                 <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
                 <p><strong>Rampa:</strong> Sim</p>
                 <p><strong>Elevadores:</strong> Não</p>
-                <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Escadas rolantes:</strong> Sim</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -5090,7 +4686,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontpin">
           Pontos de Referência
         </button>
@@ -5105,10 +4700,8 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Terminal de Ônibus</p>
+                <p>- Transferência para a linha 04</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -5116,9 +4709,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligpin">
           Ligar
         </button>
@@ -5142,8 +4732,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -5224,27 +4812,22 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="HBR" style="text-align: center;">HEBRAICA REBOUÇAS (HBR)</h1>
       <p style="text-align: center;"><strong>Endereço: </strong> Rua Ofélia, 255 - Pinheiros - São Paulo
         05423-110</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Hebraica-Rebou%C3%A7as/@-23.5730928,-46.6981184,15z/data=!4m2!3m1!1s0x0:0x6c97dc10a1ac43f5?sa=X&ved=1t:2428&ictx=111"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acesshbr">
           Acessibilidade
         </button>
@@ -5262,10 +4845,10 @@
                 <p><strong>Sanitário Público:</strong> Sim</p>
                 <p><strong>Piso tátil:</strong> Sim</p>
                 <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
-                <p><strong>Rampa:</strong> Sim</p>
-                <p><strong>Elevadores:</strong> Não</p>
-                <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Rampa:</strong> Não</p>
+                <p><strong>Elevadores:</strong> Sim</p>
+                <p><strong>Escadas rolantes:</strong> Sim</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -5273,7 +4856,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#ponthbr">
           Pontos de Referência
         </button>
@@ -5288,10 +4870,8 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Shopping Eldorado</p>
+                <p>- Avenida Rebouças</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -5299,9 +4879,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#lighbr">
           Ligar
         </button>
@@ -5325,8 +4902,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -5404,21 +4979,16 @@
                   Tel:. (11) 3813-0106 Plantão / 3812-54
                   2.5 km de distancia da Estação
                 </p>
-
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <img style="height: 40px; height: 40px; " src="bike.png" alt="">
@@ -5426,12 +4996,10 @@
       <p style="text-align: center;"><strong>Endereço: </strong> Rua Prof. Artur Ramos, 787 (Jardim Paulistano) / Rua
         Hungria, s/nº (Jardim Europa) – São Paulo
         05477-000</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Cidade+Jardim/@-23.5853452,-46.6911446,15z/data=!4m6!3m5!1s0x94ce57151df04ae1:0xf5d5334baff4d0ae!8m2!3d-23.5853452!4d-46.6911446!16s%2Fg%2F12182m4m?entry=ttu&g_ep=EgoyMDI0MTExOC4wIKXMDSoASAFQAw%3D%3D"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acesscjd">
           Acessibilidade
         </button>
@@ -5448,11 +5016,11 @@
               <div class="modal-body">
                 <p><strong>Sanitário Público:</strong> Sim</p>
                 <p><strong>Piso tátil:</strong> Sim</p>
-                <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
+                <p><strong>Telefone adaptado para PCR:</strong> Não</p>
                 <p><strong>Rampa:</strong> Sim</p>
-                <p><strong>Elevadores:</strong> Não</p>
-                <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Elevadores:</strong> Sim</p>
+                <p><strong>Escadas rolantes:</strong> Sim</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -5460,7 +5028,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontcjd">
           Pontos de Referência
         </button>
@@ -5475,10 +5042,9 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Parque do Povo Mário Pimenta Camargo</p>
+                <p>- Jockey Club São Paulo</p>
+                <p>- Avenida Presidente Juscelino Kubitscheck</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -5486,9 +5052,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligcjd">
           Ligar
         </button>
@@ -5512,8 +5075,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -5601,21 +5162,16 @@
                   Tel:. (11) 5687-2514 / 5687-2258
                   9.0 Km de distancia da Estação
                 </p>
-
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <img style="height: 40px; height: 40px; " src="bike.png" alt="">
@@ -5623,12 +5179,10 @@
       <p style="text-align: center;"><strong>Endereço: </strong> Rua Guilherme Barbosa de Melo, nº 117 / Rua Joel Carlos
         Borges, 179 – Cidade Monções – São Paulo
         04578-000</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Vila+Ol%C3%ADmpia/@-23.5936324,-46.6920311,15z/data=!4m2!3m1!1s0x0:0xd147f1869716a74d?sa=X&ved=1t:2428&ictx=111&cshid=1732192576506704"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acessvol">
           Acessibilidade
         </button>
@@ -5645,11 +5199,11 @@
               <div class="modal-body">
                 <p><strong>Sanitário Público:</strong> Sim</p>
                 <p><strong>Piso tátil:</strong> Sim</p>
-                <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
+                <p><strong>Telefone adaptado para PCR:</strong> Não</p>
                 <p><strong>Rampa:</strong> Sim</p>
-                <p><strong>Elevadores:</strong> Não</p>
-                <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Elevadores:</strong> Sim</p>
+                <p><strong>Escadas rolantes:</strong> Sim</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -5657,7 +5211,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontvol">
           Pontos de Referência
         </button>
@@ -5672,10 +5225,10 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Complexo JK</p>
+                <p>- Shopping JK Iguatemi</p>
+                <p>- Teatro Santander</p>
+                <p>- Ciclovia</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -5683,9 +5236,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligvol">
           Ligar
         </button>
@@ -5709,8 +5259,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -5798,33 +5346,26 @@
                   Tel:. (11) 5687-2514 / 5687-2258
                   9.0 Km de distancia da Estação
                 </p>
-
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="BRR" style="text-align: center;">BERRINI (BRR)</h1>
       <p style="text-align: center;"><strong>Endereço: </strong> Rua Guilherme Barbosa de Melo, nº 117 / Rua Joel Carlos
         Borges, 179 – Cidade Monções – São Paulo
         04578-000</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Berrini/@-23.60495,-46.69615,15z/data=!4m2!3m1!1s0x0:0xb3987e0330c2e0ea?sa=X&ved=1t:2428&ictx=111"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acessbrr">
           Acessibilidade
         </button>
@@ -5841,11 +5382,11 @@
               <div class="modal-body">
                 <p><strong>Sanitário Público:</strong> Sim</p>
                 <p><strong>Piso tátil:</strong> Sim</p>
-                <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
+                <p><strong>Telefone adaptado para PCR:</strong> Não</p>
                 <p><strong>Rampa:</strong> Sim</p>
-                <p><strong>Elevadores:</strong> Não</p>
-                <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Elevadores:</strong> Sim</p>
+                <p><strong>Escadas rolantes:</strong> Sim</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -5853,7 +5394,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontbrr">
           Pontos de Referência
         </button>
@@ -5868,10 +5408,10 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- FGV - Fundação Getúlio Vargas</p>
+                <p>- Shopping Nações Unidas</p>
+                <p>- ETEC Jornalista Roberto Marinho</p>
+                <p>- Avenida Roberto Marinho</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -5879,9 +5419,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligbrr">
           Ligar
         </button>
@@ -5905,8 +5442,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -5994,21 +5529,16 @@
                   Tel:. (11) 5687-2514 / 5687-2258
                   7.2 Km de distancia da Estação
                 </p>
-
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <img style="height: 50px; height: 50px; " src="ambulancia.png" alt="">
@@ -6016,12 +5546,10 @@
       <p style="text-align: center;"><strong>Endereço: </strong> Avenida das Nações Unidas, 14.171 - Vila Gertrudes -
         São Paulo
         04578-000</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Morumbi/@-23.6220006,-46.701115,15z/data=!4m2!3m1!1s0x0:0x4b6324c0f2be6bc0?sa=X&ved=1t:2428&ictx=111"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acessmrb">
           Acessibilidade
         </button>
@@ -6038,11 +5566,11 @@
               <div class="modal-body">
                 <p><strong>Sanitário Público:</strong> Sim</p>
                 <p><strong>Piso tátil:</strong> Sim</p>
-                <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
-                <p><strong>Rampa:</strong> Sim</p>
-                <p><strong>Elevadores:</strong> Não</p>
-                <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Telefone adaptado para PCR:</strong> Não</p>
+                <p><strong>Rampa:</strong> Não</p>
+                <p><strong>Elevadores:</strong> Sim</p>
+                <p><strong>Escadas rolantes:</strong> Sim</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -6050,7 +5578,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontmrb">
           Pontos de Referência
         </button>
@@ -6065,10 +5592,10 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Shopping Market Place</p>
+                <p>- Morumbi Shopping</p>
+                <p>- Transferência com a linha 17 (Em breve)</p>
+                <p>- Parque da Cidade</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -6099,8 +5626,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -6176,28 +5701,23 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="GJT" style="text-align: center;">GRANJA JULIETA (GJT)</h1>
       <p style="text-align: center;"><strong>Endereço: </strong> Rua Alexandre Dumas, 4.403 - Chácara Santo Antonio -
         São Paulo
         04717-004</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Granja+Julieta/@-23.6275297,-46.7119241,15z/data=!4m2!3m1!1s0x0:0x7407ad35070237a0?sa=X&ved=1t:2428&ictx=111"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acessgjt">
           Acessibilidade
         </button>
@@ -6214,11 +5734,11 @@
               <div class="modal-body">
                 <p><strong>Sanitário Público:</strong> Sim</p>
                 <p><strong>Piso tátil:</strong> Sim</p>
-                <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
-                <p><strong>Rampa:</strong> Sim</p>
-                <p><strong>Elevadores:</strong> Não</p>
-                <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Telefone adaptado para PCR:</strong> Não</p>
+                <p><strong>Rampa:</strong> Não</p>
+                <p><strong>Elevadores:</strong> Sim</p>
+                <p><strong>Escadas rolantes:</strong> Sim</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -6226,7 +5746,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontgjt">
           Pontos de Referência
         </button>
@@ -6241,10 +5760,10 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Carrefour Supermercado</p>
+                <p>- Paseo Alto das Nações</p>
+                <p>- Cobasi</p>
+                <p>- Rua Verbo Divino</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -6252,9 +5771,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#liggjt">
           Ligar
         </button>
@@ -6278,8 +5794,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -6366,33 +5880,26 @@
                   Tel:. (11) 5687-2514 / 5687-2258
                   5.1 Km de distancia da Estação
                 </p>
-
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <img style="height: 40px; height: 40px; " src="bike.png" alt="">
       <h1 id="JOD" style="text-align: center;">JOÃO DIAS (JOD)</h1>
       <p style="text-align: center;"><strong>Endereço: </strong> Avenida das Nações Unidas (Marginal Pinheiros), 17007 -
         Santo Amaro</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Jo%C3%A3o+Dias/@-23.64042,-46.72308,15z/data=!4m2!3m1!1s0x0:0xec80b4e6260e120a?sa=X&ved=1t:2428&ictx=111"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acessjod">
           Acessibilidade
         </button>
@@ -6409,11 +5916,11 @@
               <div class="modal-body">
                 <p><strong>Sanitário Público:</strong> Sim</p>
                 <p><strong>Piso tátil:</strong> Sim</p>
-                <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
+                <p><strong>Telefone adaptado para PCR:</strong> Não</p>
                 <p><strong>Rampa:</strong> Sim</p>
-                <p><strong>Elevadores:</strong> Não</p>
-                <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Elevadores:</strong> Sim</p>
+                <p><strong>Escadas rolantes:</strong> Sim</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -6421,7 +5928,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontjod">
           Pontos de Referência
         </button>
@@ -6436,10 +5942,10 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Nestlé</p>
+                <p>- Vibra São Paulo</p>
+                <p>- Ponte João Dias</p>
+                <p>- Avenida João Dias</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -6447,9 +5953,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligjod">
           Ligar
         </button>
@@ -6473,8 +5976,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -6532,21 +6033,16 @@
                   Tel:. (11) 5665-8127 / 5665-8247
                   7.2 Km de distancia da Estação
                 </p>
-
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <img style="height: 30px; height: 30px;" src="linha5.png" alt="">
@@ -6555,12 +6051,10 @@
       <p style="text-align: center;"><strong>Endereço: </strong> Avenida das Nações Unidas, s/nº - Jardim Promissão -
         São Paulo
         04795-100</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Santo+Amaro/@-23.65612,-46.71925,15z/data=!4m6!3m5!1s0x94ce51a7bb928f47:0xb7c07435dfd84b36!8m2!3d-23.65612!4d-46.71925!16s%2Fm%2F0g5rmly?entry=ttu&g_ep=EgoyMDI0MTExOC4wIKXMDSoASAFQAw%3D%3D"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acesssam">
           Acessibilidade
         </button>
@@ -6577,11 +6071,11 @@
               <div class="modal-body">
                 <p><strong>Sanitário Público:</strong> Sim</p>
                 <p><strong>Piso tátil:</strong> Sim</p>
-                <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
+                <p><strong>Telefone adaptado para PCR:</strong> Não</p>
                 <p><strong>Rampa:</strong> Sim</p>
-                <p><strong>Elevadores:</strong> Não</p>
-                <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Elevadores:</strong> Sim</p>
+                <p><strong>Escadas rolantes:</strong> Sim</p>
+                <p><strong>Escadas físicas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -6589,7 +6083,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontsam">
           Pontos de Referência
         </button>
@@ -6604,10 +6097,11 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Transferência com a linha 05</p>
+                <p>- Transamerica Expo Center</p>
+                <p>- Universidade Cruzeiro do Sul - Campos Santo Amaro</p>
+                <p>- Cobasi</p>
+                <p>- Ciclovia</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -6615,9 +6109,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligsam">
           Ligar
         </button>
@@ -6641,8 +6132,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -6705,21 +6194,16 @@
                   Tel:. (11) 5665-8127 / 5665-8247
                   5.3 Km de distancia da Estação
                 </p>
-
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <img style="height: 50px; height: 50px; " src="ambulancia.png" alt="">
@@ -6727,12 +6211,10 @@
       <p style="text-align: center;"><strong>Endereço: </strong> Av. das Nações Unidas, s/nº (Jurubatuba)/ Rua
         Florenville s/nº (Santo Amaro) – São Paulo
         04696-010</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Esta%C3%A7%C3%A3o+Socorro/@-23.6635297,-46.7108473,15z/data=!4m2!3m1!1s0x0:0xc26f89e77d59983f?sa=X&ved=1t:2428&ictx=111"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acesssoc">
           Acessibilidade
         </button>
@@ -6749,11 +6231,11 @@
               <div class="modal-body">
                 <p><strong>Sanitário Público:</strong> Sim</p>
                 <p><strong>Piso tátil:</strong> Sim</p>
-                <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
+                <p><strong>Telefone adaptado para PCR:</strong> Não</p>
                 <p><strong>Rampa:</strong> Sim</p>
-                <p><strong>Elevadores:</strong> Não</p>
-                <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Elevadores:</strong> Sim</p>
+                <p><strong>Escadas rolantes:</strong> Sim</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -6761,7 +6243,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontsoc">
           Pontos de Referência
         </button>
@@ -6776,10 +6257,10 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- MecadoCar Santo Amaro</p>
+                <p>- Ponte do Socorro</p>
+                <p>- Sam's Club Santo Amaro</p>
+                <p>- Igreja Mundial</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -6787,9 +6268,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligsoc">
           Ligar
         </button>
@@ -6813,8 +6291,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -6872,21 +6348,16 @@
                   Tel:. (11) 5665-8127 / 5665-8247
                   4.0 Km de distancia da Estação
                 </p>
-
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <img style="height: 50px; height: 50px; " src="moto.png" alt="">
@@ -6894,12 +6365,10 @@
       <h1 id="JUR" style="text-align: center;">JURUBATUBA (JUR)</h1>
       <p style="text-align: center;"><strong>Endereço: </strong> Av. Octales M. Ferreira, 391 - Jurubatuba - São Paulo
         04696-010</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Jurubatuba/@-23.6773149,-46.7021682,15z/data=!4m6!3m5!1s0x94ce502e3a62f4a3:0x2dbad26e18c00745!8m2!3d-23.6773149!4d-46.7021682!16s%2Fg%2F1211jnn3?entry=ttu&g_ep=EgoyMDI0MTExOC4wIKXMDSoASAFQAw%3D%3D"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acessjur">
           Acessibilidade
         </button>
@@ -6915,12 +6384,12 @@
               </div>
               <div class="modal-body">
                 <p><strong>Sanitário Público:</strong> Sim</p>
-                <p><strong>Piso tátil:</strong> Sim</p>
-                <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
+                <p><strong>Piso tátil:</strong> Não</p>
+                <p><strong>Telefone adaptado para PCR:</strong> Não</p>
                 <p><strong>Rampa:</strong> Sim</p>
-                <p><strong>Elevadores:</strong> Não</p>
-                <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Elevadores:</strong> Sim</p>
+                <p><strong>Escadas rolantes:</strong> Sim</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -6928,7 +6397,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontjur">
           Pontos de Referência
         </button>
@@ -6943,10 +6411,10 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Shopping SP Market</p>
+                <p>- Parque da Mônica</p>
+                <p>- Ciclovia</p>
+                <p>- Assaí Atacadista</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -6954,9 +6422,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligjur">
           Ligar
         </button>
@@ -6980,8 +6445,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -7049,32 +6512,25 @@
                   Tel:. (11) 5665-8127 / 5665-8247
                   5.5 Km de distancia da Estação
                 </p>
-
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="AUT" style="text-align: center;">AUTÓDROMO (AUT)</h1>
       <p style="text-align: center;"><strong>Endereço: </strong> Rua Plínio Schmidt, nº 307 - Jardim Marcel -São Paulo
         4815130</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Aut%C3%B3dromo/@-23.70628,-46.68842,15z/data=!4m6!3m5!1s0x94ce4f9641a9dd1d:0x2ddd716298273ac8!8m2!3d-23.70628!4d-46.68842!16s%2Fg%2F1233x1xd?entry=ttu&g_ep=EgoyMDI0MTExOC4wIKXMDSoASAFQAw%3D%3D"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acessaut">
           Acessibilidade
         </button>
@@ -7091,11 +6547,11 @@
               <div class="modal-body">
                 <p><strong>Sanitário Público:</strong> Sim</p>
                 <p><strong>Piso tátil:</strong> Sim</p>
-                <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
+                <p><strong>Telefone adaptado para PCR:</strong> Não</p>
                 <p><strong>Rampa:</strong> Sim</p>
-                <p><strong>Elevadores:</strong> Não</p>
-                <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Elevadores:</strong> Sim</p>
+                <p><strong>Escadas rolantes:</strong> Sim</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -7103,7 +6559,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontaut">
           Pontos de Referência
         </button>
@@ -7118,10 +6573,8 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Autódromo de Interlagos</p>
+                <p>- Avenida Matias Beck</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -7129,9 +6582,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligaut">
           Ligar
         </button>
@@ -7155,8 +6605,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -7219,33 +6667,26 @@
                   Tel:. (11) 5665-8127 / 5665-8247
                   5.8 Km de distancia da Estação
                 </p>
-
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="INT" style="text-align: center;">PRIMAVERA INTERLAGOS (INT)</h1>
       <p style="text-align: center;"><strong>Endereço: </strong> Rua Jequirituba, 83 (Jardim Colonial)/ Rua Alexandre
         Gandini, 71( Parque Santana) - São Paulo
         04822-000</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Primavera+Interlagos/@-23.72267,-46.69179,15z/data=!4m2!3m1!1s0x0:0x2af9aa8bb031b42b?sa=X&ved=1t:2428&ictx=111"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acessint">
           Acessibilidade
         </button>
@@ -7262,11 +6703,11 @@
               <div class="modal-body">
                 <p><strong>Sanitário Público:</strong> Sim</p>
                 <p><strong>Piso tátil:</strong> Sim</p>
-                <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
-                <p><strong>Rampa:</strong> Sim</p>
-                <p><strong>Elevadores:</strong> Não</p>
-                <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Telefone adaptado para PCR:</strong> Não</p>
+                <p><strong>Rampa:</strong> Não</p>
+                <p><strong>Elevadores:</strong> Sim</p>
+                <p><strong>Escadas rolantes:</strong> Sim</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -7274,7 +6715,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontint">
           Pontos de Referência
         </button>
@@ -7289,10 +6729,8 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Rua Jequirituba</p>
+                <p>- Avenida Presidente João Goulart</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -7300,9 +6738,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligint">
           Ligar
         </button>
@@ -7326,8 +6761,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -7385,32 +6818,25 @@
                   Tel:. (11) 5665-8127 / 5665-8247
                   8.8 Km de distancia da Estação
                 </p>
-
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="GRA" style="text-align: center;">GRAJAÚ (GRA)</h1>
       <p style="text-align: center;"><strong>Endereço: </strong> Rua Giovanni Bononcini, 77 - Parque Brasil - São Paulo
         04822-000</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Graja%C3%BA/@-23.7365015,-46.6970085,15z/data=!4m6!3m5!1s0x94ce4f10d7f11281:0x99c397d66a175b90!8m2!3d-23.7365015!4d-46.6970085!16s%2Fg%2F1ymxdcjxr?entry=ttu&g_ep=EgoyMDI0MTExOC4wIKXMDSoASAFQAw%3D%3D"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acessgra">
           Acessibilidade
         </button>
@@ -7427,11 +6853,11 @@
               <div class="modal-body">
                 <p><strong>Sanitário Público:</strong> Sim</p>
                 <p><strong>Piso tátil:</strong> Sim</p>
-                <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
-                <p><strong>Rampa:</strong> Sim</p>
-                <p><strong>Elevadores:</strong> Não</p>
-                <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Telefone adaptado para PCR:</strong> Não</p>
+                <p><strong>Rampa:</strong> Não</p>
+                <p><strong>Elevadores:</strong> Sim</p>
+                <p><strong>Escadas rolantes:</strong> Sim</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -7439,7 +6865,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontgra">
           Pontos de Referência
         </button>
@@ -7454,10 +6879,8 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Terminal de Ônibus</p>
+                <p>- Avenida Senador Teotônio Vilela</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -7465,9 +6888,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#liggra">
           Ligar
         </button>
@@ -7491,8 +6911,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -7560,32 +6978,25 @@
                   Tel:. (11) 5665-8127 / 5665-8247
                   8.8 Km de distancia da Estação
                 </p>
-
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 id="MVN" style="text-align: center;">MENDES VILA NATAL (MVN)</h1>
       <p style="text-align: center;"><strong>Endereço: </strong> Estr. Dos Mendes, 92 - Jardim Icarai, São Paulo - SP,
         04860-140</p>
-
       <div style="justify-content: space-around; display: flex;">
         <a type="button" class="btn btn-primary"
           href="https://www.google.com/maps/place/Bruno+Covas-Mendes%2FVila+Natal/@-23.7546813,-46.706629,16z/data=!4m6!3m5!1s0x94ce4ed8061d4a09:0xcfdbe86fbaab54f8!8m2!3d-23.75475!4d-46.70944!16s%2Fg%2F1yw9kt9dk?entry=ttu&g_ep=EgoyMDI0MTExOC4wIKXMDSoASAFQAw%3D%3D"
           target="_blank">Mapa da região</a>
-
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#acessmvn">
           Acessibilidade
         </button>
@@ -7602,11 +7013,11 @@
               <div class="modal-body">
                 <p><strong>Sanitário Público:</strong> Sim</p>
                 <p><strong>Piso tátil:</strong> Sim</p>
-                <p><strong>Telefone adaptado para PCR:</strong> Sim</p>
+                <p><strong>Telefone adaptado para PCR:</strong> Não</p>
                 <p><strong>Rampa:</strong> Sim</p>
-                <p><strong>Elevadores:</strong> Não</p>
-                <p><strong>Escadas rolantes:</strong> Não</p>
-                <p><strong>Escadas físicas:</strong> Não</p>
+                <p><strong>Elevadores:</strong> Sim</p>
+                <p><strong>Escadas rolantes:</strong> Sim</p>
+                <p><strong>Escadas fixas:</strong> Sim</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -7614,7 +7025,6 @@
             </div>
           </div>
         </div>
-
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#pontmvn">
           Pontos de Referência
         </button>
@@ -7629,10 +7039,8 @@
                 </button>
               </div>
               <div class="modal-body">
-                <p>- Rua Santa Efigênia</p>
-                <p>- Sala São Paulo</p>
-                <p>- Estação da Luz (Acesso as linhas 1, 4, 10 e 11)</p>
-                <p>- Rua Santa Efigênia</p>
+                <p>- Terminal de Ônibus</p>
+                <p>- Avenida Senador Teotônio Vilela</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -7640,9 +7048,6 @@
             </div>
           </div>
         </div>
-
-
-
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#ligmvn">
           Ligar
         </button>
@@ -7666,8 +7071,6 @@
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-
               </div>
             </div>
           </div>
@@ -7725,24 +7128,18 @@
                   Tel:.
                   4.4 Km de distancia da Estação
                 </p>
-
-
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
-
   <div id="telefones" class="p-3 mb-2 bg-dark text-white" style="text-align: center;"><strong>TELEFONES ÚTEIS</strong>
   </div>
-
   <table class="table">
     <thead>
       <tr>
@@ -7803,9 +7200,6 @@
       </tr>
     </tbody>
   </table>
-
-
-
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
     integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
     crossorigin="anonymous"></script>
@@ -7816,5 +7210,4 @@
     integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
     crossorigin="anonymous"></script>
 </body>
-
-</html>n
+</html>
